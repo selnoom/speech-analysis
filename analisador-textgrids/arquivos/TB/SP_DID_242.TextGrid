@@ -1,0 +1,3674 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2603.32 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TB-doc1" 
+        xmin = 0 
+        xmax = 2603.32 
+        intervals: size = 253 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13195793941626482 
+            text = "..." 
+        intervals [2]:
+            xmin = 0.13195793941626482 
+            xmax = 6.453791666666667 
+            text = "Heloísa eu gostaria de saber... éh... como a senhora entrou para esco::la e com que ida::de por exemplo?" 
+        intervals [3]:
+            xmin = 6.453791666666667 
+            xmax = 13.957958338002122 
+            text = "..." 
+        intervals [4]:
+            xmin = 13.957958338002122 
+            xmax = 14.333483501001117 
+            text = "uhum" 
+        intervals [5]:
+            xmin = 14.333483501001117 
+            xmax = 22.620372484272206 
+            text = "..." 
+        intervals [6]:
+            xmin = 22.620372484272206 
+            xmax = 23.480874999999997 
+            text = "uhum" 
+        intervals [7]:
+            xmin = 23.480874999999997 
+            xmax = 34.95246141460142 
+            text = "..." 
+        intervals [8]:
+            xmin = 34.95246141460142 
+            xmax = 35.79504166666667 
+            text = "uhum" 
+        intervals [9]:
+            xmin = 35.79504166666667 
+            xmax = 56.11983634179074 
+            text = "..." 
+        intervals [10]:
+            xmin = 56.11983634179074 
+            xmax = 57.254416666666664 
+            text = "( )" 
+        intervals [11]:
+            xmin = 57.254416666666664 
+            xmax = 64.21551086699237 
+            text = "..." 
+        intervals [12]:
+            xmin = 64.21551086699237 
+            xmax = 65.04820833333333 
+            text = "uhum" 
+        intervals [13]:
+            xmin = 65.04820833333333 
+            xmax = 67.59164273506936 
+            text = "..." 
+        intervals [14]:
+            xmin = 67.59164273506936 
+            xmax = 68.11315281209468 
+            text = "certo" 
+        intervals [15]:
+            xmin = 68.11315281209468 
+            xmax = 68.39821740523597 
+            text = "..." 
+        intervals [16]:
+            xmin = 68.39821740523597 
+            xmax = 79.63449566993235 
+            text = "agora... depois desse curso... a senhora continuou a estudar:: certo? e tem/ e teve uma formação universitária gostaria de... que a senhora falasse... os CURsos que a senhora fez até então" 
+        intervals [17]:
+            xmin = 79.63449566993235 
+            xmax = 87.9746487334451 
+            text = "..." 
+        intervals [18]:
+            xmin = 87.9746487334451 
+            xmax = 88.67862043128872 
+            text = "uhum" 
+        intervals [19]:
+            xmin = 88.67862043128872 
+            xmax = 119.3579717366673 
+            text = "..." 
+        intervals [20]:
+            xmin = 119.3579717366673 
+            xmax = 119.84535416666667 
+            text = "uhum" 
+        intervals [21]:
+            xmin = 119.84535416666667 
+            xmax = 125.08196754241217 
+            text = "..." 
+        intervals [22]:
+            xmin = 125.08196754241217 
+            xmax = 125.80152083333333 
+            text = "( )" 
+        intervals [23]:
+            xmin = 125.80152083333333 
+            xmax = 172.70697646830106 
+            text = "..." 
+        intervals [24]:
+            xmin = 172.70697646830106 
+            xmax = 173.454625 
+            text = "(sim)" 
+        intervals [25]:
+            xmin = 173.454625 
+            xmax = 189.5359375 
+            text = "..." 
+        intervals [26]:
+            xmin = 189.5359375 
+            xmax = 190.29037499999998 
+            text = "uhum" 
+        intervals [27]:
+            xmin = 190.29037499999998 
+            xmax = 203.31827510816956 
+            text = "..." 
+        intervals [28]:
+            xmin = 203.31827510816956 
+            xmax = 203.7306875 
+            text = "uhum" 
+        intervals [29]:
+            xmin = 203.7306875 
+            xmax = 204.0163144332868 
+            text = "..." 
+        intervals [30]:
+            xmin = 204.0163144332868 
+            xmax = 210.40518749999998 
+            text = "eu gostaria que a senhora indicasse a:: --por que a senhora tem alguns livros publicados né?-- eu gostaria que a senhora dissesse alguma coisa" 
+        intervals [31]:
+            xmin = 210.40518749999998 
+            xmax = 219.50978161034166 
+            text = "..." 
+        intervals [32]:
+            xmin = 219.50978161034166 
+            xmax = 220.15866666666665 
+            text = "uhum" 
+        intervals [33]:
+            xmin = 220.15866666666665 
+            xmax = 335.27094333627593 
+            text = "..." 
+        intervals [34]:
+            xmin = 335.27094333627593 
+            xmax = 335.83422916666666 
+            text = "uhum" 
+        intervals [35]:
+            xmin = 335.83422916666666 
+            xmax = 353.7897843676575 
+            text = "..." 
+        intervals [36]:
+            xmin = 353.7897843676575 
+            xmax = 354.442125 
+            text = "uhum" 
+        intervals [37]:
+            xmin = 354.442125 
+            xmax = 457.2496875 
+            text = "..." 
+        intervals [38]:
+            xmin = 457.2496875 
+            xmax = 457.74779166666667 
+            text = "certo" 
+        intervals [39]:
+            xmin = 457.74779166666667 
+            xmax = 458.1238659773734 
+            text = "..." 
+        intervals [40]:
+            xmin = 458.1238659773734 
+            xmax = 467.6346458333333 
+            text = "a senhora que passou grande parte... éh se dedicando ao Mackenzie... eu gostaria de saber COmo foi a época... de éh a senhora como aluna" 
+        intervals [41]:
+            xmin = 467.6346458333333 
+            xmax = 467.94087804028794 
+            text = "..." 
+        intervals [42]:
+            xmin = 467.94087804028794 
+            xmax = 474.489375 
+            text = "a época... o ensino... na sua época e o ensino atual no Mackenzie houve GRANdes modificações?" 
+        intervals [43]:
+            xmin = 474.489375 
+            xmax = 503.2501719764297 
+            text = "..." 
+        intervals [44]:
+            xmin = 503.2501719764297 
+            xmax = 503.718125 
+            text = "uhum" 
+        intervals [45]:
+            xmin = 503.718125 
+            xmax = 511.3454902463899 
+            text = "..." 
+        intervals [46]:
+            xmin = 511.3454902463899 
+            xmax = 511.803875 
+            text = "uhum" 
+        intervals [47]:
+            xmin = 511.803875 
+            xmax = 528.813709898199 
+            text = "..." 
+        intervals [48]:
+            xmin = 528.813709898199 
+            xmax = 529.3973125 
+            text = "(an)" 
+        intervals [49]:
+            xmin = 529.3973125 
+            xmax = 542.2789421227397 
+            text = "..." 
+        intervals [50]:
+            xmin = 542.2789421227397 
+            xmax = 543.0060416666666 
+            text = "uhum" 
+        intervals [51]:
+            xmin = 543.0060416666666 
+            xmax = 577.9527732118967 
+            text = "..." 
+        intervals [52]:
+            xmin = 577.9527732118967 
+            xmax = 578.2540165734438 
+            text = "uhum" 
+        intervals [53]:
+            xmin = 578.2540165734438 
+            xmax = 628.7823746983125 
+            text = "..." 
+        intervals [54]:
+            xmin = 628.7823746983125 
+            xmax = 629.3291666666667 
+            text = "uhum" 
+        intervals [55]:
+            xmin = 629.3291666666667 
+            xmax = 684.7223118109769 
+            text = "..." 
+        intervals [56]:
+            xmin = 684.7223118109769 
+            xmax = 685.3638958333333 
+            text = "uhum" 
+        intervals [57]:
+            xmin = 685.3638958333333 
+            xmax = 840.1134156969508 
+            text = "..." 
+        intervals [58]:
+            xmin = 840.1134156969508 
+            xmax = 840.540586065338 
+            text = "certo" 
+        intervals [59]:
+            xmin = 840.540586065338 
+            xmax = 840.9041353150292 
+            text = "..." 
+        intervals [60]:
+            xmin = 840.9041353150292 
+            xmax = 842.9504677332803 
+            text = "e como eram os professores naquela época?" 
+        intervals [61]:
+            xmin = 842.9504677332803 
+            xmax = 844.38 
+            text = "exigentes demais ou não?" 
+        intervals [62]:
+            xmin = 844.38 
+            xmax = 853.0377110999227 
+            text = "..." 
+        intervals [63]:
+            xmin = 853.0377110999227 
+            xmax = 853.4134462640271 
+            text = "uhum" 
+        intervals [64]:
+            xmin = 853.4134462640271 
+            xmax = 857.741365869105 
+            text = "..." 
+        intervals [65]:
+            xmin = 857.741365869105 
+            xmax = 858.2303043450381 
+            text = "ah certo" 
+        intervals [66]:
+            xmin = 858.2303043450381 
+            xmax = 858.6206874999999 
+            text = "..." 
+        intervals [67]:
+            xmin = 858.6206874999999 
+            xmax = 863.2128202426419 
+            text = "e os ti/ a senhora disse dos trabalhos... agora existia alguma outro tipo de avaliação?" 
+        intervals [68]:
+            xmin = 863.2128202426419 
+            xmax = 865.1706297524565 
+            text = "..." 
+        intervals [69]:
+            xmin = 865.1706297524565 
+            xmax = 865.9020382575 
+            text = "para nota?" 
+        intervals [70]:
+            xmin = 865.9020382575 
+            xmax = 872.7667916666667 
+            text = "..." 
+        intervals [71]:
+            xmin = 872.7667916666667 
+            xmax = 874.1486041666666 
+            text = "(eram os trabalhos?)" 
+        intervals [72]:
+            xmin = 874.1486041666666 
+            xmax = 888.4643941206245 
+            text = "..." 
+        intervals [73]:
+            xmin = 888.4643941206245 
+            xmax = 888.9932916666667 
+            text = "uhum" 
+        intervals [74]:
+            xmin = 888.9932916666667 
+            xmax = 895.4089429495473 
+            text = "..." 
+        intervals [75]:
+            xmin = 895.4089429495473 
+            xmax = 895.8651458333333 
+            text = "certo" 
+        intervals [76]:
+            xmin = 895.8651458333333 
+            xmax = 902.469448673256 
+            text = "..." 
+        intervals [77]:
+            xmin = 902.469448673256 
+            xmax = 902.9914791666666 
+            text = "uhum" 
+        intervals [78]:
+            xmin = 902.9914791666666 
+            xmax = 903.5443228481568 
+            text = "..." 
+        intervals [79]:
+            xmin = 903.5443228481568 
+            xmax = 907.1133541666667 
+            text = "e como é que foi o encerramento do curso no Mackenzie?" 
+        intervals [80]:
+            xmin = 907.1133541666667 
+            xmax = 907.2139736642625 
+            text = "..." 
+        intervals [81]:
+            xmin = 907.2139736642625 
+            xmax = 908.1243333333333 
+            text = "a turma" 
+        intervals [82]:
+            xmin = 908.1243333333333 
+            xmax = 910.8074381254935 
+            text = "..." 
+        intervals [83]:
+            xmin = 910.8074381254935 
+            xmax = 911.8721540240109 
+            text = "do curso mesmo" 
+        intervals [84]:
+            xmin = 911.8721540240109 
+            xmax = 915.141625 
+            text = "quando vocês TERminaram... o curso como é que foi?" 
+        intervals [85]:
+            xmin = 915.141625 
+            xmax = 915.6420416666666 
+            text = "..." 
+        intervals [86]:
+            xmin = 915.6420416666666 
+            xmax = 917.3451458333333 
+            text = "houve alguma fe::sta?" 
+        intervals [87]:
+            xmin = 917.3451458333333 
+            xmax = 967.1433958333333 
+            text = "..." 
+        intervals [88]:
+            xmin = 967.1433958333333 
+            xmax = 967.604875 
+            text = "uhum" 
+        intervals [89]:
+            xmin = 967.604875 
+            xmax = 979.5876813056436 
+            text = "..." 
+        intervals [90]:
+            xmin = 979.5876813056436 
+            xmax = 980.0872916666666 
+            text = "certo" 
+        intervals [91]:
+            xmin = 980.0872916666666 
+            xmax = 980.6962781306214 
+            text = "..." 
+        intervals [92]:
+            xmin = 980.6962781306214 
+            xmax = 991.4330189040342 
+            text = "agora eu gostaria de saber o seguinte... naquela época uma vez que o a turma... encerrou o curso tal... muitos alunos foram pras faculdades?" 
+        intervals [93]:
+            xmin = 991.4330189040342 
+            xmax = 992.0212539540224 
+            text = "dessa turma?" 
+        intervals [94]:
+            xmin = 992.0212539540224 
+            xmax = 994.0122033539826 
+            text = "a senhora disse que saíram grandes nomes né?" 
+        intervals [95]:
+            xmin = 994.0122033539826 
+            xmax = 994.2726041666666 
+            text = "..." 
+        intervals [96]:
+            xmin = 994.2726041666666 
+            xmax = 995.6038976029537 
+            text = "quais faculdades?" 
+        intervals [97]:
+            xmin = 995.6038976029537 
+            xmax = 1006.3296875 
+            text = "..." 
+        intervals [98]:
+            xmin = 1006.3296875 
+            xmax = 1006.9189583333333 
+            text = "uhum" 
+        intervals [99]:
+            xmin = 1006.9189583333333 
+            xmax = 1021.8832379112082 
+            text = "..." 
+        intervals [100]:
+            xmin = 1021.8832379112082 
+            xmax = 1022.4809166666666 
+            text = "(uhum)" 
+        intervals [101]:
+            xmin = 1022.4809166666666 
+            xmax = 1025.5424791666665 
+            text = "..." 
+        intervals [102]:
+            xmin = 1025.5424791666665 
+            xmax = 1027.23853932793 
+            text = "(tinha) arquitetura e?" 
+        intervals [103]:
+            xmin = 1027.23853932793 
+            xmax = 1027.5849626166807 
+            text = "..." 
+        intervals [104]:
+            xmin = 1027.5849626166807 
+            xmax = 1028.1654791666665 
+            text = "(ah é?)" 
+        intervals [105]:
+            xmin = 1028.1654791666665 
+            xmax = 1049.653264412532 
+            text = "..." 
+        intervals [106]:
+            xmin = 1049.653264412532 
+            xmax = 1050.2567708333331 
+            text = "an" 
+        intervals [107]:
+            xmin = 1050.2567708333331 
+            xmax = 1120.2522291666664 
+            text = "..." 
+        intervals [108]:
+            xmin = 1120.2522291666664 
+            xmax = 1120.8199166666666 
+            text = "uhum" 
+        intervals [109]:
+            xmin = 1120.8199166666666 
+            xmax = 1127.8585973752588 
+            text = "..." 
+        intervals [110]:
+            xmin = 1127.8585973752588 
+            xmax = 1128.3859166666666 
+            text = "( )" 
+        intervals [111]:
+            xmin = 1128.3859166666666 
+            xmax = 1128.669878414543 
+            text = "..." 
+        intervals [112]:
+            xmin = 1128.669878414543 
+            xmax = 1132.0247916666665 
+            text = "e vocês recebiam alguma orientação religiosa?" 
+        intervals [113]:
+            xmin = 1132.0247916666665 
+            xmax = 1162.4922731844374 
+            text = "..." 
+        intervals [114]:
+            xmin = 1162.4922731844374 
+            xmax = 1162.8728124999998 
+            text = "uhum" 
+        intervals [115]:
+            xmin = 1162.8728124999998 
+            xmax = 1177.0322933038456 
+            text = "..." 
+        intervals [116]:
+            xmin = 1177.0322933038456 
+            xmax = 1177.5545624999997 
+            text = "(uhum)" 
+        intervals [117]:
+            xmin = 1177.5545624999997 
+            xmax = 1205.4943622760447 
+            text = "..." 
+        intervals [118]:
+            xmin = 1205.4943622760447 
+            xmax = 1206.012700885633 
+            text = "uhum" 
+        intervals [119]:
+            xmin = 1206.012700885633 
+            xmax = 1222.8034233303056 
+            text = "..." 
+        intervals [120]:
+            xmin = 1222.8034233303056 
+            xmax = 1223.357437691589 
+            text = "uhum" 
+        intervals [121]:
+            xmin = 1223.357437691589 
+            xmax = 1240.3898129559745 
+            text = "..." 
+        intervals [122]:
+            xmin = 1240.3898129559745 
+            xmax = 1243.0756360251116 
+            text = "agora... existe um ritual da Igreja Católica?" 
+        intervals [123]:
+            xmin = 1243.0756360251116 
+            xmax = 1245.8401041666666 
+            text = "a senhora disse que é católica né? existe algum ritual?" 
+        intervals [124]:
+            xmin = 1245.8401041666666 
+            xmax = 1247.1487497719147 
+            text = "..." 
+        intervals [125]:
+            xmin = 1247.1487497719147 
+            xmax = 1249.7419497891565 
+            text = "como é... a:: a religião católica?" 
+        intervals [126]:
+            xmin = 1249.7419497891565 
+            xmax = 1249.9398244892673 
+            text = "..." 
+        intervals [127]:
+            xmin = 1249.9398244892673 
+            xmax = 1251.1583160636337 
+            text = "em termos gerais" 
+        intervals [128]:
+            xmin = 1251.1583160636337 
+            xmax = 1392.4339384817852 
+            text = "..." 
+        intervals [129]:
+            xmin = 1392.4339384817852 
+            xmax = 1394.260953442061 
+            text = "certo... a senhora disse que acredita em Deus" 
+        intervals [130]:
+            xmin = 1394.260953442061 
+            xmax = 1394.5426888665943 
+            text = "..." 
+        intervals [131]:
+            xmin = 1394.5426888665943 
+            xmax = 1400.0084375 
+            text = "mas ahn::... qual seria o representante de DEUS na Terra... segundo a religiã-o... católica?" 
+        intervals [132]:
+            xmin = 1400.0084375 
+            xmax = 1494.5375445955742 
+            text = "..." 
+        intervals [133]:
+            xmin = 1494.5375445955742 
+            xmax = 1495.0039825590954 
+            text = "certo" 
+        intervals [134]:
+            xmin = 1495.0039825590954 
+            xmax = 1495.238519359579 
+            text = "..." 
+        intervals [135]:
+            xmin = 1495.238519359579 
+            xmax = 1497.8207478422628 
+            text = "agora a senhora conhece outras religiões?" 
+        intervals [136]:
+            xmin = 1497.8207478422628 
+            xmax = 1500.1456041666665 
+            text = "já ouviu já leu alguma coisa?" 
+        intervals [137]:
+            xmin = 1500.1456041666665 
+            xmax = 1546.7694649029488 
+            text = "..." 
+        intervals [138]:
+            xmin = 1546.7694649029488 
+            xmax = 1547.1845833333332 
+            text = "uhum" 
+        intervals [139]:
+            xmin = 1547.1845833333332 
+            xmax = 1567.7671361708374 
+            text = "..." 
+        intervals [140]:
+            xmin = 1567.7671361708374 
+            xmax = 1569.4129166666664 
+            text = "é parecida em que termos?" 
+        intervals [141]:
+            xmin = 1569.4129166666664 
+            xmax = 1573.8831778603815 
+            text = "..." 
+        intervals [142]:
+            xmin = 1573.8831778603815 
+            xmax = 1574.3633541666666 
+            text = "uhum" 
+        intervals [143]:
+            xmin = 1574.3633541666666 
+            xmax = 1611.2670173277397 
+            text = "..." 
+        intervals [144]:
+            xmin = 1611.2670173277397 
+            xmax = 1611.7523830815746 
+            text = "certo" 
+        intervals [145]:
+            xmin = 1611.7523830815746 
+            xmax = 1612.1416868632964 
+            text = "..." 
+        intervals [146]:
+            xmin = 1612.1416868632964 
+            xmax = 1614.897148694963 
+            text = "a senhora consideraria o umbanda religião?" 
+        intervals [147]:
+            xmin = 1614.897148694963 
+            xmax = 1628.9104204260886 
+            text = "..." 
+        intervals [148]:
+            xmin = 1628.9104204260886 
+            xmax = 1629.4049791666664 
+            text = "uhum" 
+        intervals [149]:
+            xmin = 1629.4049791666664 
+            xmax = 1646.5589738036097 
+            text = "..." 
+        intervals [150]:
+            xmin = 1646.5589738036097 
+            xmax = 1647.0115413433082 
+            text = "uhum" 
+        intervals [151]:
+            xmin = 1647.0115413433082 
+            xmax = 1669.5445554519722 
+            text = "..." 
+        intervals [152]:
+            xmin = 1669.5445554519722 
+            xmax = 1670.1084999999998 
+            text = "( )" 
+        intervals [153]:
+            xmin = 1670.1084999999998 
+            xmax = 1696.1968265676483 
+            text = "..." 
+        intervals [154]:
+            xmin = 1696.1968265676483 
+            xmax = 1696.5830624999999 
+            text = "uhum" 
+        intervals [155]:
+            xmin = 1696.5830624999999 
+            xmax = 1699.66 
+            text = "..." 
+        intervals [156]:
+            xmin = 1699.66 
+            xmax = 1699.8441220925602 
+            text = "certo" 
+        intervals [157]:
+            xmin = 1699.8441220925602 
+            xmax = 1709.2831458333333 
+            text = "agora ahn parece --ou é--... que o nosso calendário... o calendário brasileiro né?... éh tem uma certa ligação com a religião católica não?" 
+        intervals [158]:
+            xmin = 1709.2831458333333 
+            xmax = 1712.4053749999998 
+            text = "os feriados... datas" 
+        intervals [159]:
+            xmin = 1712.4053749999998 
+            xmax = 1738.2865000775043 
+            text = "..." 
+        intervals [160]:
+            xmin = 1738.2865000775043 
+            xmax = 1738.6744151115315 
+            text = "uhum" 
+        intervals [161]:
+            xmin = 1738.6744151115315 
+            xmax = 1764.598621191122 
+            text = "..." 
+        intervals [162]:
+            xmin = 1764.598621191122 
+            xmax = 1765.0353541666666 
+            text = "uhum" 
+        intervals [163]:
+            xmin = 1765.0353541666666 
+            xmax = 1769.4475591164633 
+            text = "..." 
+        intervals [164]:
+            xmin = 1769.4475591164633 
+            xmax = 1769.969708333333 
+            text = "uhum" 
+        intervals [165]:
+            xmin = 1769.969708333333 
+            xmax = 1773.9447043290452 
+            text = "..." 
+        intervals [166]:
+            xmin = 1773.9447043290452 
+            xmax = 1781.7777973804677 
+            text = "e a senhora que viajou para outros países... inclusive Europa... a senhora percebe alguma coisa nesse sentido?" 
+        intervals [167]:
+            xmin = 1781.7777973804677 
+            xmax = 1788.819482655575 
+            text = "as datas... oficiais ahn:: ah segundo a religião ou seria assim mais o Brasil?" 
+        intervals [168]:
+            xmin = 1788.819482655575 
+            xmax = 1803.0415588500457 
+            text = "..." 
+        intervals [169]:
+            xmin = 1803.0415588500457 
+            xmax = 1803.591105148251 
+            text = "(uhum)" 
+        intervals [170]:
+            xmin = 1803.591105148251 
+            xmax = 1806.8099083178556 
+            text = "..." 
+        intervals [171]:
+            xmin = 1806.8099083178556 
+            xmax = 1807.372375 
+            text = "(ah é?)" 
+        intervals [172]:
+            xmin = 1807.372375 
+            xmax = 1822.7381121002877 
+            text = "..." 
+        intervals [173]:
+            xmin = 1822.7381121002877 
+            xmax = 1823.1250901018454 
+            text = "uhum" 
+        intervals [174]:
+            xmin = 1823.1250901018454 
+            xmax = 1824.337621173393 
+            text = "..." 
+        intervals [175]:
+            xmin = 1824.337621173393 
+            xmax = 1825.5145349430393 
+            text = "e qual era o interesse?" 
+        intervals [176]:
+            xmin = 1825.5145349430393 
+            xmax = 1831.6975834568173 
+            text = "qual era o povo qual foi o povo que a senhora achou que... demonstrou maior interesse pela religião?" 
+        intervals [177]:
+            xmin = 1831.6975834568173 
+            xmax = 1855.8058628428341 
+            text = "..." 
+        intervals [178]:
+            xmin = 1855.8058628428341 
+            xmax = 1856.2315624999999 
+            text = "( )" 
+        intervals [179]:
+            xmin = 1856.2315624999999 
+            xmax = 1889.007321507669 
+            text = "..." 
+        intervals [180]:
+            xmin = 1889.007321507669 
+            xmax = 1889.4324583333332 
+            text = "uhum" 
+        intervals [181]:
+            xmin = 1889.4324583333332 
+            xmax = 1899.876283306514 
+            text = "..." 
+        intervals [182]:
+            xmin = 1899.876283306514 
+            xmax = 1900.3704744546353 
+            text = "está certo" 
+        intervals [183]:
+            xmin = 1900.3704744546353 
+            xmax = 1900.7154054741677 
+            text = "..." 
+        intervals [184]:
+            xmin = 1900.7154054741677 
+            xmax = 1902.5828636315928 
+            text = "a senhora disse que foi batizada né?" 
+        intervals [185]:
+            xmin = 1902.5828636315928 
+            xmax = 1903.052458333333 
+            text = "..." 
+        intervals [186]:
+            xmin = 1903.052458333333 
+            xmax = 1909.0325208333331 
+            text = "agora dentro da religião CATÓlica(...) além do batismo existe alguma coisa mais?" 
+        intervals [187]:
+            xmin = 1909.0325208333331 
+            xmax = 1913.38889887246 
+            text = "..." 
+        intervals [188]:
+            xmin = 1913.38889887246 
+            xmax = 1913.820626708962 
+            text = "(uhum)" 
+        intervals [189]:
+            xmin = 1913.820626708962 
+            xmax = 1920.8125385093588 
+            text = "..." 
+        intervals [190]:
+            xmin = 1920.8125385093588 
+            xmax = 1921.1602916666666 
+            text = "(uhum)" 
+        intervals [191]:
+            xmin = 1921.1602916666666 
+            xmax = 1951.8767183070015 
+            text = "..." 
+        intervals [192]:
+            xmin = 1951.8767183070015 
+            xmax = 1953.1918065440536 
+            text = "eu gostaria que a senhora éh" 
+        intervals [193]:
+            xmin = 1953.1918065440536 
+            xmax = 1963.7781666666665 
+            text = "digamos o seguinte que eu desconhecesse... --a senhora disse que existe missa né?-- digamos que eu desconhecesse... e/ o assunto... o que é uma missa?" 
+        intervals [194]:
+            xmin = 1963.7781666666665 
+            xmax = 1996.2900188783221 
+            text = "..." 
+        intervals [195]:
+            xmin = 1996.2900188783221 
+            xmax = 1996.8080833333331 
+            text = "(certo)" 
+        intervals [196]:
+            xmin = 1996.8080833333331 
+            xmax = 2007.1580908488586 
+            text = "..." 
+        intervals [197]:
+            xmin = 2007.1580908488586 
+            xmax = 2008.4721874999998 
+            text = "( )" 
+        intervals [198]:
+            xmin = 2008.4721874999998 
+            xmax = 2020.2276650932938 
+            text = "..." 
+        intervals [199]:
+            xmin = 2020.2276650932938 
+            xmax = 2022.4154583333332 
+            text = "não eu eu não quero os detalhes" 
+        intervals [200]:
+            xmin = 2022.4154583333332 
+            xmax = 2029.5171030486529 
+            text = "digamos... não ahn por acas/ então... por perguntas... quem é que realiza uma missa?" 
+        intervals [201]:
+            xmin = 2029.5171030486529 
+            xmax = 2043.7327525922171 
+            text = "..." 
+        intervals [202]:
+            xmin = 2043.7327525922171 
+            xmax = 2044.1525208333333 
+            text = "(conhece?)" 
+        intervals [203]:
+            xmin = 2044.1525208333333 
+            xmax = 2057.0673878771095 
+            text = "..." 
+        intervals [204]:
+            xmin = 2057.0673878771095 
+            xmax = 2057.742625 
+            text = "( )" 
+        intervals [205]:
+            xmin = 2057.742625 
+            xmax = 2061.1243326079784 
+            text = "..." 
+        intervals [206]:
+            xmin = 2061.1243326079784 
+            xmax = 2061.4938541666666 
+            text = "( )" 
+        intervals [207]:
+            xmin = 2061.4938541666666 
+            xmax = 2063.8559009725873 
+            text = "..." 
+        intervals [208]:
+            xmin = 2063.8559009725873 
+            xmax = 2064.6464791666663 
+            text = "(certo)" 
+        intervals [209]:
+            xmin = 2064.6464791666663 
+            xmax = 2065.3201902268015 
+            text = "..." 
+        intervals [210]:
+            xmin = 2065.3201902268015 
+            xmax = 2070.63216502097 
+            text = "agora existe a participação... de grande número de pessoas ou não?" 
+        intervals [211]:
+            xmin = 2070.63216502097 
+            xmax = 2070.997586105804 
+            text = "..." 
+        intervals [212]:
+            xmin = 2070.997586105804 
+            xmax = 2072.7340960256356 
+            text = "e como é essa participação?" 
+        intervals [213]:
+            xmin = 2072.7340960256356 
+            xmax = 2073.2612083333333 
+            text = "..." 
+        intervals [214]:
+            xmin = 2073.2612083333333 
+            xmax = 2074.2388541666664 
+            text = "se houver" 
+        intervals [215]:
+            xmin = 2074.2388541666664 
+            xmax = 2105.2420883145255 
+            text = "..." 
+        intervals [216]:
+            xmin = 2105.2420883145255 
+            xmax = 2105.882458333333 
+            text = "uhum" 
+        intervals [217]:
+            xmin = 2105.882458333333 
+            xmax = 2107.1462791113217 
+            text = "..." 
+        intervals [218]:
+            xmin = 2107.1462791113217 
+            xmax = 2111.08 
+            text = "então continuando com a participação da missa que nós estamos falando né?" 
+        intervals [219]:
+            xmin = 2111.08 
+            xmax = 2113.021332289569 
+            text = "a senhora disse das das freiras tal" 
+        intervals [220]:
+            xmin = 2113.021332289569 
+            xmax = 2148.3192732108428 
+            text = "..." 
+        intervals [221]:
+            xmin = 2148.3192732108428 
+            xmax = 2148.818458333333 
+            text = "uhum" 
+        intervals [222]:
+            xmin = 2148.818458333333 
+            xmax = 2265.4407764228545 
+            text = "..." 
+        intervals [223]:
+            xmin = 2265.4407764228545 
+            xmax = 2266.0042083333333 
+            text = "uhum" 
+        intervals [224]:
+            xmin = 2266.0042083333333 
+            xmax = 2364.492176356963 
+            text = "..." 
+        intervals [225]:
+            xmin = 2364.492176356963 
+            xmax = 2365.5189641379084 
+            text = "e as igrejas?" 
+        intervals [226]:
+            xmin = 2365.5189641379084 
+            xmax = 2370.2105944600758 
+            text = "a apresentação das igrejas... é a mesma de antigamente?" 
+        intervals [227]:
+            xmin = 2370.2105944600758 
+            xmax = 2495.6670000083027 
+            text = "..." 
+        intervals [228]:
+            xmin = 2495.6670000083027 
+            xmax = 2497.984645833333 
+            text = "a senhora conhece a igreja de Brasília?" 
+        intervals [229]:
+            xmin = 2497.984645833333 
+            xmax = 2498.502275582814 
+            text = "..." 
+        intervals [230]:
+            xmin = 2498.502275582814 
+            xmax = 2499.191770833333 
+            text = "conhece?" 
+        intervals [231]:
+            xmin = 2499.191770833333 
+            xmax = 2500.3487050464614 
+            text = "..." 
+        intervals [232]:
+            xmin = 2500.3487050464614 
+            xmax = 2500.8912577798556 
+            text = "( )" 
+        intervals [233]:
+            xmin = 2500.8912577798556 
+            xmax = 2521.0493172846245 
+            text = "..." 
+        intervals [234]:
+            xmin = 2521.0493172846245 
+            xmax = 2521.92 
+            text = "e como é?" 
+        intervals [235]:
+            xmin = 2521.92 
+            xmax = 2522.164567934325 
+            text = "..." 
+        intervals [236]:
+            xmin = 2522.164567934325 
+            xmax = 2525.391708333333 
+            text = "como é a o formato a arquitetura da (igreja)?" 
+        intervals [237]:
+            xmin = 2525.391708333333 
+            xmax = 2540.073440673314 
+            text = "..." 
+        intervals [238]:
+            xmin = 2540.073440673314 
+            xmax = 2540.7423541666662 
+            text = "uhum" 
+        intervals [239]:
+            xmin = 2540.7423541666662 
+            xmax = 2544.5086061130064 
+            text = "..." 
+        intervals [240]:
+            xmin = 2544.5086061130064 
+            xmax = 2545.0973541666663 
+            text = "uhum" 
+        intervals [241]:
+            xmin = 2545.0973541666663 
+            xmax = 2568.2157157244624 
+            text = "..." 
+        intervals [242]:
+            xmin = 2568.2157157244624 
+            xmax = 2569.9153541666665 
+            text = "mas há bancos na igreja?" 
+        intervals [243]:
+            xmin = 2569.9153541666665 
+            xmax = 2570.252660302474 
+            text = "..." 
+        intervals [244]:
+            xmin = 2570.252660302474 
+            xmax = 2571.1633383477915 
+            text = "há bancos?" 
+        intervals [245]:
+            xmin = 2571.1633383477915 
+            xmax = 2571.45369946369 
+            text = "..." 
+        intervals [246]:
+            xmin = 2571.45369946369 
+            xmax = 2571.8111666666664 
+            text = "não?" 
+        intervals [247]:
+            xmin = 2571.8111666666664 
+            xmax = 2572.258424765289 
+            text = "..." 
+        intervals [248]:
+            xmin = 2572.258424765289 
+            xmax = 2573.576987463576 
+            text = "( )" 
+        intervals [249]:
+            xmin = 2573.576987463576 
+            xmax = 2574.476007485135 
+            text = "..." 
+        intervals [250]:
+            xmin = 2574.476007485135 
+            xmax = 2575.8687916666663 
+            text = "(ah:: sim)" 
+        intervals [251]:
+            xmin = 2575.8687916666663 
+            xmax = 2590.490383933021 
+            text = "..." 
+        intervals [252]:
+            xmin = 2590.490383933021 
+            xmax = 2591.2261458333332 
+            text = "uhum" 
+        intervals [253]:
+            xmin = 2591.2261458333332 
+            xmax = 2603.32 
+            text = "..." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "TB-l1" 
+        xmin = 0 
+        xmax = 2603.32 
+        intervals: size = 602 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.654481009201413 
+            text = "..." 
+        intervals [2]:
+            xmin = 8.654481009201413 
+            xmax = 10.907663619461404 
+            text = "eu entrei com sete anos" 
+        intervals [3]:
+            xmin = 10.907663619461404 
+            xmax = 11.005895013914156 
+            text = "..." 
+        intervals [4]:
+            xmin = 11.005895013914156 
+            xmax = 13.682700512751637 
+            text = "porque... antes disso eu vivi na fazenda" 
+        intervals [5]:
+            xmin = 13.682700512751637 
+            xmax = 14.333483501001117 
+            text = "..." 
+        intervals [6]:
+            xmin = 14.333483501001117 
+            xmax = 22.377166666666664 
+            text = "chegando a São Paulo... eu... fui para um colégio... de orientação americana... e:: fiz o meu primeiro ano" 
+        intervals [7]:
+            xmin = 22.377166666666664 
+            xmax = 23.687719922850825 
+            text = "..." 
+        intervals [8]:
+            xmin = 23.687719922850825 
+            xmax = 25.264562499999997 
+            text = "foi onde eu aprendi a ler" 
+        intervals [9]:
+            xmin = 25.264562499999997 
+            xmax = 26.275504940657502 
+            text = "..." 
+        intervals [10]:
+            xmin = 26.275504940657502 
+            xmax = 35.20070833333333 
+            text = "e portanto foi o primeiro contacto com... este tipo de... éh vida... porque antes era uma vida de fazenda completamente diferente" 
+        intervals [11]:
+            xmin = 35.20070833333333 
+            xmax = 36.21012867892981 
+            text = "..." 
+        intervals [12]:
+            xmin = 36.21012867892981 
+            xmax = 41.007875 
+            text = "terminando o primeiro ano... eu passei a:: ter aulas particulares" 
+        intervals [13]:
+            xmin = 41.007875 
+            xmax = 41.5671875 
+            text = "..." 
+        intervals [14]:
+            xmin = 41.5671875 
+            xmax = 47.56420833333333 
+            text = "as ah... tive uma professora aliás excelente... com quem... eu pude progredir bastante" 
+        intervals [15]:
+            xmin = 47.56420833333333 
+            xmax = 47.844089590031786 
+            text = "..." 
+        intervals [16]:
+            xmin = 47.844089590031786 
+            xmax = 57.947375 
+            text = "com um ano e meio... de... estudo... particular... eu já pude entrar... no curso de admissão... da escola americana" 
+        intervals [17]:
+            xmin = 57.947375 
+            xmax = 58.75053350755739 
+            text = "..." 
+        intervals [18]:
+            xmin = 58.75053350755739 
+            xmax = 64.05037639726925 
+            text = "que pertencia ao (In/) Instituto Mackenzie... naquele tempo Mackenzie College" 
+        intervals [19]:
+            xmin = 64.05037639726925 
+            xmax = 81.7626136088762 
+            text = "..." 
+        intervals [20]:
+            xmin = 81.7626136088762 
+            xmax = 97.347125 
+            text = "terminei todo curso secundário... no Mackenzie... fiz um curso Normal... do::... próprio Instituto Mackenzie que era um curso diferente dos nossos aqui do Brasil... porque era um curso de americano em dois anos" 
+        intervals [21]:
+            xmin = 97.347125 
+            xmax = 98.16370635095568 
+            text = "..." 
+        intervals [22]:
+            xmin = 98.16370635095568 
+            xmax = 102.96533333333333 
+            text = "terminado este curso... eu iria... começar... a ensinar" 
+        intervals [23]:
+            xmin = 102.96533333333333 
+            xmax = 104.27397916666666 
+            text = "..." 
+        intervals [24]:
+            xmin = 104.27397916666666 
+            xmax = 139.08227083333333 
+            text = "mas justamente eu tive uma oportunidade excelente no meu último ano de Curso Normal...que foi trabalhá/ ah trabalhar algumas horas... num departamento de atividades extracurriculares... dirigido por dona Noemi Silveira... que havia chegado dos Estados Unidos... com ideias completamente novas... e... este... esta CONvivência que eu tive com ela... como secretária dela no departamento de atividades extracurriculares... foi excelente" 
+        intervals [25]:
+            xmin = 139.08227083333333 
+            xmax = 140.15360476094523 
+            text = "..." 
+        intervals [26]:
+            xmin = 140.15360476094523 
+            xmax = 147.01245833333334 
+            text = "me abriu muitos horizontes... e eu vi... novas possibilidades na minha vida profissional" 
+        intervals [27]:
+            xmin = 147.01245833333334 
+            xmax = 149.8784496369788 
+            text = "..." 
+        intervals [28]:
+            xmin = 149.8784496369788 
+            xmax = 152.7407253115273 
+            text = "lecionei aPEnas três meses" 
+        intervals [29]:
+            xmin = 152.7407253115273 
+            xmax = 153.06133234138326 
+            text = "..." 
+        intervals [30]:
+            xmin = 153.06133234138326 
+            xmax = 158.21479348795665 
+            text = "em na escola primária do... d/ do Mackenzie mesmo a Escola Americana" 
+        intervals [31]:
+            xmin = 158.21479348795665 
+            xmax = 159.24786058415916 
+            text = "..." 
+        intervals [32]:
+            xmin = 159.24786058415916 
+            xmax = 169.45904166666665 
+            text = "e:: já fui convidada... para... dirigir a seção feminina do Mackenzie... e nesta época eu tinha apenas dezessete anos" 
+        intervals [33]:
+            xmin = 169.45904166666665 
+            xmax = 170.35786963008584 
+            text = "..." 
+        intervals [34]:
+            xmin = 170.35786963008584 
+            xmax = 182.95791666666668 
+            text = "comecei... a trabalhar... e:: quando se fundou... a primeira escola... de Biblioteconomia... do Brasil... eu entrei para essa escola" 
+        intervals [35]:
+            xmin = 182.95791666666668 
+            xmax = 183.2907531869367 
+            text = "..." 
+        intervals [36]:
+            xmin = 183.2907531869367 
+            xmax = 185.66979166666667 
+            text = "e lá fiz o meu curso de bibliotecária" 
+        intervals [37]:
+            xmin = 185.66979166666667 
+            xmax = 186.73249380010296 
+            text = "..." 
+        intervals [38]:
+            xmin = 186.73249380010296 
+            xmax = 189.5864375 
+            text = "depois passei a dirigir a biblioteca do Mackenzie" 
+        intervals [39]:
+            xmin = 189.5864375 
+            xmax = 190.2211518691116 
+            text = "..." 
+        intervals [40]:
+            xmin = 190.2211518691116 
+            xmax = 194.69608333333332 
+            text = "e... dirigi durante... vinte e cinco anos" 
+        intervals [41]:
+            xmin = 194.69608333333332 
+            xmax = 195.65277036768012 
+            text = "..." 
+        intervals [42]:
+            xmin = 195.65277036768012 
+            xmax = 201.3913652837023 
+            text = "terminado... eu... me aposentei... mas continuei como supervisora da biblioteca" 
+        intervals [43]:
+            xmin = 201.3913652837023 
+            xmax = 201.52 
+            text = "..." 
+        intervals [44]:
+            xmin = 201.52 
+            xmax = 202.92008333333334 
+            text = "onde estou até hoje" 
+        intervals [45]:
+            xmin = 202.92008333333334 
+            xmax = 212.27222916666665 
+            text = "..." 
+        intervals [46]:
+            xmin = 212.27222916666665 
+            xmax = 219.55362499999998 
+            text = "justamente... quando eu terminei a escola... de Bibliotecono-mia... eu me interessei demais pela profissão" 
+        intervals [47]:
+            xmin = 219.55362499999998 
+            xmax = 219.99515650169533 
+            text = "..." 
+        intervals [48]:
+            xmin = 219.99515650169533 
+            xmax = 231.29510949843572 
+            text = "e nesta ocasião... a::... o Ministério da Educação criou... uma caDEIra... de Biblioteconomia (e) ArquiVÍStica... no ensino comercial" 
+        intervals [49]:
+            xmin = 231.29510949843572 
+            xmax = 232.05146093585327 
+            text = "..." 
+        intervals [50]:
+            xmin = 232.05146093585327 
+            xmax = 237.0162875068992 
+            text = "coisa muito interessante porque hoje nós estamos vendo... o ensino profissionaliZANte" 
+        intervals [51]:
+            xmin = 237.0162875068992 
+            xmax = 238.05653508120443 
+            text = "a preocupação" 
+        intervals [52]:
+            xmin = 238.05653508120443 
+            xmax = 238.62887444219038 
+            text = "..." 
+        intervals [53]:
+            xmin = 238.62887444219038 
+            xmax = 239.97131249999998 
+            text = "da profissionalizante" 
+        intervals [54]:
+            xmin = 239.97131249999998 
+            xmax = 256.2970833333333 
+            text = "e isto já... foi o iNÍcio... colocar... uma cadeira que pudesse preparar não naturalmente bibliotecários porque para isso seria necessário... uma formação... universitária... mas preparar pessoas que pudessem trabalhar em biblioteca" 
+        intervals [55]:
+            xmin = 256.2970833333333 
+            xmax = 257.0225254918593 
+            text = "..." 
+        intervals [56]:
+            xmin = 257.0225254918593 
+            xmax = 263.7337708333333 
+            text = "e... eu fui lecionar nesta... ah:: esta cadeira... na escola de comércio do Instituto Mackenzie" 
+        intervals [57]:
+            xmin = 263.7337708333333 
+            xmax = 264.480250120877 
+            text = "..." 
+        intervals [58]:
+            xmin = 264.480250120877 
+            xmax = 274.88 
+            text = "e LÁ:: eu senti a falta... de um material... de um TEXto... por assim dizer... para.. que:: os alunos tivessem uma ba::se para aquela cadeira" 
+        intervals [59]:
+            xmin = 274.88 
+            xmax = 281.25682757336784 
+            text = "porque é lógico que nós hoje não nos preocupamos... em fazer o ensino... baseado apenas em um texto" 
+        intervals [60]:
+            xmin = 281.25682757336784 
+            xmax = 281.8959866971163 
+            text = "..." 
+        intervals [61]:
+            xmin = 281.8959866971163 
+            xmax = 299.04300415089557 
+            text = "mas as alunas não tinham possibilidade... de encontrar... quando perdiam uma aula... um... uma:: orientação segura daquilo que havia sido dado na aula anterior... porquanto os livros que nós tínhamos de biblioteconomia... eram especializados nas diferentes matérias" 
+        intervals [62]:
+            xmin = 299.04300415089557 
+            xmax = 318.47737961884997 
+            text = "então elas teriam que ler muita coisa para obter alguma informação sobre a aula dada... e o que não era direito ( ) também porque aqueles livros... estavam... (o/) e ahn::... destiNAdos... a pessoas que estavam se preparando prum curso muito mais desenvolvido e não um curso... modesto como era aquele" 
+        intervals [63]:
+            xmin = 318.47737961884997 
+            xmax = 319.653087136002 
+            text = "..." 
+        intervals [64]:
+            xmin = 319.653087136002 
+            xmax = 329.14095833333334 
+            text = "e:: preocupada com este problema vendo que estava sendo uma FAlha na ahn no ensino da nossa cadeira... eu escrevi dois trabalhos" 
+        intervals [65]:
+            xmin = 329.14095833333334 
+            xmax = 329.793785584418 
+            text = "..." 
+        intervals [66]:
+            xmin = 329.793785584418 
+            xmax = 335.0238333333333 
+            text = "UM... s/ para a PARte de Biblioteca e outro para a parte de arquivo" 
+        intervals [67]:
+            xmin = 335.0238333333333 
+            xmax = 336.15275427838293 
+            text = "..." 
+        intervals [68]:
+            xmin = 336.15275427838293 
+            xmax = 343.84840586916783 
+            text = "ahn::... os títulos foram... 'Como se organiza uma Biblioteca'... e... 'O manual do Arquivista'" 
+        intervals [69]:
+            xmin = 343.84840586916783 
+            xmax = 344.8745009762952 
+            text = "..." 
+        intervals [70]:
+            xmin = 344.8745009762952 
+            xmax = 368.8048958333333 
+            text = "como esses livros tiveram assim... uma aceitação boa... eu ti/ havia pensado numa coisa modesta aPEnas para o nosso uso... mas houve tanta procura naturalmente porque havia falta mesmo deste material em outras escolas... e para outras pessoas que quisessem também ter uma orientação sobre o arquivo e uma orientação sobre biblioteca... sem propriamente faZER uma escola de biblioteconomia" 
+        intervals [71]:
+            xmin = 368.8048958333333 
+            xmax = 369.5493529637029 
+            text = "..." 
+        intervals [72]:
+            xmin = 369.5493529637029 
+            xmax = 376.22311581217434 
+            text = "então eu fui... tendo... oportunidade de tirar várias edições... e melhoRANdo de edição para edição" 
+        intervals [73]:
+            xmin = 376.22311581217434 
+            xmax = 377.014492278125 
+            text = "..." 
+        intervals [74]:
+            xmin = 377.014492278125 
+            xmax = 386.72575 
+            text = "e:: depois numa ocasião em que eu mudei... de editora... para... lançar os meus livros... eu:: ele meu pediu que trocasse os títulos" 
+        intervals [75]:
+            xmin = 386.72575 
+            xmax = 386.8836692333976 
+            text = "..." 
+        intervals [76]:
+            xmin = 386.8836692333976 
+            xmax = 387.7960535682931 
+            text = "e eu troquei" 
+        intervals [77]:
+            xmin = 387.7960535682931 
+            xmax = 388.0202595895215 
+            text = "..." 
+        intervals [78]:
+            xmin = 388.0202595895215 
+            xmax = 396.36664583333334 
+            text = "hoje... ele é publicado como título de...'A técnica de arquivar' um... e o outro... 'Organize sua Biblioteca'" 
+        intervals [79]:
+            xmin = 396.36664583333334 
+            xmax = 397.1347269761538 
+            text = "..." 
+        intervals [80]:
+            xmin = 397.1347269761538 
+            xmax = 411.3744375 
+            text = "além disso eu fiz uma tabela... para::... guardarem-se os livros... classificados da biblioteca justamente... porque até então só se usava no Brasil am/ tabela americana" 
+        intervals [81]:
+            xmin = 411.3744375 
+            xmax = 411.59348720803825 
+            text = "..." 
+        intervals [82]:
+            xmin = 411.59348720803825 
+            xmax = 418.9147708333333 
+            text = "todas (as)... as:: i/ identificações de autores em biblioteca... eram feitas de acordo com tabelas americanas" 
+        intervals [83]:
+            xmin = 418.9147708333333 
+            xmax = 419.569603041453 
+            text = "..." 
+        intervals [84]:
+            xmin = 419.569603041453 
+            xmax = 426.3677916666667 
+            text = "e:: então eu fiz uma tabela... examinando A FREQUÊNcia dos sobrenomes nas nossas bibliotecas" 
+        intervals [85]:
+            xmin = 426.3677916666667 
+            xmax = 426.68550751466466 
+            text = "..." 
+        intervals [86]:
+            xmin = 426.68550751466466 
+            xmax = 432.543 
+            text = "não só... observando a:: frequência dos nomes brasileiros mas de todos os nomes" 
+        intervals [87]:
+            xmin = 432.543 
+            xmax = 432.6365788076134 
+            text = "..." 
+        intervals [88]:
+            xmin = 432.6365788076134 
+            xmax = 440.7799667208068 
+            text = "i/ isto foi muito interessante porque... a biblioteca do Mackenzie... tinha um acervo MUIto grande... de obras estrangeiras" 
+        intervals [89]:
+            xmin = 440.7799667208068 
+            xmax = 444.0097377098793 
+            text = "quer dizer além de ter todas as nacionais ainda tinha... estrangeiras" 
+        intervals [90]:
+            xmin = 444.0097377098793 
+            xmax = 444.09200242501686 
+            text = "..." 
+        intervals [91]:
+            xmin = 444.09200242501686 
+            xmax = 452.182125 
+            text = "de maneira que eu fiz um levantamento... da freQUÊNcia de combinação de letras... e pudemos então lançar esta tabela" 
+        intervals [92]:
+            xmin = 452.182125 
+            xmax = 452.4003905352332 
+            text = "..." 
+        intervals [93]:
+            xmin = 452.4003905352332 
+            xmax = 452.7412083333333 
+            text = "FA" 
+        intervals [94]:
+            xmin = 452.7412083333333 
+            xmax = 453.4455121401757 
+            text = "..." 
+        intervals [95]:
+            xmin = 453.4455121401757 
+            xmax = 456.96372916666667 
+            text = "para identificação de autores::... nas bibliotecas" 
+        intervals [96]:
+            xmin = 456.96372916666667 
+            xmax = 469.8728060871763 
+            text = "..." 
+        intervals [97]:
+            xmin = 469.8728060871763 
+            xmax = 470.703375 
+            text = "sim" 
+        intervals [98]:
+            xmin = 470.703375 
+            xmax = 475.8827486187698 
+            text = "..." 
+        intervals [99]:
+            xmin = 475.8827486187698 
+            xmax = 477.82025 
+            text = "houve grandes modificações" 
+        intervals [100]:
+            xmin = 477.82025 
+            xmax = 478.00769769389564 
+            text = "..." 
+        intervals [101]:
+            xmin = 478.00769769389564 
+            xmax = 491.02859414255175 
+            text = "o:: quando... eu fiz o meu curso... o Mackenzie tinha um curso EXcelente... e:: pró::prio... porque nós não estávamos ainda com obrigatoriedade de programas" 
+        intervals [102]:
+            xmin = 491.02859414255175 
+            xmax = 493.4794583333333 
+            text = "não só no Mackenzie como em outros colégios" 
+        intervals [103]:
+            xmin = 493.4794583333333 
+            xmax = 493.89550295796045 
+            text = "..." 
+        intervals [104]:
+            xmin = 493.89550295796045 
+            xmax = 511.409375 
+            text = "e o programa que nós seguimos no Mackenzie era um programa tão bom... que quando nós terminávamos o curso secundário... nós poderíamos entrar diREtamente na escola de Engenharia ou de Arquitetura sem fazer vestibular" 
+        intervals [105]:
+            xmin = 511.409375 
+            xmax = 511.7967070448072 
+            text = "..." 
+        intervals [106]:
+            xmin = 511.7967070448072 
+            xmax = 520.9132916666666 
+            text = "isto todos os meus colegas entraram assim... e GRANdes nomes da nossa engenharia e da nossa arquitetura... foram de pessoas que fizeram Este curso" 
+        intervals [107]:
+            xmin = 520.9132916666666 
+            xmax = 521.9341666666667 
+            text = "..." 
+        intervals [108]:
+            xmin = 521.9341666666667 
+            xmax = 535.7080416666666 
+            text = "a... mesmo para entrar em outras escolas superiores como a Faculdade de Direito ou a Escola de Medicina... eu tive colegas que saíram do Mackenzie lá eles precisaram fazer vestibular mas fizeram vestibular e entraram" 
+        intervals [109]:
+            xmin = 535.7080416666666 
+            xmax = 536.0911458333334 
+            text = "..." 
+        intervals [110]:
+            xmin = 536.0911458333334 
+            xmax = 542.08275 
+            text = "prova que a BAse que era dada no curso secundário eram realmente excelente como eu disse" 
+        intervals [111]:
+            xmin = 542.08275 
+            xmax = 542.8406458333333 
+            text = "..." 
+        intervals [112]:
+            xmin = 542.8406458333333 
+            xmax = 555.0519375 
+            text = "depois... surgiram os programas como nós conhecemos... ah oficiais e a escola teve que se enquadrar para poder continuar... a as suas atividades" 
+        intervals [113]:
+            xmin = 555.0519375 
+            xmax = 555.3283958333333 
+            text = "..." 
+        intervals [114]:
+            xmin = 555.3283958333333 
+            xmax = 565.7760746804295 
+            text = "e:: hoje... ela está... com tod/ sofrendo todas as consequências hum que todos os outros estabelecimentos de ensino sofrem" 
+        intervals [115]:
+            xmin = 565.7760746804295 
+            xmax = 566.22914695182 
+            text = "..." 
+        intervals [116]:
+            xmin = 566.22914695182 
+            xmax = 572.2525416666666 
+            text = "não é SÓ por questão do programa... que temos que seguir mas por muitos fatores" 
+        intervals [117]:
+            xmin = 572.2525416666666 
+            xmax = 572.4808712524075 
+            text = "..." 
+        intervals [118]:
+            xmin = 572.4808712524075 
+            xmax = 574.5742083333333 
+            text = "por exemplo os fatores econômicos " 
+        intervals [119]:
+            xmin = 574.5742083333333 
+            xmax = 577.9908125 
+            text = "os professores antigamente se dedicavam demais aos alunos" 
+        intervals [120]:
+            xmin = 577.9908125 
+            xmax = 578.2959755636589 
+            text = "..." 
+        intervals [121]:
+            xmin = 578.2959755636589 
+            xmax = 581.7547083333333 
+            text = "porque em geral eles eram professores de POUcos colégios" 
+        intervals [122]:
+            xmin = 581.7547083333333 
+            xmax = 582.0206796589483 
+            text = "..." 
+        intervals [123]:
+            xmin = 582.0206796589483 
+            xmax = 603.7238958333334 
+            text = "e então os traba::lhos que nós tínhamos que fazer e que os professores COrrigiam... porque TInham tempo para isso... é claro... que ao serem desenvolvidos os alunos os alunos aproveitavam muito mais viam todos os erros cometidos comentavam-se os erros dos colegas e com isso nós todos podíamos ter... um:: resultado muito melhor do nosso estudo" 
+        intervals [124]:
+            xmin = 603.7238958333334 
+            xmax = 604.0987291666667 
+            text = "..." 
+        intervals [125]:
+            xmin = 604.0987291666667 
+            xmax = 607.6267708333334 
+            text = "HOje nos vemos... um quadro completamente diferente" 
+        intervals [126]:
+            xmin = 607.6267708333334 
+            xmax = 607.8371497255407 
+            text = "..." 
+        intervals [127]:
+            xmin = 607.8371497255407 
+            xmax = 611.07825 
+            text = "não no Mackenzie só... mas em todos os estabelecimentos de ensino" 
+        intervals [128]:
+            xmin = 611.07825 
+            xmax = 611.3776298076473 
+            text = "..." 
+        intervals [129]:
+            xmin = 611.3776298076473 
+            xmax = 619.570734338293 
+            text = "vemos classes superlotadas... professores... com... não podem se manter com... dando poucas aulas (né?)" 
+        intervals [130]:
+            xmin = 619.570734338293 
+            xmax = 623.6841861216795 
+            text = "a situação financeira obriga o professor a dar MUItas aulas" 
+        intervals [131]:
+            xmin = 623.6841861216795 
+            xmax = 623.9266052090317 
+            text = "..." 
+        intervals [132]:
+            xmin = 623.9266052090317 
+            xmax = 628.98725 
+            text = "então ele não po::de fazer as correções dos trabalhos dos alunos como eram feitas antigamente" 
+        intervals [133]:
+            xmin = 628.98725 
+            xmax = 629.3222140486757 
+            text = "..." 
+        intervals [134]:
+            xmin = 629.3222140486757 
+            xmax = 637.053149199277 
+            text = "maneira que o o ensi::no... SOfre... uma porção... de:: influências más" 
+        intervals [135]:
+            xmin = 637.053149199277 
+            xmax = 637.26461330962 
+            text = "..." 
+        intervals [136]:
+            xmin = 637.26461330962 
+            xmax = 642.85275 
+            text = "nós vemos a... uma... estamos atravessando uma::... era utilitarista" 
+        intervals [137]:
+            xmin = 642.85275 
+            xmax = 643.0607044201943 
+            text = "..." 
+        intervals [138]:
+            xmin = 643.0607044201943 
+            xmax = 647.8988325147548 
+            text = "todo mundo está sem::pre procurando... obter... o MÁximo de rendimento" 
+        intervals [139]:
+            xmin = 647.8988325147548 
+            xmax = 653.511625 
+            text = "quer dizer é um defeito... que não não é do profesSOR mas é de TOdo o huma::no hoje não é?" 
+        intervals [140]:
+            xmin = 653.511625 
+            xmax = 653.64 
+            text = "..." 
+        intervals [141]:
+            xmin = 653.64 
+            xmax = 659.0100833333333 
+            text = "nós sentimos este problema em todos os... ahn:: em todas as atividades" 
+        intervals [142]:
+            xmin = 659.0100833333333 
+            xmax = 659.3527865501429 
+            text = "..." 
+        intervals [143]:
+            xmin = 659.3527865501429 
+            xmax = 673.5739562469773 
+            text = "de maneira que hoje... eu acho que o ensino... im/... piorou... nesse sentido... e e estamos vendo mesmo campanhas para melhorar... opiniões de ministros de educação discussão sobre... a situação do ensino" 
+        intervals [144]:
+            xmin = 673.5739562469773 
+            xmax = 673.9458327700312 
+            text = "..." 
+        intervals [145]:
+            xmin = 673.9458327700312 
+            xmax = 680.743290535299 
+            text = "quer dizer que isso não podemos ahn::... m/... determinar que seja ESte ou aquele o defeito" 
+        intervals [146]:
+            xmin = 680.743290535299 
+            xmax = 680.9947701700738 
+            text = "..." 
+        intervals [147]:
+            xmin = 680.9947701700738 
+            xmax = 684.7604144020735 
+            text = "mas é... a consequência de uma porção de fatores negativos" 
+        intervals [148]:
+            xmin = 684.7604144020735 
+            xmax = 685.1470765665762 
+            text = "..." 
+        intervals [149]:
+            xmin = 685.1470765665762 
+            xmax = 697.0972708333334 
+            text = "mas que naturalmente nós podemos cada um... especialmente dos... ahn... na sua... área... poderá fazer um esforço para... REduZIR... este prejuízo e torNAR o ensino... BOM" 
+        intervals [150]:
+            xmin = 697.0972708333334 
+            xmax = 697.3854641066815 
+            text = "..." 
+        intervals [151]:
+            xmin = 697.3854641066815 
+            xmax = 699.7115374460412 
+            text = "nós também vemos um lado positivo" 
+        intervals [152]:
+            xmin = 699.7115374460412 
+            xmax = 706.9261624132231 
+            text = "hoje... pelo menos é uma coisa que eu acho... o estudante... tem muita oportunidade" 
+        intervals [153]:
+            xmin = 706.9261624132231 
+            xmax = 708.8231875 
+            text = "tem oportunidade que nós não tínhamos" 
+        intervals [154]:
+            xmin = 708.8231875 
+            xmax = 712.2078124999999 
+            text = "por exemplo... a:: os meios de comunicação" 
+        intervals [155]:
+            xmin = 712.2078124999999 
+            xmax = 712.3675416666666 
+            text = "..." 
+        intervals [156]:
+            xmin = 712.3675416666666 
+            xmax = 714.2410225398994 
+            text = "os meios de comunicação são extraordinários" 
+        intervals [157]:
+            xmin = 714.2410225398994 
+            xmax = 714.52 
+            text = "..." 
+        intervals [158]:
+            xmin = 714.52 
+            xmax = 720.4299243796993 
+            text = "de maneira que o nosso estudante hoje conhece MUIto mais... do que nós conhecíamos naquela idade" 
+        intervals [159]:
+            xmin = 720.4299243796993 
+            xmax = 720.8612690251957 
+            text = "..." 
+        intervals [160]:
+            xmin = 720.8612690251957 
+            xmax = 728.2616041666666 
+            text = "não por causa das aulas mas por causa da das facilidades que tem... de travar conhecimento com o que se passa no mundo" 
+        intervals [161]:
+            xmin = 728.2616041666666 
+            xmax = 728.6010158713163 
+            text = "..." 
+        intervals [162]:
+            xmin = 728.6010158713163 
+            xmax = 733.4158125 
+            text = "de maneira que... pode haver... uma compensação... dando um equilíbrio" 
+        intervals [163]:
+            xmin = 733.4158125 
+            xmax = 740.94575 
+            text = "eu vejo muita possibilidade... de nós conseguirmos um... um alto nível de cultura em todos os setores hoje" 
+        intervals [164]:
+            xmin = 740.94575 
+            xmax = 741.2703668251575 
+            text = "..." 
+        intervals [165]:
+            xmin = 741.2703668251575 
+            xmax = 745.6862720496414 
+            text = "porque se por um lado como justamente eu... respondi isso para responder a sua pergunta" 
+        intervals [166]:
+            xmin = 745.6862720496414 
+            xmax = 745.8365517704709 
+            text = "..." 
+        intervals [167]:
+            xmin = 745.8365517704709 
+            xmax = 752.28 
+            text = "se era melhor... ou do... o Mackenzie antigo... ou ah::... ou o Mackenzie moderno é melhor não é?" 
+        intervals [168]:
+            xmin = 752.28 
+            xmax = 753.2394375 
+            text = "você queria saber isso" 
+        intervals [169]:
+            xmin = 753.2394375 
+            xmax = 753.5695 
+            text = "Não" 
+        intervals [170]:
+            xmin = 753.5695 
+            xmax = 753.9610890635106 
+            text = "..." 
+        intervals [171]:
+            xmin = 753.9610890635106 
+            xmax = 768.578617882591 
+            text = "ahn eu acho que o ensino era melhor por isso poro/ porque nós tínhamos... aquela POssibilidade de ter os professores... que se dedicavam MUIto mais do que hoje... porque eles não POdem se dedicar não estou acusando... eu também sou professora e também vejo... o problema como é" 
+        intervals [172]:
+            xmin = 768.578617882591 
+            xmax = 768.854031352352 
+            text = "..." 
+        intervals [173]:
+            xmin = 768.854031352352 
+            xmax = 772.5645416666666 
+            text = "mas em compensação os alunos encontram OUtro campo... de cultura" 
+        intervals [174]:
+            xmin = 772.5645416666666 
+            xmax = 772.8474695201966 
+            text = "..." 
+        intervals [175]:
+            xmin = 772.8474695201966 
+            xmax = 782.1932544978532 
+            text = "hoje por exemplo as bibliotecas não é?... --que justamente é o meu setor--... o que se OFERECE para o aluno em matéria de... biblioteca é uma coisa extraordiNÁria" 
+        intervals [176]:
+            xmin = 782.1932544978532 
+            xmax = 787.6193333333333 
+            text = "quer dizer nós não TÍnhamos isto... a gente estava quase que se reduzida ao texto... não é? escolar" 
+        intervals [177]:
+            xmin = 787.6193333333333 
+            xmax = 787.9200197333848 
+            text = "..." 
+        intervals [178]:
+            xmin = 787.9200197333848 
+            xmax = 788.885530869012 
+            text = "hoje não há mais isso" 
+        intervals [179]:
+            xmin = 788.885530869012 
+            xmax = 789.0870108965479 
+            text = "..." 
+        intervals [180]:
+            xmin = 789.0870108965479 
+            xmax = 790.6265058315507 
+            text = "há possibilidade de pesquisa" 
+        intervals [181]:
+            xmin = 790.6265058315507 
+            xmax = 790.8989276217316 
+            text = "..." 
+        intervals [182]:
+            xmin = 790.8989276217316 
+            xmax = 796.1078333333334 
+            text = "de maneira que... o estudante queRENdo aproveitar... o campo é maravilhoso" 
+        intervals [183]:
+            xmin = 796.1078333333334 
+            xmax = 796.6258453057859 
+            text = "..." 
+        intervals [184]:
+            xmin = 796.6258453057859 
+            xmax = 818.9521874999999 
+            text = "agora... é pri/ o que eu tenho impressão que é preCI::so... desenvolver muito nos professores... é... a:::... a o... vamos dizer o trabalho de MOTIVAR os alunos... para que eles aproVEItem tudo isso que eles têm todas essas chances... e que eles possam... goZAR de tudo isso e aproveitar tirar o partido" 
+        intervals [185]:
+            xmin = 818.9521874999999 
+            xmax = 824.8256182566214 
+            text = "porque infelizmente... a gente vê ainda uma GRANde preocupação... de aluno que está querendo apenas passar de ano" 
+        intervals [186]:
+            xmin = 824.8256182566214 
+            xmax = 824.9563061359408 
+            text = "..." 
+        intervals [187]:
+            xmin = 824.9563061359408 
+            xmax = 831.6129791666666 
+            text = "quer dizer passar de ano... obter nota já fechou uma a:: a tal matéria já fechou aquela matéria... SEM esta preocupação" 
+        intervals [188]:
+            xmin = 831.6129791666666 
+            xmax = 834.4534375 
+            text = "mas há MUItos que se/ que aproveitam e se preocupam" 
+        intervals [189]:
+            xmin = 834.4534375 
+            xmax = 834.7538541666667 
+            text = "..." 
+        intervals [190]:
+            xmin = 834.7538541666667 
+            xmax = 840.0036875 
+            text = "quer dizer o nosso trabalho deve ser justamente o de motivar... esse... elemento estudantil" 
+        intervals [191]:
+            xmin = 840.0036875 
+            xmax = 845.8263832959484 
+            text = "..." 
+        intervals [192]:
+            xmin = 845.8263832959484 
+            xmax = 847.7072169281001 
+            text = "ah isto ahn variava não é?" 
+        intervals [193]:
+            xmin = 847.7072169281001 
+            xmax = 853.1147708333333 
+            text = "nós tínhamos... professores egixen/... exigentíssimos e outros já não eram tão exigentes né?" 
+        intervals [194]:
+            xmin = 853.1147708333333 
+            xmax = 853.4665489901686 
+            text = "..." 
+        intervals [195]:
+            xmin = 853.4665489901686 
+            xmax = 857.9494166666666 
+            text = "de modo que::... isso eu penso que... continua mais ou menos do mesmo jeito" 
+        intervals [196]:
+            xmin = 857.9494166666666 
+            xmax = 867.5238571165092 
+            text = "..." 
+        intervals [197]:
+            xmin = 867.5238571165092 
+            xmax = 872.3754791666667 
+            text = "ahn tipo de avaliação era justamente o resultado de tudo o que o estudante produzia... não é?" 
+        intervals [198]:
+            xmin = 872.3754791666667 
+            xmax = 872.5167901172608 
+            text = "..." 
+        intervals [199]:
+            xmin = 872.5167901172608 
+            xmax = 882.89275 
+            text = "porque... eram os trabalhos... eram sabatinas... eram exames não é? não havia dispensa podia ter nota ótima e o aluno fazia TOdos os exames finais" 
+        intervals [200]:
+            xmin = 882.89275 
+            xmax = 883.1910340599222 
+            text = "..." 
+        intervals [201]:
+            xmin = 883.1910340599222 
+            xmax = 886.9390416666666 
+            text = "de maneira que::: é era um/ esse conjunto" 
+        intervals [202]:
+            xmin = 886.9390416666666 
+            xmax = 887.265638799434 
+            text = "..." 
+        intervals [203]:
+            xmin = 887.265638799434 
+            xmax = 895.1539583333333 
+            text = "a freQUÊNcia... a a frequência também era considerada de modo que era a frequência eram os trabalhos apresentados as sabatinas e os exames" 
+        intervals [204]:
+            xmin = 895.1539583333333 
+            xmax = 895.8705567686583 
+            text = "..." 
+        intervals [205]:
+            xmin = 895.8705567686583 
+            xmax = 903.0315833333333 
+            text = "o resultado de tudo isso... dava... a... a nota que o aluno... conseguiu obter para... passar" 
+        intervals [206]:
+            xmin = 903.0315833333333 
+            xmax = 909.4075460388461 
+            text = "..." 
+        intervals [207]:
+            xmin = 909.4075460388461 
+            xmax = 910.9577916666666 
+            text = "mas o encerramento de quê?" 
+        intervals [208]:
+            xmin = 910.9577916666666 
+            xmax = 916.8500783922034 
+            text = "..." 
+        intervals [209]:
+            xmin = 916.8500783922034 
+            xmax = 917.8 
+            text = "ah:: sim" 
+        intervals [210]:
+            xmin = 917.8 
+            xmax = 918.0726913175259 
+            text = "..." 
+        intervals [211]:
+            xmin = 918.0726913175259 
+            xmax = 920.6733162481999 
+            text = "bem naturalmente havia festa de formatura" 
+        intervals [212]:
+            xmin = 920.6733162481999 
+            xmax = 921.0016104596291 
+            text = "..." 
+        intervals [213]:
+            xmin = 921.0016104596291 
+            xmax = 930.6494861080912 
+            text = "e no caso do Mackenzie era muito agradável porque... era um::... um terreno muito GRANde onde funcionavam VÁrios cursos de" 
+        intervals [214]:
+            xmin = 930.6494861080912 
+            xmax = 938.8532291666667 
+            text = "e nós tínhamos então salão de festa as festas eram lá mesmo... havia um campo de esporte... então havia uma convivência muito GRANde" 
+        intervals [215]:
+            xmin = 938.8532291666667 
+            xmax = 939.1815378859671 
+            text = "..." 
+        intervals [216]:
+            xmin = 939.1815378859671 
+            xmax = 961.3595208558323 
+            text = "entre os alunos todo mundo mais ou menos se conhecia... também muito menos do que hoje... o número de alunos facilitava... e as reuniões eram muito animadas... nós tínhamos festas perió::dicas e::... festas esportivas mensais... quer dizer que havia... (sabe)? ou era campeonato de bola ao CESto ou campeonato de futeBOL... e:: a:: atividade esportiva no Mackenzie foi sempre muito grande" 
+        intervals [217]:
+            xmin = 961.3595208558323 
+            xmax = 961.9533054141245 
+            text = "..." 
+        intervals [218]:
+            xmin = 961.9533054141245 
+            xmax = 967.0546475157159 
+            text = "de modo que na ocasião do do encerramento do curso a festa de formatura era uma festa muito bonita não é?" 
+        intervals [219]:
+            xmin = 967.0546475157159 
+            xmax = 967.5484040486728 
+            text = "..." 
+        intervals [220]:
+            xmin = 967.5484040486728 
+            xmax = 976.2606182799693 
+            text = "e:: havia BAIle o baile lá no Mackenzie mesmo porque nós tínhamos um giNAsium... que era muito grande... e que ce/ era cedido nessa ocasião" 
+        intervals [221]:
+            xmin = 976.2606182799693 
+            xmax = 976.9190677650988 
+            text = "..." 
+        intervals [222]:
+            xmin = 976.9190677650988 
+            xmax = 978.7294583333334 
+            text = "para... a festa de formatura" 
+        intervals [223]:
+            xmin = 978.7294583333334 
+            xmax = 993.7228398843678 
+            text = "..." 
+        intervals [224]:
+            xmin = 993.7228398843678 
+            xmax = 994.036875 
+            text = "é" 
+        intervals [225]:
+            xmin = 994.036875 
+            xmax = 998.8901427704553 
+            text = "..." 
+        intervals [226]:
+            xmin = 998.8901427704553 
+            xmax = 1006.4248749999999 
+            text = "nó::s ahn éh ahn faculdades... a/ naquela época... o número de faculdades e::ra... pequeno não é?" 
+        intervals [227]:
+            xmin = 1006.4248749999999 
+            xmax = 1006.8591789325978 
+            text = "..." 
+        intervals [228]:
+            xmin = 1006.8591789325978 
+            xmax = 1010.4162919599902 
+            text = "de maneira que a maiori::a... ficou no Mackenzie mesmo" 
+        intervals [229]:
+            xmin = 1010.4162919599902 
+            xmax = 1018 
+            text = "porque como nós tínhamos escola de Engenharia e escola de Arquitetura... eles::... ahn s/ ficaram já m/ acostumados a a" 
+        intervals [230]:
+            xmin = 1018 
+            xmax = 1023.0016819137747 
+            text = "o número de alunos... que estava no Mackenzie DESde o primeiro ano primário... era grande" 
+        intervals [231]:
+            xmin = 1023.0016819137747 
+            xmax = 1023.32175 
+            text = "..." 
+        intervals [232]:
+            xmin = 1023.32175 
+            xmax = 1025.6518749999998 
+            text = "de maneira que eles não tinham vontade de sair não é?" 
+        intervals [233]:
+            xmin = 1025.6518749999998 
+            xmax = 1026.8720801618429 
+            text = "..." 
+        intervals [234]:
+            xmin = 1026.8720801618429 
+            xmax = 1027.5255897732309 
+            text = "engenharia" 
+        intervals [235]:
+            xmin = 1027.5255897732309 
+            xmax = 1028.9251041666664 
+            text = "só Arquitetura e Engenharia" 
+        intervals [236]:
+            xmin = 1028.9251041666664 
+            xmax = 1029.30055414984 
+            text = "..." 
+        intervals [237]:
+            xmin = 1029.30055414984 
+            xmax = 1030.938362188257 
+            text = "e:: de escola superior né?" 
+        intervals [238]:
+            xmin = 1030.938362188257 
+            xmax = 1033.0093257933368 
+            text = "não era univers/ não havia universidade" 
+        intervals [239]:
+            xmin = 1033.0093257933368 
+            xmax = 1036.2594374999999 
+            text = "então... ah:: o/ a grande maioria ficava" 
+        intervals [240]:
+            xmin = 1036.2594374999999 
+            xmax = 1037.019332619959 
+            text = "..." 
+        intervals [241]:
+            xmin = 1037.019332619959 
+            xmax = 1042.5295984439924 
+            text = "ahn::... eu... posso contar até há pouco tempo mesmo... um caso interessante" 
+        intervals [242]:
+            xmin = 1042.5295984439924 
+            xmax = 1049.716334064482 
+            text = "um filho de uma minha amiga... entrou com nota muito boa... na Politécnica... no ITA... e no Mackenzie" 
+        intervals [243]:
+            xmin = 1049.716334064482 
+            xmax = 1050.5176607057936 
+            text = "..." 
+        intervals [244]:
+            xmin = 1050.5176607057936 
+            xmax = 1055.0153291013069 
+            text = "e não queria ir:: nem à Politécnica nem ao ITA queria ficar no Mackenzie" 
+        intervals [245]:
+            xmin = 1055.0153291013069 
+            xmax = 1058.12 
+            text = "quer dizer isso para mostrar que havia um esPÍrito mackenzista né?" 
+        intervals [246]:
+            xmin = 1058.12 
+            xmax = 1080.1265648208253 
+            text = "porque ele por exemplo foi um que entrou desde o primeiro ano... e ele NÃO queria foi preciso muita insistência... da parte da mãe... que via... a possib/ uma possibilidade melhor:: de ele ir aos outros principalmente por causa de fi/ ahn de s/ da situação financeira ela estava viúva... e::... o:: aluno indo para Politécnica ou para o ITA... seria bem mais fácil para ela do que ele ficar no Mackenzie" 
+        intervals [247]:
+            xmin = 1080.1265648208253 
+            xmax = 1080.450842408226 
+            text = "..." 
+        intervals [248]:
+            xmin = 1080.450842408226 
+            xmax = 1085.0655208333333 
+            text = "mas foi com muita pena que ele... desistiu da:: da possibilidade de entrar na Mackenzie" 
+        intervals [249]:
+            xmin = 1085.0655208333333 
+            xmax = 1085.6761666666666 
+            text = "..." 
+        intervals [250]:
+            xmin = 1085.6761666666666 
+            xmax = 1092.9660833333332 
+            text = "e:: isto isso aconteceu recentemente quer dizer recentemente não porque ele já se formou mas... mais ou menos há uma questão de sete ou oito anos atrás" 
+        intervals [251]:
+            xmin = 1092.9660833333332 
+            xmax = 1093.3413192200633 
+            text = "..." 
+        intervals [252]:
+            xmin = 1093.3413192200633 
+            xmax = 1096.64575 
+            text = "e ES::te espírito então antigamente existia MUIto mais FORte" 
+        intervals [253]:
+            xmin = 1096.64575 
+            xmax = 1101.4396874999998 
+            text = "porque... ah:: o grupo era menor todo mundo se conhecia havia bastante amizade e tal" 
+        intervals [254]:
+            xmin = 1101.4396874999998 
+            xmax = 1101.8381931845388 
+            text = "..." 
+        intervals [255]:
+            xmin = 1101.8381931845388 
+            xmax = 1107.5330833333333 
+            text = "e:: então a GRANde maioria dos alunos ficavam num desses cursos ou Engenharia ou Arquitetura" 
+        intervals [256]:
+            xmin = 1107.5330833333333 
+            xmax = 1107.701462362072 
+            text = "..." 
+        intervals [257]:
+            xmin = 1107.701462362072 
+            xmax = 1119.107083333333 
+            text = "agora... o... uma parte menor... ia para.. ahn::... o São Francisco fazer... Faculdade de Direito... ou então... ia para a Faculdade de Medicina" 
+        intervals [258]:
+            xmin = 1119.107083333333 
+            xmax = 1119.2970448948456 
+            text = "..." 
+        intervals [259]:
+            xmin = 1119.2970448948456 
+            xmax = 1120.17375 
+            text = "em menor número" 
+        intervals [260]:
+            xmin = 1120.17375 
+            xmax = 1126.8970416666666 
+            text = "este o::s candidatos à me/ que se dirigiam à Medicina... eram::... era um número bem menor" 
+        intervals [261]:
+            xmin = 1126.8970416666666 
+            xmax = 1127.5130383022 
+            text = "..." 
+        intervals [262]:
+            xmin = 1127.5130383022 
+            xmax = 1127.8742916666665 
+            text = "(toma)" 
+        intervals [263]:
+            xmin = 1127.8742916666665 
+            xmax = 1133.7836041666665 
+            text = "..." 
+        intervals [264]:
+            xmin = 1133.7836041666665 
+            xmax = 1134.24 
+            text = "não" 
+        intervals [265]:
+            xmin = 1134.24 
+            xmax = 1136.8388125 
+            text = "orientação religiosa propriamente não" 
+        intervals [266]:
+            xmin = 1136.8388125 
+            xmax = 1137.412931984768 
+            text = "..." 
+        intervals [267]:
+            xmin = 1137.412931984768 
+            xmax = 1144.8561666666665 
+            text = "o Mackenzie é de:::... base protestante presbiteriana... havia um culto diá-rio" 
+        intervals [268]:
+            xmin = 1144.8561666666665 
+            xmax = 1145.314040733079 
+            text = "..." 
+        intervals [269]:
+            xmin = 1145.314040733079 
+            xmax = 1151.0043749999998 
+            text = "mas esse culto não era... ahn eu não classificaria de Orientação... religiosa" 
+        intervals [270]:
+            xmin = 1151.0043749999998 
+            xmax = 1151.3724052633638 
+            text = "..." 
+        intervals [271]:
+            xmin = 1151.3724052633638 
+            xmax = 1152.9026666666666 
+            text = "era como se fosse uma oração" 
+        intervals [272]:
+            xmin = 1152.9026666666666 
+            xmax = 1153.0766879309515 
+            text = "..." 
+        intervals [273]:
+            xmin = 1153.0766879309515 
+            xmax = 1155.3868333333332 
+            text = "na Igreja Católica que se fizesse todos os dias" 
+        intervals [274]:
+            xmin = 1155.3868333333332 
+            xmax = 1155.7266997088768 
+            text = "..." 
+        intervals [275]:
+            xmin = 1155.7266997088768 
+            xmax = 1162.2476874999998 
+            text = "então... eles liam um trechozinho da Bíblia... e::... falavam alguma coisa SObre esse trecho da Bíblia" 
+        intervals [276]:
+            xmin = 1162.2476874999998 
+            xmax = 1162.8867572027928 
+            text = "..." 
+        intervals [277]:
+            xmin = 1162.8867572027928 
+            xmax = 1169.1087291666665 
+            text = "mas ahn disto PAra orientação religiosa propriamente ia bastante... distância não é?" 
+        intervals [278]:
+            xmin = 1169.1087291666665 
+            xmax = 1169.7113453133245 
+            text = "..." 
+        intervals [279]:
+            xmin = 1169.7113453133245 
+            xmax = 1177.1317499999998 
+            text = "tanto que:: eu... e todas as minhas colegas que eram católicas... não houve NENhum caso de alguma se tornar protestante" 
+        intervals [280]:
+            xmin = 1177.1317499999998 
+            xmax = 1177.5148028875192 
+            text = "..." 
+        intervals [281]:
+            xmin = 1177.5148028875192 
+            xmax = 1183.4210833333332 
+            text = "portanto quer dizer que não havia mesmo::... ahn o/ assim... um::... trabalho religioso" 
+        intervals [282]:
+            xmin = 1183.4210833333332 
+            xmax = 1184.4713958333332 
+            text = "na escola... não é?" 
+        intervals [283]:
+            xmin = 1184.4713958333332 
+            xmax = 1184.8199543412263 
+            text = "..." 
+        intervals [284]:
+            xmin = 1184.8199543412263 
+            xmax = 1198.2230500617677 
+            text = "o que havia era um culto diário... que nós éramos obrigados a assistir... o que aliás era muito bom porque... era um trechinho da Bíblia... e foi... justamente uma coisa que... al/ na ocasião algumas pessoas condenavam" 
+        intervals [285]:
+            xmin = 1198.2230500617677 
+            xmax = 1205.4134166666665 
+            text = "...""você católica numa... escola protestante"" não tinha importância nenhuma porque eu não sofri influência nenhuma de/ desse protestantismo" 
+        intervals [286]:
+            xmin = 1205.4134166666665 
+            xmax = 1205.9615903066679 
+            text = "..." 
+        intervals [287]:
+            xmin = 1205.9615903066679 
+            xmax = 1222.7600889668795 
+            text = "e hoje quando eu vejo o ecumeNISmo... aqui entre as igrejas eu vejo que nós fomos... PREcursores disso não é? porque... lá cada um continuou com a sua religião... e ouvia aquele trecho da Bíblia... que não iria converter ninguém porque nem conseguiria converter com aquela leiturazinha... diária... não é?" 
+        intervals [288]:
+            xmin = 1222.7600889668795 
+            xmax = 1223.3327090961243 
+            text = "..." 
+        intervals [289]:
+            xmin = 1223.3327090961243 
+            xmax = 1225.5906401153543 
+            text = "e:: e a leitura era da Bíblia" 
+        intervals [290]:
+            xmin = 1225.5906401153543 
+            xmax = 1230.2487115947572 
+            text = "de modo que não havia... PREGAÇÃO nenhuma nem contra essa igreja nem a favor daquela" 
+        intervals [291]:
+            xmin = 1230.2487115947572 
+            xmax = 1235.6618124999998 
+            text = "quer dizer (a) apenas... lia um:: pequeno trecho do/ da Bíblia pequeno... e havia uma explicação" 
+        intervals [292]:
+            xmin = 1235.6618124999998 
+            xmax = 1238.9528125 
+            text = "o... o:: culto não durava mais do que sete ou oito minutos" 
+        intervals [293]:
+            xmin = 1238.9528125 
+            xmax = 1251.6433705931624 
+            text = "..." 
+        intervals [294]:
+            xmin = 1251.6433705931624 
+            xmax = 1271.3784791666665 
+            text = "bom... eu disse que eu sou católica porque eu nasCI de uma família católica... e quando me perguntam qual é a minha religião... eu digo que é a católica porque é... ah::... eu estou... viVENdo dentro de uma organização católica fui batiZAda... e::... e me considero católi-ca" 
+        intervals [295]:
+            xmin = 1271.3784791666665 
+            xmax = 1279.9460411283223 
+            text = "mas... eu não::: não faço comentário... porque como caTÓlica propriamente dito eu sou uma má católica" 
+        intervals [296]:
+            xmin = 1279.9460411283223 
+            xmax = 1289.72 
+            text = "porque eu não... frequento... assim... a igreja COM regularidade... não estou muito presa... aos princípios todos da igreja católica não é?" 
+        intervals [297]:
+            xmin = 1289.72 
+            xmax = 1296.6776184868777 
+            text = "sou bastante INdependente... em matéria de religião... embora eu seja uma pessoa de muita... CRENça" 
+        intervals [298]:
+            xmin = 1296.6776184868777 
+            xmax = 1310.02156893788 
+            text = "eu tenho FÉ... acreDIto em Deus... e::... acho até IMposSÍvel uma pessoa... de uma inteligência... normal duvidar... de uma força superior" 
+        intervals [299]:
+            xmin = 1310.02156893788 
+            xmax = 1310.4431551516595 
+            text = "..." 
+        intervals [300]:
+            xmin = 1310.4431551516595 
+            xmax = 1313.9040416288387 
+            text = "de maneira que ev/ e/ justamente acho isto observando" 
+        intervals [301]:
+            xmin = 1313.9040416288387 
+            xmax = 1316.2749166666665 
+            text = "observando as coisas na vida eu acho imposSÍvel" 
+        intervals [302]:
+            xmin = 1316.2749166666665 
+            xmax = 1316.7189887207019 
+            text = "..." 
+        intervals [303]:
+            xmin = 1316.7189887207019 
+            xmax = 1336.8692916666664 
+            text = "apesar... de que hoje eu tenho lido muita coisa interessante sobre isso... outro dia um inquérito que fizeram em Londres... chegaram à conclusão de que só VINTE E nove por cento das pessoas que foram... ahn::... entrevistadas --vamos dizer-- acreditavam em Deus" 
+        intervals [304]:
+            xmin = 1336.8692916666664 
+            xmax = 1337.481891640801 
+            text = "..." 
+        intervals [305]:
+            xmin = 1337.481891640801 
+            xmax = 1342.5590416666664 
+            text = "isto foi um último questionário que foi respondido em Londres e publicado num jornal" 
+        intervals [306]:
+            xmin = 1342.5590416666664 
+            xmax = 1343.3015868538553 
+            text = "..." 
+        intervals [307]:
+            xmin = 1343.3015868538553 
+            xmax = 1347.76 
+            text = "e... e eu... achei uma coisa TRIS::te uma situação destas não é?" 
+        intervals [308]:
+            xmin = 1347.76 
+            xmax = 1350.3317621307726 
+            text = "porque dizer que... a religiosidade" 
+        intervals [309]:
+            xmin = 1350.3317621307726 
+            xmax = 1367.8180734456378 
+            text = "porque não importa a igre::ja não importa... o a::... a:: religião... que a pessoa esteja seguindo mas quer dizer que... VINte e nove por cento SÓ:: acreditarem que há Deus... eu tenho impressão que é uma coisa... BEM... ruim que está acontecendo para a humanidade" 
+        intervals [310]:
+            xmin = 1367.8180734456378 
+            xmax = 1373.9278124999998 
+            text = "quer dizer isso não é... fo/ (não) é um inquérito aPEnas em Londres mas... já revela alguma coisa não é?" 
+        intervals [311]:
+            xmin = 1373.9278124999998 
+            xmax = 1374.165699823113 
+            text = "..." 
+        intervals [312]:
+            xmin = 1374.165699823113 
+            xmax = 1378.1731592763526 
+            text = "de modo que eu posso dizer que com a GRAça de Deus eu creio em Deus né?" 
+        intervals [313]:
+            xmin = 1378.1731592763526 
+            xmax = 1388.625092275566 
+            text = "mas... não::: não quero falar do catolicismo porque eu acho que não tenho auTOridade para isso porque para isso eu precisaria... seguir mesmo BEM... não é?" 
+        intervals [314]:
+            xmin = 1388.625092275566 
+            xmax = 1389.0205515251203 
+            text = "..." 
+        intervals [315]:
+            xmin = 1389.0205515251203 
+            xmax = 1392.287797532517 
+            text = "e eu... não sou... assim.. tão ligada à igreja" 
+        intervals [316]:
+            xmin = 1392.287797532517 
+            xmax = 1400.9093076665306 
+            text = "..." 
+        intervals [317]:
+            xmin = 1400.9093076665306 
+            xmax = 1408.6830416666664 
+            text = "bom... segundo a religião católica... é uma coisa que está estabelecido né? nós temos toda uma organização" 
+        intervals [318]:
+            xmin = 1408.6830416666664 
+            xmax = 1408.8859340043148 
+            text = "..." 
+        intervals [319]:
+            xmin = 1408.8859340043148 
+            xmax = 1419.2219031312802 
+            text = "o Papa... e todos:: os::... ahn:::... missionários nas suas diferentes categorias e diferentes hierarquias né? ele seria... o representante" 
+        intervals [320]:
+            xmin = 1419.2219031312802 
+            xmax = 1419.600425002617 
+            text = "..." 
+        intervals [321]:
+            xmin = 1419.600425002617 
+            xmax = 1437.012899267902 
+            text = "e eu... aceito... que possa haVER uma representação mas é justamente por isso que eu prefiro não falar... porque eu não::... não estou ASSIM... tão::... ahn INTEGRADA... entende? nesta representação... não é?" 
+        intervals [322]:
+            xmin = 1437.012899267902 
+            xmax = 1437.4244627042726 
+            text = "..." 
+        intervals [323]:
+            xmin = 1437.4244627042726 
+            xmax = 1445.295708333333 
+            text = "especialmente aTUalmente que eu acho que... os representantes... têm falhado MUIto... de acordo com meu desejo" 
+        intervals [324]:
+            xmin = 1445.295708333333 
+            xmax = 1448.1001143625583 
+            text = "quer dizer eles não estão sendo como eu desejaria que eles fossem" 
+        intervals [325]:
+            xmin = 1448.1001143625583 
+            xmax = 1449.9356462357568 
+            text = "agora quem sabe se a errada sou eu não é?" 
+        intervals [326]:
+            xmin = 1449.9356462357568 
+            xmax = 1454.7681874999998 
+            text = "não... imagino que... não quero... por isso que eu não quero di/... atacar" 
+        intervals [327]:
+            xmin = 1454.7681874999998 
+            xmax = 1458.8385416666665 
+            text = "quer dizer... EU... tenho me decepcionado com certas condutas" 
+        intervals [328]:
+            xmin = 1458.8385416666665 
+            xmax = 1459.5026335360055 
+            text = "..." 
+        intervals [329]:
+            xmin = 1459.5026335360055 
+            xmax = 1463.06 
+            text = "e:::... mas naturalmente é o modo de sentir meu" 
+        intervals [330]:
+            xmin = 1463.06 
+            xmax = 1467.734 
+            text = "agora eu me sinto PLEnamente satisfeita... com a MInha... crença" 
+        intervals [331]:
+            xmin = 1467.734 
+            xmax = 1468.0268376584568 
+            text = "..." 
+        intervals [332]:
+            xmin = 1468.0268376584568 
+            xmax = 1470.3146328680098 
+            text = "eu não estou preciSANdo me apoiar" 
+        intervals [333]:
+            xmin = 1470.3146328680098 
+            xmax = 1470.5326814785706 
+            text = "..." 
+        intervals [334]:
+            xmin = 1470.5326814785706 
+            xmax = 1472.0164375 
+            text = "em outras autoridades" 
+        intervals [335]:
+            xmin = 1472.0164375 
+            xmax = 1472.286056094458 
+            text = "..." 
+        intervals [336]:
+            xmin = 1472.286056094458 
+            xmax = 1475.2570416666665 
+            text = "religiosas... para... me sentir consolada" 
+        intervals [337]:
+            xmin = 1475.2570416666665 
+            xmax = 1475.5290336115258 
+            text = "..." 
+        intervals [338]:
+            xmin = 1475.5290336115258 
+            xmax = 1485.893802091482 
+            text = "tenho... ahn atravessado naturalmente dificuldades como:: TOdos na vida atravessam né? ora uma coisa ora outra... e tenho conseguido enfrentar muito BEM" 
+        intervals [339]:
+            xmin = 1485.893802091482 
+            xmax = 1486.1285172476828 
+            text = "..." 
+        intervals [340]:
+            xmin = 1486.1285172476828 
+            xmax = 1488.5443125 
+            text = "quer dizer graças ao MEU modo de pensar" 
+        intervals [341]:
+            xmin = 1488.5443125 
+            xmax = 1494.4013541666666 
+            text = "então eu prefiro continuar com ele... e não preciso me ligar a... ah deMAIS a nenhuma igreja" 
+        intervals [342]:
+            xmin = 1494.4013541666666 
+            xmax = 1501.1335333103546 
+            text = "..." 
+        intervals [343]:
+            xmin = 1501.1335333103546 
+            xmax = 1502.8277368778329 
+            text = "conheço até bastante" 
+        intervals [344]:
+            xmin = 1502.8277368778329 
+            xmax = 1520.1662291666664 
+            text = "por exemplo o protestantismo... ahn eu conheço bastante... não só... a respeito do presbiterianis-mo... como... dos metodistas... dos batistas... porque eu tenho GRANdes amigos... nessas... religiões... e tenho... observado" 
+        intervals [345]:
+            xmin = 1520.1662291666664 
+            xmax = 1520.7564776172358 
+            text = "..." 
+        intervals [346]:
+            xmin = 1520.7564776172358 
+            xmax = 1526.3622818963129 
+            text = "ahn muito... não só maneira de pensar... como a interpretação que eles dão... não é?" 
+        intervals [347]:
+            xmin = 1526.3622818963129 
+            xmax = 1527.743069586412 
+            text = "..." 
+        intervals [348]:
+            xmin = 1527.743069586412 
+            xmax = 1535.6368146064901 
+            text = "e:::... se eu fosse me ligar... a uma igreja integralmente... eu continuaria na igreja católica" 
+        intervals [349]:
+            xmin = 1535.6368146064901 
+            xmax = 1536.7722999628356 
+            text = "..." 
+        intervals [350]:
+            xmin = 1536.7722999628356 
+            xmax = 1539.9622499999998 
+            text = "NÃO porque eu ache que seja meLHOR do que essas outras" 
+        intervals [351]:
+            xmin = 1539.9622499999998 
+            xmax = 1540.34042962275 
+            text = "..." 
+        intervals [352]:
+            xmin = 1540.34042962275 
+            xmax = 1544.6797499999998 
+            text = "mas porque eu NÃO VI... que nenhuma fosse MElhor do que a outra" 
+        intervals [353]:
+            xmin = 1544.6797499999998 
+            xmax = 1546.8213044475324 
+            text = "então eu ficaria na que eu nasci... não é?" 
+        intervals [354]:
+            xmin = 1546.8213044475324 
+            xmax = 1547.347430046368 
+            text = "..." 
+        intervals [355]:
+            xmin = 1547.347430046368 
+            xmax = 1551.4183185323775 
+            text = "mas eu conheço bem o protestantismo... dessas:: desses GRUpos" 
+        intervals [356]:
+            xmin = 1551.4183185323775 
+            xmax = 1554.833506976762 
+            text = "presbiteriano metodista... e::... batista" 
+        intervals [357]:
+            xmin = 1554.833506976762 
+            xmax = 1555.6417525960244 
+            text = "..." 
+        intervals [358]:
+            xmin = 1555.6417525960244 
+            xmax = 1561.8811430811188 
+            text = "ah:: conheço... mais ou menos BEM... a Igreja Ortodoxa porque ela é muito parecida com a nossa... não é?" 
+        intervals [359]:
+            xmin = 1561.8811430811188 
+            xmax = 1562.1684291545796 
+            text = "..." 
+        intervals [360]:
+            xmin = 1562.1684291545796 
+            xmax = 1567.5153666893248 
+            text = "a ortodoxa russa por exemplo que eu... tenho bastante convivência tenho até afilhados na... ortodoxa russa" 
+        intervals [361]:
+            xmin = 1567.5153666893248 
+            xmax = 1569.6146653043759 
+            text = "..." 
+        intervals [362]:
+            xmin = 1569.6146653043759 
+            xmax = 1586.6321874999999 
+            text = "na nas suas ahn:: não só nas interpretações... como... nas:: ahn::... manifestações que eles fa::zem nos trabalhos religiOsos... é muito semelhante à igreja ortodoxa russa que é a que eu tenho mais... ahn:: convivência não é?" 
+        intervals [363]:
+            xmin = 1586.6321874999999 
+            xmax = 1588.1434227761904 
+            text = "..." 
+        intervals [364]:
+            xmin = 1588.1434227761904 
+            xmax = 1589.622583333333 
+            text = "são essas as religiões" 
+        intervals [365]:
+            xmin = 1589.622583333333 
+            xmax = 1589.806157205654 
+            text = "..." 
+        intervals [366]:
+            xmin = 1589.806157205654 
+            xmax = 1608.2924374999998 
+            text = "tenho também... o... não não eu não considero o espiritismo propriamente uma religião... mas tenho muitos amigos:: espíritas:: e que têm até procurado... me:: convenCER de certas coisas... e eu também não:: não nego... mas... nunca me interessei" 
+        intervals [367]:
+            xmin = 1608.2924374999998 
+            xmax = 1608.7 
+            text = "..." 
+        intervals [368]:
+            xmin = 1608.7 
+            xmax = 1611.0725624999998 
+            text = "em:: me aprofundar mais nesse campo" 
+        intervals [369]:
+            xmin = 1611.0725624999998 
+            xmax = 1616.57097473238 
+            text = "..." 
+        intervals [370]:
+            xmin = 1616.57097473238 
+            xmax = 1616.9923453662195 
+            text = "não" 
+        intervals [371]:
+            xmin = 1616.9923453662195 
+            xmax = 1618.0081666666665 
+            text = "religião não" 
+        intervals [372]:
+            xmin = 1618.0081666666665 
+            xmax = 1618.3581908888996 
+            text = "..." 
+        intervals [373]:
+            xmin = 1618.3581908888996 
+            xmax = 1620.785019658074 
+            text = "mas:: não consideraria propriamente religião" 
+        intervals [374]:
+            xmin = 1620.785019658074 
+            xmax = 1621.0347215719435 
+            text = "..." 
+        intervals [375]:
+            xmin = 1621.0347215719435 
+            xmax = 1628.7837916666665 
+            text = "mas indiscutivelmente... também depende do QUE nós chamamos de religião porque é indiscutivelmente uma demonstração de fé... não é?" 
+        intervals [376]:
+            xmin = 1628.7837916666665 
+            xmax = 1629.1630972053892 
+            text = "..." 
+        intervals [377]:
+            xmin = 1629.1630972053892 
+            xmax = 1633.8875416666665 
+            text = "mas sempre que se fala em religião a gente... pensa numa coisa mais orGAnizada" 
+        intervals [378]:
+            xmin = 1633.8875416666665 
+            xmax = 1634.2762567568611 
+            text = "..." 
+        intervals [379]:
+            xmin = 1634.2762567568611 
+            xmax = 1637.198583333333 
+            text = "mas:: ahn:: e/ eu t/" 
+        intervals [380]:
+            xmin = 1637.198583333333 
+            xmax = 1655.8708748946333 
+            text = "quer dizer que é uma demonstração de fé e uma demonstração de fé... bastante forte que está aumentando... assustadoramente eu tive até a oportunidade de PREsenciar... como esTÁ... extraordinário uma vez que eu estava em Itanhaém... no dia oito de dezembro... e cheGAram os umbandistas" 
+        intervals [381]:
+            xmin = 1655.8708748946333 
+            xmax = 1656.579170469693 
+            text = "..." 
+        intervals [382]:
+            xmin = 1656.579170469693 
+            xmax = 1662.1137291666664 
+            text = "foi uma coisa que me imPRESsionou... a QUANTIDADE de pessoas" 
+        intervals [383]:
+            xmin = 1662.1137291666664 
+            xmax = 1662.515880482486 
+            text = "..." 
+        intervals [384]:
+            xmin = 1662.515880482486 
+            xmax = 1665.3232708333333 
+            text = "a PRAia ficou LO-tada" 
+        intervals [385]:
+            xmin = 1665.3232708333333 
+            xmax = 1669.1412103637547 
+            text = "aquela praia grande que é eNORme pois já se chama Praia Grande né?" 
+        intervals [386]:
+            xmin = 1669.1412103637547 
+            xmax = 1669.6176094251068 
+            text = "..." 
+        intervals [387]:
+            xmin = 1669.6176094251068 
+            xmax = 1670.8390509486464 
+            text = "foi uma coisa fantástica" 
+        intervals [388]:
+            xmin = 1670.8390509486464 
+            xmax = 1683.279895833333 
+            text = "o número de... ônibus --eu até senTI... não ter... contado-- o número de ônibus que passou pela nossa casa para se dirigir às praias... foi uma COIsa... aCIma do que podia imaginar" 
+        intervals [389]:
+            xmin = 1683.279895833333 
+            xmax = 1683.690143492185 
+            text = "..." 
+        intervals [390]:
+            xmin = 1683.690143492185 
+            xmax = 1686.1754791666665 
+            text = "e isto... quer dizer que é uma demonstração de fé" 
+        intervals [391]:
+            xmin = 1686.1754791666665 
+            xmax = 1686.5561794053651 
+            text = "..." 
+        intervals [392]:
+            xmin = 1686.5561794053651 
+            xmax = 1696.0426598193926 
+            text = "e:: eu penso que... num num sei s/ bem como eu digo precisaria definir BEM religião para eu poder dizer se... É ou não é não é?" 
+        intervals [393]:
+            xmin = 1696.0426598193926 
+            xmax = 1696.300822849241 
+            text = "..." 
+        intervals [394]:
+            xmin = 1696.300822849241 
+            xmax = 1698.7120658340261 
+            text = "o que é... é uma demonstração de fé indiscutível" 
+        intervals [395]:
+            xmin = 1698.7120658340261 
+            xmax = 1714.7767398382268 
+            text = "..." 
+        intervals [396]:
+            xmin = 1714.7767398382268 
+            xmax = 1721.3601436147887 
+            text = "éh bem naturalmente que tem porque:: os foi organizado de acordo com::... esses princípios" 
+        intervals [397]:
+            xmin = 1721.3601436147887 
+            xmax = 1741.5032916666664 
+            text = "começa... pelo... digamos o NaTAL... não é?... que é... a Semana SANta... o carnaval quer dizer essas datas todas estão mascadas de acordo... com isso tanto que são ahn:::... em/ o a:: o Natal é uma data fixa mas as outras são móveis não é? e baseadas naquelas fatos religiosos" 
+        intervals [398]:
+            xmin = 1741.5032916666664 
+            xmax = 1747.6396458333331 
+            text = "isso... é mas... uhn:: em termos... não é? quer dizer que essa base existiu mesmo" 
+        intervals [399]:
+            xmin = 1747.6396458333331 
+            xmax = 1748.8794999999998 
+            text = "..." 
+        intervals [400]:
+            xmin = 1748.8794999999998 
+            xmax = 1755.1586047886888 
+            text = "e uhn:: assiNAlam as datas... todas da religião católica são m::arcadas não é?" 
+        intervals [401]:
+            xmin = 1755.1586047886888 
+            xmax = 1755.404070029602 
+            text = "..." 
+        intervals [402]:
+            xmin = 1755.404070029602 
+            xmax = 1760.2582619193413 
+            text = "até há pouco tempo eram muito respeitadas nós tínhamos muitos feriados católicos" 
+        intervals [403]:
+            xmin = 1760.2582619193413 
+            xmax = 1760.4916084259714 
+            text = "..." 
+        intervals [404]:
+            xmin = 1760.4916084259714 
+            xmax = 1762.222875 
+            text = "hoje é que eles diminuíram" 
+        intervals [405]:
+            xmin = 1762.222875 
+            xmax = 1762.8858347094701 
+            text = "..." 
+        intervals [406]:
+            xmin = 1762.8858347094701 
+            xmax = 1769.426 
+            text = "algumas ahn... ahn... como é que se diz? algumas::: comemorações oficialmente" 
+        intervals [407]:
+            xmin = 1769.426 
+            xmax = 1769.987895399231 
+            text = "..." 
+        intervals [408]:
+            xmin = 1769.987895399231 
+            xmax = 1772.7248958333332 
+            text = "mas naturalmente que... houve essa base mesmo" 
+        intervals [409]:
+            xmin = 1772.7248958333332 
+            xmax = 1789.920029408717 
+            text = "..." 
+        intervals [410]:
+            xmin = 1789.920029408717 
+            xmax = 1793.4431458333331 
+            text = "essa pergunta eu não posso responder porque eu nunca me preocupei" 
+        intervals [411]:
+            xmin = 1793.4431458333331 
+            xmax = 1793.6140860416424 
+            text = "..." 
+        intervals [412]:
+            xmin = 1793.6140860416424 
+            xmax = 1794.7 
+            text = "de observar não é?" 
+        intervals [413]:
+            xmin = 1794.7 
+            xmax = 1795.1601647957862 
+            text = "..." 
+        intervals [414]:
+            xmin = 1795.1601647957862 
+            xmax = 1805.4143307562274 
+            text = "eu... o o que eu obser-vei... foi naturalmente... isso bastante... o interesse... d/... do povo... PEla religião" 
+        intervals [415]:
+            xmin = 1805.4143307562274 
+            xmax = 1805.6157308019904 
+            text = "..." 
+        intervals [416]:
+            xmin = 1805.6157308019904 
+            xmax = 1806.7696394919801 
+            text = "por uma ou outra religião" 
+        intervals [417]:
+            xmin = 1806.7696394919801 
+            xmax = 1807.0181736713625 
+            text = "..." 
+        intervals [418]:
+            xmin = 1807.0181736713625 
+            xmax = 1810.8888541666665 
+            text = "isso eu tive muita oportunidade de ver em alguns países e achei interessante" 
+        intervals [419]:
+            xmin = 1810.8888541666665 
+            xmax = 1811.3316085273768 
+            text = "..." 
+        intervals [420]:
+            xmin = 1811.3316085273768 
+            xmax = 1816.9027361219069 
+            text = "quer dizer muito resPEI::to à... à iGREja... a:: e religião" 
+        intervals [421]:
+            xmin = 1816.9027361219069 
+            xmax = 1817.2041121481623 
+            text = "..." 
+        intervals [422]:
+            xmin = 1817.2041121481623 
+            xmax = 1820.8036249999998 
+            text = "mas... não:: não fiz observação nenhuma sobre datas" 
+        intervals [423]:
+            xmin = 1820.8036249999998 
+            xmax = 1822.6349179665392 
+            text = "isto eu estou completamente por fora" 
+        intervals [424]:
+            xmin = 1822.6349179665392 
+            xmax = 1834.0242672720092 
+            text = "..." 
+        intervals [425]:
+            xmin = 1834.0242672720092 
+            xmax = 1858.694292892607 
+            text = "bom isso também esta re/ ahn respó/ pergunta também eu:: tenho preocupação de responder... porque como eu não tive é a PREocupação de observar --eu fui observando assim ao aCAso... não é?-- mas... para eu dizer que eu acho que está é mais do que aquela eu posso até me comprometer... e dar uma informação errada porque... para isso eu precisaria fazer um... uma observação" 
+        intervals [426]:
+            xmin = 1858.694292892607 
+            xmax = 1888.9343541666665 
+            text = "aliás eu sou muito cuidadosa... em fazer afirmações... de observações sociais como a gente diz ""fulanos... ou tal raça é assim tal raça é de outra maneira"" quer dizer... ou elogiando ou... éh:: fazendo maus comentários não é? eu não fa::ço porque eu acho que... isso é uma coisa muito séria a gente precisa observar muito... para poder fazer um:: levantamento chegar a conclusões... que NEM SEMpre são exatas mesmo depois do levantamento não é?" 
+        intervals [427]:
+            xmin = 1888.9343541666665 
+            xmax = 1889.1825310512436 
+            text = "..." 
+        intervals [428]:
+            xmin = 1889.1825310512436 
+            xmax = 1898.6863307135861 
+            text = "agora asSIM... d/ determinar uma... característica... para isso eu gostaria de responder só se eu tivesse feito mesmo uma observação melhor" 
+        intervals [429]:
+            xmin = 1898.6863307135861 
+            xmax = 1902.5828636315928 
+            text = "..." 
+        intervals [430]:
+            xmin = 1902.5828636315928 
+            xmax = 1903.052458333333 
+            text = "sim" 
+        intervals [431]:
+            xmin = 1903.052458333333 
+            xmax = 1909.1802420620877 
+            text = "..." 
+        intervals [432]:
+            xmin = 1909.1802420620877 
+            xmax = 1911.306864955486 
+            text = "s::im e eu fiz não é?" 
+        intervals [433]:
+            xmin = 1911.306864955486 
+            xmax = 1920.7172291666666 
+            text = "digamos... fiz primeira comunhão... fui crismada... quer dizer que... eu... a minha família fez tudo que era para fazer dentro da religião não é?" 
+        intervals [434]:
+            xmin = 1920.7172291666666 
+            xmax = 1921.1389447806162 
+            text = "..." 
+        intervals [435]:
+            xmin = 1921.1389447806162 
+            xmax = 1922.805483656375 
+            text = "frequentava missa aos domingos" 
+        intervals [436]:
+            xmin = 1922.805483656375 
+            xmax = 1923.082441136395 
+            text = "..." 
+        intervals [437]:
+            xmin = 1923.082441136395 
+            xmax = 1927.7581350637931 
+            text = "depois é que eu fui naturalmente mais adulta to-mando... outros rumos não é?" 
+        intervals [438]:
+            xmin = 1927.7581350637931 
+            xmax = 1928.4260913391358 
+            text = "..." 
+        intervals [439]:
+            xmin = 1928.4260913391358 
+            xmax = 1938.5337800782152 
+            text = "mas:: ahn toda::... durante a minha infância... a... o... orientação religiosa da minha casa era... bem segura não é?" 
+        intervals [440]:
+            xmin = 1938.5337800782152 
+            xmax = 1938.744829380385 
+            text = "..." 
+        intervals [441]:
+            xmin = 1938.744829380385 
+            xmax = 1944.7858541666665 
+            text = "quer dizer que depois que eu... pude escolher o que eu queria fazer é que eu... tomei outras deliberações" 
+        intervals [442]:
+            xmin = 1944.7858541666665 
+            xmax = 1945.3898077260246 
+            text = "..." 
+        intervals [443]:
+            xmin = 1945.3898077260246 
+            xmax = 1946.3755604530313 
+            text = "mas fiz::" 
+        intervals [444]:
+            xmin = 1946.3755604530313 
+            xmax = 1946.5533545281596 
+            text = "..." 
+        intervals [445]:
+            xmin = 1946.5533545281596 
+            xmax = 1951.12 
+            text = "fiz estas::... todas essas:: obrigações religiosas" 
+        intervals [446]:
+            xmin = 1951.12 
+            xmax = 1951.4737708333332 
+            text = "((risos))" 
+        intervals [447]:
+            xmin = 1951.4737708333332 
+            xmax = 1960.139047977046 
+            text = "..." 
+        intervals [448]:
+            xmin = 1960.139047977046 
+            xmax = 1960.6027916666665 
+            text = "uhum" 
+        intervals [449]:
+            xmin = 1960.6027916666665 
+            xmax = 1970.3815587571983 
+            text = "..." 
+        intervals [450]:
+            xmin = 1970.3815587571983 
+            xmax = 1975.2615624999999 
+            text = "bem... a missa... eu... acho melhor não descrever" 
+        intervals [451]:
+            xmin = 1975.2615624999999 
+            xmax = 1975.759843256987 
+            text = "..." 
+        intervals [452]:
+            xmin = 1975.759843256987 
+            xmax = 1981.6114104539006 
+            text = "porque naturalmente eu teri/ gostaria de fazer se fosse fazer uma coisa dessa eu gostaria de fazer uma coisa bem feita" 
+        intervals [453]:
+            xmin = 1981.6114104539006 
+            xmax = 1996.1757151543477 
+            text = "como eu acabei de dizer a você... eu sou uma pessoa que tenho preocupação... de:: fazer descrições ou afirmações... de coisas que não estou... BEM... ah ahn::... orienTAda para fazer não é?" 
+        intervals [454]:
+            xmin = 1996.1757151543477 
+            xmax = 1996.6011952344427 
+            text = "..." 
+        intervals [455]:
+            xmin = 1996.6011952344427 
+            xmax = 2015.622937637878 
+            text = "maneira que eu... se eu fosse responder isto exatamente... eu... teria que penSAR bem não seria assim numa entrevista porque... como JUStamente eu não frequento missa não é?... eu queria fazer... éh... precisaria... REavivar a minha memória com todos os dados para poder dizer uma coisa certa" 
+        intervals [456]:
+            xmin = 2015.622937637878 
+            xmax = 2015.963331146986 
+            text = "..." 
+        intervals [457]:
+            xmin = 2015.963331146986 
+            xmax = 2020.1274374999998 
+            text = "mas é que uma coisa que vai ficar gravada eu não quero que fique sem ser CORreta" 
+        intervals [458]:
+            xmin = 2020.1274374999998 
+            xmax = 2032.64668907542 
+            text = "..." 
+        intervals [459]:
+            xmin = 2032.64668907542 
+            xmax = 2033.8270416666664 
+            text = "era o padre" 
+        intervals [460]:
+            xmin = 2033.8270416666664 
+            xmax = 2034.1665600278898 
+            text = "..." 
+        intervals [461]:
+            xmin = 2034.1665600278898 
+            xmax = 2037.6090661242345 
+            text = "mas agora até já estão FREIras realizando né?" 
+        intervals [462]:
+            xmin = 2037.6090661242345 
+            xmax = 2045.144759306347 
+            text = "nó/ eu tenho... conheço aqui... na Vila Carioca... as franciscana de Maria... né?... então" 
+        intervals [463]:
+            xmin = 2045.144759306347 
+            xmax = 2045.2668664707644 
+            text = "..." 
+        intervals [464]:
+            xmin = 2045.2668664707644 
+            xmax = 2048.326358014644 
+            text = "--você vê que eu... mais ou menos tô atualizada--" 
+        intervals [465]:
+            xmin = 2048.326358014644 
+            xmax = 2048.9574263288628 
+            text = "..." 
+        intervals [466]:
+            xmin = 2048.9574263288628 
+            xmax = 2053.429061174651 
+            text = "as franciscanas de Maria... estão fazendo todo o trabalho" 
+        intervals [467]:
+            xmin = 2053.429061174651 
+            xmax = 2064.596899394526 
+            text = "elas estão realizando missa... elas estão dando extrema-unção... estão... ahn::... fazendo casamentos... porque já estão autorizadas para isso... sabe?" 
+        intervals [468]:
+            xmin = 2064.596899394526 
+            xmax = 2074.9202140769235 
+            text = "..." 
+        intervals [469]:
+            xmin = 2074.9202140769235 
+            xmax = 2079.519895833333 
+            text = "aGOra... as missas estão todas com muita participação" 
+        intervals [470]:
+            xmin = 2079.519895833333 
+            xmax = 2079.972302038935 
+            text = "..." 
+        intervals [471]:
+            xmin = 2079.972302038935 
+            xmax = 2083.6902791463613 
+            text = "eles estão até pedindo a pessoas que vão ajudar não é?" 
+        intervals [472]:
+            xmin = 2083.6902791463613 
+            xmax = 2087.682143774171 
+            text = "antigamente era o serviço feito só por aqueles meninos que se chamavam coroinhas não é?" 
+        intervals [473]:
+            xmin = 2087.682143774171 
+            xmax = 2088.093305010044 
+            text = "..." 
+        intervals [474]:
+            xmin = 2088.093305010044 
+            xmax = 2093.9634967310517 
+            text = "e hoje não as pessoas estão participando da missa as missas que eu tenho assistido todas tem havido muita participação" 
+        intervals [475]:
+            xmin = 2093.9634967310517 
+            xmax = 2094.3165617650457 
+            text = "..." 
+        intervals [476]:
+            xmin = 2094.3165617650457 
+            xmax = 2104.6462405209136 
+            text = "inclusive estão fazendo muita participação tamBÉM com o pessoal... éh::... entre... todos que estão... assistindo... mostrando assim uma união" 
+        intervals [477]:
+            xmin = 2104.6462405209136 
+            xmax = 2111.0354546192807 
+            text = "..." 
+        intervals [478]:
+            xmin = 2111.0354546192807 
+            xmax = 2111.818583333333 
+            text = "( )" 
+        intervals [479]:
+            xmin = 2111.818583333333 
+            xmax = 2114.216111737008 
+            text = "..." 
+        intervals [480]:
+            xmin = 2114.216111737008 
+            xmax = 2116.889645995427 
+            text = "o que você queria? (que eu) dissesse mais?" 
+        intervals [481]:
+            xmin = 2116.889645995427 
+            xmax = 2118.672442501795 
+            text = "..." 
+        intervals [482]:
+            xmin = 2118.672442501795 
+            xmax = 2128.8807718656253 
+            text = "eu éh estava... observando que... TOdos os que estão assistindo à mis-sa... estão se cumprimentando" 
+        intervals [483]:
+            xmin = 2128.8807718656253 
+            xmax = 2130.7226041666663 
+            text = "ao terminar a missa... não é?" 
+        intervals [484]:
+            xmin = 2130.7226041666663 
+            xmax = 2131.188996600558 
+            text = "..." 
+        intervals [485]:
+            xmin = 2131.188996600558 
+            xmax = 2138.3851666666665 
+            text = "e ISto... eu... não e/ estou TÃO convencida... da utilidade disso " 
+        intervals [486]:
+            xmin = 2138.3851666666665 
+            xmax = 2139.789520833333 
+            text = "eu pessoalmente" 
+        intervals [487]:
+            xmin = 2139.789520833333 
+            xmax = 2140.0715043244445 
+            text = "..." 
+        intervals [488]:
+            xmin = 2140.0715043244445 
+            xmax = 2143.198540353878 
+            text = "mas talvez... isto seja uma falha minha" 
+        intervals [489]:
+            xmin = 2143.198540353878 
+            xmax = 2143.539352696178 
+            text = ".." 
+        intervals [490]:
+            xmin = 2143.539352696178 
+            xmax = 2148.240208333333 
+            text = "porque eu tenho conversado com muitas pessoas que estão gostando MUIto disso" 
+        intervals [491]:
+            xmin = 2148.240208333333 
+            xmax = 2148.574052480773 
+            text = "..." 
+        intervals [492]:
+            xmin = 2148.574052480773 
+            xmax = 2178.819958333333 
+            text = "achando que... é uma coisa interessante que dá um aspecto assim... BOM... a gente::... éh quer dizer ver o seu irmão afinal ali cumprimentar:: um desconhecido... mas que demonstra assim uma certa... ahn:: união... e:: e ouvi vejo e como eu estava falando EU pessoalmente não não vejo muita utilidade disso mas... ah::... são muitas as opiniões a favor disso" 
+        intervals [493]:
+            xmin = 2178.819958333333 
+            xmax = 2179.3536930621276 
+            text = "..." 
+        intervals [494]:
+            xmin = 2179.3536930621276 
+            xmax = 2186.6662275099497 
+            text = "agora o que eu acho que melhorou MUIto na missa... nas missas modernas em relação às missas antigas" 
+        intervals [495]:
+            xmin = 2186.6662275099497 
+            xmax = 2187.0571666666665 
+            text = "..." 
+        intervals [496]:
+            xmin = 2187.0571666666665 
+            xmax = 2205.220429896235 
+            text = "porque... uma das coisas que eu NÃO acho que foi bom... foi aquele exaGEro que começou haver de modernis::mo... com relação a músicas e tudo mais... um exagero que não... não combinava com o ambiente... da igreja" 
+        intervals [497]:
+            xmin = 2205.220429896235 
+            xmax = 2205.941893216428 
+            text = "..." 
+        intervals [498]:
+            xmin = 2205.941893216428 
+            xmax = 2212.1209999999996 
+            text = "mas atualmente eu tenho assistido missas... que eu considero magníficas" 
+        intervals [499]:
+            xmin = 2212.1209999999996 
+            xmax = 2212.7017489796362 
+            text = "..." 
+        intervals [500]:
+            xmin = 2212.7017489796362 
+            xmax = 2220.8343124999997 
+            text = "posso citar por exemplo umas que foram realizadas... na... ahn PUC" 
+        intervals [501]:
+            xmin = 2220.8343124999997 
+            xmax = 2221.2819180755982 
+            text = "..." 
+        intervals [502]:
+            xmin = 2221.2819180755982 
+            xmax = 2222.4878125 
+            text = "na igreja da PUC" 
+        intervals [503]:
+            xmin = 2222.4878125 
+            xmax = 2223.293053403863 
+            text = "..." 
+        intervals [504]:
+            xmin = 2223.293053403863 
+            xmax = 2227.901145833333 
+            text = "há uns dois ou três padres lá que eu acho que são assim EXtraordinários" 
+        intervals [505]:
+            xmin = 2227.901145833333 
+            xmax = 2251.6364341629856 
+            text = "porque no decorrer da missa eles param... e eles conVERsam com... o público que está assistindo à missa... e as ahn palavras que eles têm dito... têm sido... FORmidáveis extraordinárias como elevação... como provocação de uma conduta melhor... dos homens" 
+        intervals [506]:
+            xmin = 2251.6364341629856 
+            xmax = 2256.716415257719 
+            text = "mas tudo jogando com argumentos muito... ah esponTÂneos" 
+        intervals [507]:
+            xmin = 2256.716415257719 
+            xmax = 2257.993509191229 
+            text = "muito naturais" 
+        intervals [508]:
+            xmin = 2257.993509191229 
+            xmax = 2258.3759544333493 
+            text = "..." 
+        intervals [509]:
+            xmin = 2258.3759544333493 
+            xmax = 2262.2972354694343 
+            text = "esta/ estes padres fizeram trabalhos magníficos" 
+        intervals [510]:
+            xmin = 2262.2972354694343 
+            xmax = 2267.0289080459615 
+            text = "eu já assisti umas ahn diversas missas na PUC... que me encantaram" 
+        intervals [511]:
+            xmin = 2267.0289080459615 
+            xmax = 2267.176335886751 
+            text = "..." 
+        intervals [512]:
+            xmin = 2267.176335886751 
+            xmax = 2270.0034742239986 
+            text = "a missa de domingo mesmo lá... é muito boa" 
+        intervals [513]:
+            xmin = 2270.0034742239986 
+            xmax = 2270.298374331332 
+            text = "..." 
+        intervals [514]:
+            xmin = 2270.298374331332 
+            xmax = 2273.145732551764 
+            text = "eu estou citando a da PUC porque é perto da minha casa não é?" 
+        intervals [515]:
+            xmin = 2273.145732551764 
+            xmax = 2276.253660955389 
+            text = "e eu posso... ahn::... então acompanhar" 
+        intervals [516]:
+            xmin = 2276.253660955389 
+            xmax = 2277.0325165440736 
+            text = "..." 
+        intervals [517]:
+            xmin = 2277.0325165440736 
+            xmax = 2291.117645833333 
+            text = "ah:: outro dia assisti uma na Liga das Senhoras Católicas também... monsenhor Benedito que... ahn rezou a missa... ele se dirigiu ao público mas de uma manei::ra... ah encanta-dora" 
+        intervals [518]:
+            xmin = 2291.117645833333 
+            xmax = 2291.3224406400072 
+            text = "..." 
+        intervals [519]:
+            xmin = 2291.3224406400072 
+            xmax = 2291.9389362856764 
+            text = "EXtraordinária " 
+        intervals [520]:
+            xmin = 2291.9389362856764 
+            xmax = 2292.0768366274706 
+            text = "..." 
+        intervals [521]:
+            xmin = 2292.0768366274706 
+            xmax = 2294.3007230801772 
+            text = "todo mundo saiu feliz da igreja" 
+        intervals [522]:
+            xmin = 2294.3007230801772 
+            xmax = 2294.835473129907 
+            text = "..." 
+        intervals [523]:
+            xmin = 2294.835473129907 
+            xmax = 2298.56 
+            text = "e NESte ponto eu acho que melhorou demais" 
+        intervals [524]:
+            xmin = 2298.56 
+            xmax = 2298.639496544205 
+            text = "..." 
+        intervals [525]:
+            xmin = 2298.639496544205 
+            xmax = 2302.3581732793364 
+            text = "e é o trabalho... de evangelização" 
+        intervals [526]:
+            xmin = 2302.3581732793364 
+            xmax = 2302.7361371442184 
+            text = "..." 
+        intervals [527]:
+            xmin = 2302.7361371442184 
+            xmax = 2310.8237083333333 
+            text = "que eu estou... lendo sempre no jornal que até o Papa está preocupadíssimo com ele... achando que é uma tarefa difiCÍlima" 
+        intervals [528]:
+            xmin = 2310.8237083333333 
+            xmax = 2314.402663668038 
+            text = "quer dizer que eles estão encontrando dificuldade de toda ordem" 
+        intervals [529]:
+            xmin = 2314.402663668038 
+            xmax = 2314.7673169816935 
+            text = "..." 
+        intervals [530]:
+            xmin = 2314.7673169816935 
+            xmax = 2339.0003987629757 
+            text = "o que está certo porque neste mundo... nós estamos vendo TANta COIsa que precisa ser consertada quer dizer... tantas condutas humanas que estão tomando rumos... absolutamente... errados... que... eu imagino que a tarefa... do pastor hoje... deve ser uma uma tarefa... eNORme difícil de ser executada" 
+        intervals [531]:
+            xmin = 2339.0003987629757 
+            xmax = 2339.367583307109 
+            text = "..." 
+        intervals [532]:
+            xmin = 2339.367583307109 
+            xmax = 2344.4686453069853 
+            text = "MAS naturalmente que cada um precisa fazer alguma coisa e aos poucos é que pode conseguir não é?" 
+        intervals [533]:
+            xmin = 2344.4686453069853 
+            xmax = 2344.8287586042734 
+            text = "..." 
+        intervals [534]:
+            xmin = 2344.8287586042734 
+            xmax = 2353.483625 
+            text = "de maneira que em matéria de missa eu posso citar essas da PUC que eu acho esplêndidas... e:: a tive oportunidade de assistir essa do monsenhor Benedito que eu também fiquei encantada" 
+        intervals [535]:
+            xmin = 2353.483625 
+            xmax = 2353.885385026448 
+            text = "..." 
+        intervals [536]:
+            xmin = 2353.885385026448 
+            xmax = 2363.0098958333333 
+            text = "e eu acho que essa maneira de se dirigir... aos que estão assistindo à missa... é uma:: um BOM caminho... para um resultado bastante favorável" 
+        intervals [537]:
+            xmin = 2363.0098958333333 
+            xmax = 2370.937244274284 
+            text = "..." 
+        intervals [538]:
+            xmin = 2370.937244274284 
+            xmax = 2374.36 
+            text = "não isso nós estamos vendo igrejas completamente diferentes né?" 
+        intervals [539]:
+            xmin = 2374.36 
+            xmax = 2377.7583124999996 
+            text = "e::... também eu acho que estão caindo num exagero" 
+        intervals [540]:
+            xmin = 2377.7583124999996 
+            xmax = 2378.238197831683 
+            text = "..." 
+        intervals [541]:
+            xmin = 2378.238197831683 
+            xmax = 2392.3496041666663 
+            text = "por-que... antigamente as igrejas eram... ahn... mui::to cheias de imagens um um ambiente que também... não era... ahn::... tão acolhe-dor" 
+        intervals [542]:
+            xmin = 2392.3496041666663 
+            xmax = 2394.4737916666663 
+            text = "então começaram a evoluir" 
+        intervals [543]:
+            xmin = 2394.4737916666663 
+            xmax = 2394.7388521595853 
+            text = "..." 
+        intervals [544]:
+            xmin = 2394.7388521595853 
+            xmax = 2399.439361071183 
+            text = "mas temos também igrejas que... a meu ver não agradam não é?" 
+        intervals [545]:
+            xmin = 2399.439361071183 
+            xmax = 2399.7813846747536 
+            text = "..." 
+        intervals [546]:
+            xmin = 2399.7813846747536 
+            xmax = 2404.511958333333 
+            text = "apesar... de::... talvez como eu disse seja uma questão pessoal" 
+        intervals [547]:
+            xmin = 2404.511958333333 
+            xmax = 2408.896429252148 
+            text = "mas ah... há igrejas que não não me causam prazer nenhum entrar nelas" 
+        intervals [548]:
+            xmin = 2408.896429252148 
+            xmax = 2409.387815281472 
+            text = "..." 
+        intervals [549]:
+            xmin = 2409.387815281472 
+            xmax = 2411.9715267046668 
+            text = "o ideal... é... o meio termo" 
+        intervals [550]:
+            xmin = 2411.9715267046668 
+            xmax = 2413.5635143792824 
+            text = "quer dizer igrejas modernas" 
+        intervals [551]:
+            xmin = 2413.5635143792824 
+            xmax = 2421.3888541666665 
+            text = "porque aquelas igrejas antigas... hoje eu até... me aborreço quando eu vou visitar de ver TOdo mundo fazendo da igreja um museu" 
+        intervals [552]:
+            xmin = 2421.3888541666665 
+            xmax = 2421.599659055536 
+            text = "..." 
+        intervals [553]:
+            xmin = 2421.599659055536 
+            xmax = 2423.3165416666666 
+            text = "então desapareceu a religiosidade" 
+        intervals [554]:
+            xmin = 2423.3165416666666 
+            xmax = 2423.557280873674 
+            text = "..." 
+        intervals [555]:
+            xmin = 2423.557280873674 
+            xmax = 2430.787895100056 
+            text = "todo mundo fica ""olhe mas que coisa"" analisando as peças analisando... então não é mais um ambiente religioso não é?" 
+        intervals [556]:
+            xmin = 2430.787895100056 
+            xmax = 2430.9091058671884 
+            text = "..." 
+        intervals [557]:
+            xmin = 2430.9091058671884 
+            xmax = 2432.289010841451 
+            text = "é um ambiente artístico" 
+        intervals [558]:
+            xmin = 2432.289010841451 
+            xmax = 2432.545628653403 
+            text = "..." 
+        intervals [559]:
+            xmin = 2432.545628653403 
+            xmax = 2439.375958333333 
+            text = "então é a a peça é barroca é isto é aquilo mas... quer dizer... que então ninguém está lá dentro... com espírito de religião" 
+        intervals [560]:
+            xmin = 2439.375958333333 
+            xmax = 2439.910512401779 
+            text = "..." 
+        intervals [561]:
+            xmin = 2439.910512401779 
+            xmax = 2454.665364991415 
+            text = "e:: essas igrejas que são... ahn modernas mas sem exagero ainda tendo suas imagens... eu tenho a impressão que FAla mais... ao coração do católico... porque o católico se acostumou a isso... e sente assim" 
+        intervals [562]:
+            xmin = 2454.665364991415 
+            xmax = 2455.0201135718867 
+            text = "..." 
+        intervals [563]:
+            xmin = 2455.0201135718867 
+            xmax = 2487.1019222987074 
+            text = "porque esta:::... ah vamos dizer essa questão de religião assim TÃO abstrata... talvez seja justamente porque eu fui criada num ambiente diferente quem sabe se esta geração atual... sendo agora criada nesse ambiente... enCONtre conforto nessas igrejas peladas vazias sem nada... apenas é uma casa como qualquer outra... e... ehn... eu admiro a hipótese deles... sendo criados aí sentirem... mas eu não sinto esse ambiente de religiosidade" 
+        intervals [564]:
+            xmin = 2487.1019222987074 
+            xmax = 2487.2958775338325 
+            text = "..." 
+        intervals [565]:
+            xmin = 2487.2958775338325 
+            xmax = 2489.5415 
+            text = "numa igreja extraordinariamente moderna" 
+        intervals [566]:
+            xmin = 2489.5415 
+            xmax = 2489.89482783755 
+            text = "..." 
+        intervals [567]:
+            xmin = 2489.89482783755 
+            xmax = 2492.42 
+            text = "eu tenho a impressão que precisa ser um meio termo" 
+        intervals [568]:
+            xmin = 2492.42 
+            xmax = 2494.947333333333 
+            text = "pelo menos para mim... precisa" 
+        intervals [569]:
+            xmin = 2494.947333333333 
+            xmax = 2500.8500624999997 
+            text = "..." 
+        intervals [570]:
+            xmin = 2500.8500624999997 
+            xmax = 2502.7353749999997 
+            text = "conheço a igreja de Brasília" 
+        intervals [571]:
+            xmin = 2502.7353749999997 
+            xmax = 2503.293368692581 
+            text = "..." 
+        intervals [572]:
+            xmin = 2503.293368692581 
+            xmax = 2506.418345222011 
+            text = "eu acho... interessante" 
+        intervals [573]:
+            xmin = 2506.418345222011 
+            xmax = 2506.5678867113056 
+            text = "..." 
+        intervals [574]:
+            xmin = 2506.5678867113056 
+            xmax = 2511.329833333333 
+            text = "mas é... para mim o que eu disse não é... a que me provoca religiosi-dade" 
+        intervals [575]:
+            xmin = 2511.329833333333 
+            xmax = 2511.6400369235294 
+            text = "..." 
+        intervals [576]:
+            xmin = 2511.6400369235294 
+            xmax = 2519.2636005747067 
+            text = "mas é muito bonita muito curiosa né? o... achei interessantíssima tive muito prazer em conhecer... e aliás já fui lá várias vezes" 
+        intervals [577]:
+            xmin = 2519.2636005747067 
+            xmax = 2521.0130416666666 
+            text = "e manira que... conheço bem" 
+        intervals [578]:
+            xmin = 2521.0130416666666 
+            xmax = 2525.4735817365217 
+            text = "..." 
+        intervals [579]:
+            xmin = 2525.4735817365217 
+            xmax = 2529.28 
+            text = "bom eu isto é difícil de responder assim numa entrevista sabe?" 
+        intervals [580]:
+            xmin = 2529.28 
+            xmax = 2565.0111588424397 
+            text = "eu ((risos)) é uma coisa que... há muita coisa para dizer muito detalhe muita observação... é uma igreja comPLEtamente diferente de TUdo o que se tinha visto até então não é?... mas é ju/ o ah... e isto... eu vou REpetir o que eu disse a você... é uma:: uma... eu entrei... e achei muito curiosa achei curiosa... a::... arquitetura o aspecto aquela coisa redonda... e::... aquele modo da gente... e/ estar ali para assistir o::... o ofício religioso não é?... mas não me provocou nada" 
+        intervals [581]:
+            xmin = 2565.0111588424397 
+            xmax = 2567.981395833333 
+            text = "em matéria de sentimento religioso não não consegui nada" 
+        intervals [582]:
+            xmin = 2567.981395833333 
+            xmax = 2571.031356022383 
+            text = "..." 
+        intervals [583]:
+            xmin = 2571.031356022383 
+            xmax = 2571.5592853240164 
+            text = "não" 
+        intervals [584]:
+            xmin = 2571.5592853240164 
+            xmax = 2571.6780694168842 
+            text = "..." 
+        intervals [585]:
+            xmin = 2571.6780694168842 
+            xmax = 2572.5191725814384 
+            text = "não não são" 
+        intervals [586]:
+            xmin = 2572.5191725814384 
+            xmax = 2572.5949652015106 
+            text = "..." 
+        intervals [587]:
+            xmin = 2572.5949652015106 
+            xmax = 2573.1555624999996 
+            text = "não não há" 
+        intervals [588]:
+            xmin = 2573.1555624999996 
+            xmax = 2573.3410467170293 
+            text = "..." 
+        intervals [589]:
+            xmin = 2573.3410467170293 
+            xmax = 2578.202208333333 
+            text = "são:: uns blocos assim para algumas pessoas tudo mas não são bancos não" 
+        intervals [590]:
+            xmin = 2578.202208333333 
+            xmax = 2578.7910118924124 
+            text = "..." 
+        intervals [591]:
+            xmin = 2578.7910118924124 
+            xmax = 2580.3270360325423 
+            text = "de maneira que é comPLEtamente diferente" 
+        intervals [592]:
+            xmin = 2580.3270360325423 
+            xmax = 2583.525583333333 
+            text = "mas os bancos eu acho que ainda não teriam maior importância" 
+        intervals [593]:
+            xmin = 2583.525583333333 
+            xmax = 2583.8448598673094 
+            text = "..." 
+        intervals [594]:
+            xmin = 2583.8448598673094 
+            xmax = 2585.76165540883 
+            text = "maior importância é mesmo o ambiente quer dizer...é como eu disse pode ser que essa geração que está nascendo em Brasília e crescendo lá... ache que é uma igreja formidável não é?" 
+        intervals [595]:
+            xmin = 2585.76165540883 
+            xmax = 2593.653770833333 
+            text = "quer dizer...é como eu disse pode ser que essa geração que está nascendo em Brasília e crescendo lá... ache que é uma igreja formidável... não é?" 
+        intervals [596]:
+            xmin = 2593.653770833333 
+            xmax = 2593.869953336525 
+            text = "..." 
+        intervals [597]:
+            xmin = 2593.869953336525 
+            xmax = 2599.217333333333 
+            text = "agora eu entrei na igreja gostei observei como entro numa... num edifício qualquer... não é?" 
+        intervals [598]:
+            xmin = 2599.217333333333 
+            xmax = 2599.4746443163262 
+            text = "..." 
+        intervals [599]:
+            xmin = 2599.4746443163262 
+            xmax = 2601.651476668116 
+            text = "mas não senti o ambiente de igreja" 
+        intervals [600]:
+            xmin = 2601.651476668116 
+            xmax = 2601.8995862956817 
+            text = "..." 
+        intervals [601]:
+            xmin = 2601.8995862956817 
+            xmax = 2603.1028239063903 
+            text = "não consegui sentir" 
+        intervals [602]:
+            xmin = 2603.1028239063903 
+            xmax = 2603.32 
+            text = "..." 
+    item [3]:
+        class = "IntervalTier" 
+        name = "com" 
+        xmin = 0 
+        xmax = 2603.32 
+        intervals: size = 57 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13195793941626482 
+            text = "" 
+        intervals [2]:
+            xmin = 0.13195793941626482 
+            xmax = 0.5774983078102587 
+            text = "((nome))" 
+        intervals [3]:
+            xmin = 0.5774983078102587 
+            xmax = 15.601545389770198 
+            text = "" 
+        intervals [4]:
+            xmin = 15.601545389770198 
+            xmax = 15.85916826886086 
+            text = "((corte))" 
+        intervals [5]:
+            xmin = 15.85916826886086 
+            xmax = 120.91379679679159 
+            text = "" 
+        intervals [6]:
+            xmin = 120.91379679679159 
+            xmax = 122.12309712171877 
+            text = "((nome))" 
+        intervals [7]:
+            xmin = 122.12309712171877 
+            xmax = 317.9214873466415 
+            text = "" 
+        intervals [8]:
+            xmin = 317.9214873466415 
+            xmax = 318.35435411128856 
+            text = "((corte))" 
+        intervals [9]:
+            xmin = 318.35435411128856 
+            xmax = 338.759661781358 
+            text = "" 
+        intervals [10]:
+            xmin = 338.759661781358 
+            xmax = 340.8250208333333 
+            text = "((nome))" 
+        intervals [11]:
+            xmin = 340.8250208333333 
+            xmax = 342.3820809268546 
+            text = "" 
+        intervals [12]:
+            xmin = 342.3820809268546 
+            xmax = 343.84840586916783 
+            text = "((nome))" 
+        intervals [13]:
+            xmin = 343.84840586916783 
+            xmax = 438.54760416666664 
+            text = "" 
+        intervals [14]:
+            xmin = 438.54760416666664 
+            xmax = 438.86935416666665 
+            text = "((corte))" 
+        intervals [15]:
+            xmin = 438.86935416666665 
+            xmax = 452.4003905352332 
+            text = "" 
+        intervals [16]:
+            xmin = 452.4003905352332 
+            xmax = 452.7412083333333 
+            text = "((sigla))" 
+        intervals [17]:
+            xmin = 452.7412083333333 
+            xmax = 855.6129114580973 
+            text = "" 
+        intervals [18]:
+            xmin = 855.6129114580973 
+            xmax = 857.9494166666666 
+            text = "((risos na fala de L1))" 
+        intervals [19]:
+            xmin = 857.9494166666666 
+            xmax = 1094.7775755840275 
+            text = "" 
+        intervals [20]:
+            xmin = 1094.7775755840275 
+            xmax = 1095.567041692334 
+            text = "((corte))" 
+        intervals [21]:
+            xmin = 1095.567041692334 
+            xmax = 1378.1731592763526 
+            text = "" 
+        intervals [22]:
+            xmin = 1378.1731592763526 
+            xmax = 1378.955987987936 
+            text = "((risos na voz de L1))" 
+        intervals [23]:
+            xmin = 1378.955987987936 
+            xmax = 1533.7057025411857 
+            text = "" 
+        intervals [24]:
+            xmin = 1533.7057025411857 
+            xmax = 1534.4096772861012 
+            text = "((corte))" 
+        intervals [25]:
+            xmin = 1534.4096772861012 
+            xmax = 1639.044102498986 
+            text = "" 
+        intervals [26]:
+            xmin = 1639.044102498986 
+            xmax = 1640.243006017529 
+            text = "((risos na voz de L1))" 
+        intervals [27]:
+            xmin = 1640.243006017529 
+            xmax = 1667.3066005869457 
+            text = "" 
+        intervals [28]:
+            xmin = 1667.3066005869457 
+            xmax = 1669.1412103637547 
+            text = "((risos na voz de L1))" 
+        intervals [29]:
+            xmin = 1669.1412103637547 
+            xmax = 1811.566822154347 
+            text = "" 
+        intervals [30]:
+            xmin = 1811.566822154347 
+            xmax = 1812.712073863226 
+            text = "((corte))" 
+        intervals [31]:
+            xmin = 1812.712073863226 
+            xmax = 1814.0409090675596 
+            text = "" 
+        intervals [32]:
+            xmin = 1814.0409090675596 
+            xmax = 1815.2556810946974 
+            text = "((corte))" 
+        intervals [33]:
+            xmin = 1815.2556810946974 
+            xmax = 1903.6017852642428 
+            text = "" 
+        intervals [34]:
+            xmin = 1903.6017852642428 
+            xmax = 1906.6864791666665 
+            text = "((corte))" 
+        intervals [35]:
+            xmin = 1906.6864791666665 
+            xmax = 1930.9469766085597 
+            text = "" 
+        intervals [36]:
+            xmin = 1930.9469766085597 
+            xmax = 1932.311887211731 
+            text = "((corte))" 
+        intervals [37]:
+            xmin = 1932.311887211731 
+            xmax = 2046.2405104396726 
+            text = "" 
+        intervals [38]:
+            xmin = 2046.2405104396726 
+            xmax = 2048.326358014644 
+            text = "((risos na voz de L1))" 
+        intervals [39]:
+            xmin = 2048.326358014644 
+            xmax = 2048.9574263288628 
+            text = "" 
+        intervals [40]:
+            xmin = 2048.9574263288628 
+            xmax = 2050.6829691964285 
+            text = "((risos na voz de L1))" 
+        intervals [41]:
+            xmin = 2050.6829691964285 
+            xmax = 2106.189529393426 
+            text = "" 
+        intervals [42]:
+            xmin = 2106.189529393426 
+            xmax = 2106.949564216053 
+            text = "((fala de terceiros; nome))" 
+        intervals [43]:
+            xmin = 2106.949564216053 
+            xmax = 2107.056863249836 
+            text = "" 
+        intervals [44]:
+            xmin = 2107.056863249836 
+            xmax = 2107.1462791113217 
+            text = "((ruído))" 
+        intervals [45]:
+            xmin = 2107.1462791113217 
+            xmax = 2115.369576350172 
+            text = "" 
+        intervals [46]:
+            xmin = 2115.369576350172 
+            xmax = 2116.889645995427 
+            text = "((risos na voz de L1))" 
+        intervals [47]:
+            xmin = 2116.889645995427 
+            xmax = 2220.276350411466 
+            text = "" 
+        intervals [48]:
+            xmin = 2220.276350411466 
+            xmax = 2220.8343124999997 
+            text = "((sigla))" 
+        intervals [49]:
+            xmin = 2220.8343124999997 
+            xmax = 2222.0137886530856 
+            text = "" 
+        intervals [50]:
+            xmin = 2222.0137886530856 
+            xmax = 2222.4878125 
+            text = "((sigla))" 
+        intervals [51]:
+            xmin = 2222.4878125 
+            xmax = 2265.005415455232 
+            text = "" 
+        intervals [52]:
+            xmin = 2265.005415455232 
+            xmax = 2265.435136622036 
+            text = "((sigla))" 
+        intervals [53]:
+            xmin = 2265.435136622036 
+            xmax = 2271.254986561625 
+            text = "" 
+        intervals [54]:
+            xmin = 2271.254986561625 
+            xmax = 2271.6197670272113 
+            text = "((sigla))" 
+        intervals [55]:
+            xmin = 2271.6197670272113 
+            xmax = 2347.5267180130604 
+            text = "" 
+        intervals [56]:
+            xmin = 2347.5267180130604 
+            xmax = 2347.9088015222233 
+            text = "((sigla))" 
+        intervals [57]:
+            xmin = 2347.9088015222233 
+            xmax = 2603.32 
+            text = "" 

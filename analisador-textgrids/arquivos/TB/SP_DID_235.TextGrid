@@ -1,0 +1,3600 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2052.2 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TB-doc1" 
+        xmin = 0 
+        xmax = 2052.2 
+        intervals: size = 261 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.319308973170116 
+            text = "..." 
+        intervals [2]:
+            xmin = 16.319308973170116 
+            xmax = 16.836343308735813 
+            text = "((risos))" 
+        intervals [3]:
+            xmin = 16.836343308735813 
+            xmax = 29.71917430299026 
+            text = "..." 
+        intervals [4]:
+            xmin = 29.71917430299026 
+            xmax = 30.256656324143304 
+            text = "((risos))" 
+        intervals [5]:
+            xmin = 30.256656324143304 
+            xmax = 71.84971626341347 
+            text = "..." 
+        intervals [6]:
+            xmin = 71.84971626341347 
+            xmax = 72.98909673382893 
+            text = "[((risos))" 
+        intervals [7]:
+            xmin = 72.98909673382893 
+            xmax = 73.67516350496496 
+            text = "..." 
+        intervals [8]:
+            xmin = 73.67516350496496 
+            xmax = 76.34544586456111 
+            text = "e o que que você costuma comer em cada uma dessas refeições?" 
+        intervals [9]:
+            xmin = 76.34544586456111 
+            xmax = 86.24798591014923 
+            text = "..." 
+        intervals [10]:
+            xmin = 86.24798591014923 
+            xmax = 89.94665060651543 
+            text = "desde o café da manhã até a hora do jantar o que você costuma comer em cada um deles?" 
+        intervals [11]:
+            xmin = 89.94665060651543 
+            xmax = 109.6823334205806 
+            text = "..." 
+        intervals [12]:
+            xmin = 109.6823334205806 
+            xmax = 115.7430172790268 
+            text = "existe alguma predileção assim... que você tem na comida do almoço:: e a comida do jantar ou não?" 
+        intervals [13]:
+            xmin = 115.7430172790268 
+            xmax = 143.4765220332916 
+            text = "..." 
+        intervals [14]:
+            xmin = 143.4765220332916 
+            xmax = 144.0897442974349 
+            text = "uhum" 
+        intervals [15]:
+            xmin = 144.0897442974349 
+            xmax = 144.93817510124956 
+            text = "..." 
+        intervals [16]:
+            xmin = 144.93817510124956 
+            xmax = 149.33478615698482 
+            text = "e quando você não come em casa onde você costumar comer e o que você costuma comer?" 
+        intervals [17]:
+            xmin = 149.33478615698482 
+            xmax = 174.1297020443725 
+            text = "..." 
+        intervals [18]:
+            xmin = 174.1297020443725 
+            xmax = 174.81910471295888 
+            text = "não gosta?" 
+        intervals [19]:
+            xmin = 174.81910471295888 
+            xmax = 196.43381761404797 
+            text = "..." 
+        intervals [20]:
+            xmin = 196.43381761404797 
+            xmax = 199.17847553009915 
+            text = "e quando você é obrigada a comer fora de casa onde é que você vai?" 
+        intervals [21]:
+            xmin = 199.17847553009915 
+            xmax = 222.90250691602188 
+            text = "..." 
+        intervals [22]:
+            xmin = 222.90250691602188 
+            xmax = 223.53163343135057 
+            text = "(em casa)" 
+        intervals [23]:
+            xmin = 223.53163343135057 
+            xmax = 224.15570672165651 
+            text = "..." 
+        intervals [24]:
+            xmin = 224.15570672165651 
+            xmax = 225.91679928910685 
+            text = "e no café da manha o que é que você come?" 
+        intervals [25]:
+            xmin = 225.91679928910685 
+            xmax = 236.18268381708992 
+            text = "..." 
+        intervals [26]:
+            xmin = 236.18268381708992 
+            xmax = 237.6848734405491 
+            text = "assim continua o regime" 
+        intervals [27]:
+            xmin = 237.6848734405491 
+            xmax = 276.7247460339019 
+            text = "..." 
+        intervals [28]:
+            xmin = 276.7247460339019 
+            xmax = 279.377769494086 
+            text = "e junto às refeições você costuma tomar alguma coisa?" 
+        intervals [29]:
+            xmin = 279.377769494086 
+            xmax = 288.6684235860672 
+            text = "..." 
+        intervals [30]:
+            xmin = 288.6684235860672 
+            xmax = 289.3610063499039 
+            text = "((risos))" 
+        intervals [31]:
+            xmin = 289.3610063499039 
+            xmax = 291.1528612408038 
+            text = "..." 
+        intervals [32]:
+            xmin = 291.1528612408038 
+            xmax = 291.66956990189664 
+            text = "uhum" 
+        intervals [33]:
+            xmin = 291.66956990189664 
+            xmax = 292.98875874889075 
+            text = "você disse que você faz regime ou não?" 
+        intervals [34]:
+            xmin = 292.98875874889075 
+            xmax = 294.6305933713071 
+            text = "..." 
+        intervals [35]:
+            xmin = 294.6305933713071 
+            xmax = 296.866830199499 
+            text = "então... e qual era a dieta do seu regime?" 
+        intervals [36]:
+            xmin = 296.866830199499 
+            xmax = 354.74168993910445 
+            text = "..." 
+        intervals [37]:
+            xmin = 354.74168993910445 
+            xmax = 358.12 
+            text = "e as frutas são selecionadas ou você pode comer qualquer tipo de fruta?" 
+        intervals [38]:
+            xmin = 358.12 
+            xmax = 370.9074521704532 
+            text = "..." 
+        intervals [39]:
+            xmin = 370.9074521704532 
+            xmax = 371.59858057245066 
+            text = "[ah é?" 
+        intervals [40]:
+            xmin = 371.59858057245066 
+            xmax = 380.531868100902 
+            text = "..." 
+        intervals [41]:
+            xmin = 380.531868100902 
+            xmax = 381.2665333932628 
+            text = "com [açúcar?" 
+        intervals [42]:
+            xmin = 381.2665333932628 
+            xmax = 385.14276157066996 
+            text = "..." 
+        intervals [43]:
+            xmin = 385.14276157066996 
+            xmax = 385.372479616101 
+            text = "( )" 
+        intervals [44]:
+            xmin = 385.372479616101 
+            xmax = 390.3473326117144 
+            text = "..." 
+        intervals [45]:
+            xmin = 390.3473326117144 
+            xmax = 392.32 
+            text = "[((risos))" 
+        intervals [46]:
+            xmin = 392.32 
+            xmax = 396.6 
+            text = "..." 
+        intervals [47]:
+            xmin = 396.6 
+            xmax = 400.39126562974894 
+            text = "quando você vai a uma festa o que que você tem predileção para comer?" 
+        intervals [48]:
+            xmin = 400.39126562974894 
+            xmax = 402.62894489908325 
+            text = "qual os quais são os seus pratos prediletos?" 
+        intervals [49]:
+            xmin = 402.62894489908325 
+            xmax = 414.14264549860997 
+            text = "..." 
+        intervals [50]:
+            xmin = 414.14264549860997 
+            xmax = 419.181299140289 
+            text = "[((risos)) ( ) (faz favor) ((risos))" 
+        intervals [51]:
+            xmin = 419.181299140289 
+            xmax = 420.97844030417787 
+            text = "..." 
+        intervals [52]:
+            xmin = 420.97844030417787 
+            xmax = 423.00681933536015 
+            text = "[((risos))" 
+        intervals [53]:
+            xmin = 423.00681933536015 
+            xmax = 433.913119957898 
+            text = "..." 
+        intervals [54]:
+            xmin = 433.913119957898 
+            xmax = 435.40401514901816 
+            text = "que tipo de doce você gosta?" 
+        intervals [55]:
+            xmin = 435.40401514901816 
+            xmax = 458.31555411156484 
+            text = "..." 
+        intervals [56]:
+            xmin = 458.31555411156484 
+            xmax = 461.8494290793572 
+            text = "escuta Renata e:: normalmente o que que você come de sobremesa?" 
+        intervals [57]:
+            xmin = 461.8494290793572 
+            xmax = 501.3570763632359 
+            text = "..." 
+        intervals [58]:
+            xmin = 501.3570763632359 
+            xmax = 503.25870428702723 
+            text = "[((risos))" 
+        intervals [59]:
+            xmin = 503.25870428702723 
+            xmax = 505.278041113132 
+            text = "..." 
+        intervals [60]:
+            xmin = 505.278041113132 
+            xmax = 512.9968146628206 
+            text = "escuta... você falou que você::... gosta muito de frutas também né?... eu queria saber quais as frutas que você mais gosta" 
+        intervals [61]:
+            xmin = 512.9968146628206 
+            xmax = 539.271245652863 
+            text = "..." 
+        intervals [62]:
+            xmin = 539.271245652863 
+            xmax = 540.049344360455 
+            text = "[(em particular)" 
+        intervals [63]:
+            xmin = 540.049344360455 
+            xmax = 543.6696035941505 
+            text = "..." 
+        intervals [64]:
+            xmin = 543.6696035941505 
+            xmax = 549.8934855395557 
+            text = "você disse que gosta de ca::rne... que tipo de carne que você gosta e quais os seus pratos prediletos que são feitos com carne?" 
+        intervals [65]:
+            xmin = 549.8934855395557 
+            xmax = 554.649662281451 
+            text = "..." 
+        intervals [66]:
+            xmin = 554.649662281451 
+            xmax = 555.28 
+            text = "também" 
+        intervals [67]:
+            xmin = 555.28 
+            xmax = 573.4099936776828 
+            text = "..." 
+        intervals [68]:
+            xmin = 573.4099936776828 
+            xmax = 573.9925983925625 
+            text = "[hum:::" 
+        intervals [69]:
+            xmin = 573.9925983925625 
+            xmax = 585.4881649273126 
+            text = "..." 
+        intervals [70]:
+            xmin = 585.4881649273126 
+            xmax = 585.889769112169 
+            text = "uhum" 
+        intervals [71]:
+            xmin = 585.889769112169 
+            xmax = 590.8494873020477 
+            text = "..." 
+        intervals [72]:
+            xmin = 590.8494873020477 
+            xmax = 595.0128198713004 
+            text = "e há alguma parte do frango que você tenha predileÇÃO ou você gosta de todas?" 
+        intervals [73]:
+            xmin = 595.0128198713004 
+            xmax = 600.3498068151773 
+            text = "..." 
+        intervals [74]:
+            xmin = 600.3498068151773 
+            xmax = 602.3199705203389 
+            text = "[((risos))" 
+        intervals [75]:
+            xmin = 602.3199705203389 
+            xmax = 614.5676536098972 
+            text = "..." 
+        intervals [76]:
+            xmin = 614.5676536098972 
+            xmax = 615.0862243089198 
+            text = "( )" 
+        intervals [77]:
+            xmin = 615.0862243089198 
+            xmax = 618.582337899425 
+            text = "..." 
+        intervals [78]:
+            xmin = 618.582337899425 
+            xmax = 622.3126994001785 
+            text = "e em relação aos aos produtos do mar você gosta de alguns?" 
+        intervals [79]:
+            xmin = 622.3126994001785 
+            xmax = 650.9397959392086 
+            text = "..." 
+        intervals [80]:
+            xmin = 650.9397959392086 
+            xmax = 654.2182396738557 
+            text = "e quais os pratos que você conhece que são feitos à base da pesca?" 
+        intervals [81]:
+            xmin = 654.2182396738557 
+            xmax = 663.2459716254946 
+            text = "..." 
+        intervals [82]:
+            xmin = 663.2459716254946 
+            xmax = 663.7303845344957 
+            text = "uhum" 
+        intervals [83]:
+            xmin = 663.7303845344957 
+            xmax = 665.0397129244523 
+            text = "..." 
+        intervals [84]:
+            xmin = 665.0397129244523 
+            xmax = 668.882431032637 
+            text = "escuta e quais os componentes::... de uma feijoada?" 
+        intervals [85]:
+            xmin = 668.882431032637 
+            xmax = 669.0733036479066 
+            text = "..." 
+        intervals [86]:
+            xmin = 669.0733036479066 
+            xmax = 669.6432704851701 
+            text = "você sabe?" 
+        intervals [87]:
+            xmin = 669.6432704851701 
+            xmax = 672.4643846537231 
+            text = "..." 
+        intervals [88]:
+            xmin = 672.4643846537231 
+            xmax = 676.9806047104815 
+            text = "[isso ((risos)) (me dá) a receita completa ((risos))" 
+        intervals [89]:
+            xmin = 676.9806047104815 
+            xmax = 689.0123390115151 
+            text = "..." 
+        intervals [90]:
+            xmin = 689.0123390115151 
+            xmax = 691.779657735969 
+            text = "[não ((risos))" 
+        intervals [91]:
+            xmin = 691.779657735969 
+            xmax = 694.1254758552309 
+            text = "..." 
+        intervals [92]:
+            xmin = 694.1254758552309 
+            xmax = 694.6697698889957 
+            text = "hã" 
+        intervals [93]:
+            xmin = 694.6697698889957 
+            xmax = 733.5470901252534 
+            text = "..." 
+        intervals [94]:
+            xmin = 733.5470901252534 
+            xmax = 733.9753039781535 
+            text = "hã" 
+        intervals [95]:
+            xmin = 733.9753039781535 
+            xmax = 736.1744973746742 
+            text = "..." 
+        intervals [96]:
+            xmin = 736.1744973746742 
+            xmax = 736.5269449099516 
+            text = "hum" 
+        intervals [97]:
+            xmin = 736.5269449099516 
+            xmax = 754.0155586976242 
+            text = "..." 
+        intervals [98]:
+            xmin = 754.0155586976242 
+            xmax = 756.1749948296028 
+            text = "e como é que prepara isso tudo você sabe?" 
+        intervals [99]:
+            xmin = 756.1749948296028 
+            xmax = 810.6261094216594 
+            text = "..." 
+        intervals [100]:
+            xmin = 810.6261094216594 
+            xmax = 811.9519274147528 
+            text = "((risos))" 
+        intervals [101]:
+            xmin = 811.9519274147528 
+            xmax = 814.1503709875622 
+            text = "escuta e quais os tipos de massa que você conhece?" 
+        intervals [102]:
+            xmin = 814.1503709875622 
+            xmax = 816.8104875627042 
+            text = "..." 
+        intervals [103]:
+            xmin = 816.8104875627042 
+            xmax = 818.2323793234132 
+            text = "[((risos))" 
+        intervals [104]:
+            xmin = 818.2323793234132 
+            xmax = 853.101001534706 
+            text = "..." 
+        intervals [105]:
+            xmin = 853.101001534706 
+            xmax = 857.4700012865458 
+            text = "hum::... [(dá) uma fome que eu não estou aguentando mais viu?" 
+        intervals [106]:
+            xmin = 857.4700012865458 
+            xmax = 861.7612089209082 
+            text = "..." 
+        intervals [107]:
+            xmin = 861.7612089209082 
+            xmax = 863.4847800282938 
+            text = "[((risos))" 
+        intervals [108]:
+            xmin = 863.4847800282938 
+            xmax = 864.3841317471234 
+            text = "..." 
+        intervals [109]:
+            xmin = 864.3841317471234 
+            xmax = 867.473057351874 
+            text = "e dá muito trabalho para fazer esses pratos? como é que prepara?" 
+        intervals [110]:
+            xmin = 867.473057351874 
+            xmax = 905.1090454217109 
+            text = "..." 
+        intervals [111]:
+            xmin = 905.1090454217109 
+            xmax = 905.9696833248292 
+            text = "[((risos))" 
+        intervals [112]:
+            xmin = 905.9696833248292 
+            xmax = 935.4004138587815 
+            text = "..." 
+        intervals [113]:
+            xmin = 935.4004138587815 
+            xmax = 936.1836241304775 
+            text = "[((risos))" 
+        intervals [114]:
+            xmin = 936.1836241304775 
+            xmax = 950.5353396972203 
+            text = "..." 
+        intervals [115]:
+            xmin = 950.5353396972203 
+            xmax = 951.2931962078212 
+            text = "uhum" 
+        intervals [116]:
+            xmin = 951.2931962078212 
+            xmax = 952.8357928646216 
+            text = "..." 
+        intervals [117]:
+            xmin = 952.8357928646216 
+            xmax = 954.9593913052114 
+            text = "acho que eu vou na sua casa comer lá [((risos))" 
+        intervals [118]:
+            xmin = 954.9593913052114 
+            xmax = 956.2041893796179 
+            text = "..." 
+        intervals [119]:
+            xmin = 956.2041893796179 
+            xmax = 959.5712441757629 
+            text = "e há alguma bebida especial para acompanhar esses [pratos ou (não?)" 
+        intervals [120]:
+            xmin = 959.5712441757629 
+            xmax = 984.7232799401406 
+            text = "..." 
+        intervals [121]:
+            xmin = 984.7232799401406 
+            xmax = 986.6708826689967 
+            text = "e quais os tipos de bebida que você conhece?" 
+        intervals [122]:
+            xmin = 986.6708826689967 
+            xmax = 992.6160141735949 
+            text = "..." 
+        intervals [123]:
+            xmin = 992.6160141735949 
+            xmax = 993.1312057211363 
+            text = "[((risos))" 
+        intervals [124]:
+            xmin = 993.1312057211363 
+            xmax = 1002.4935350771129 
+            text = "..." 
+        intervals [125]:
+            xmin = 1002.4935350771129 
+            xmax = 1003.9886973144393 
+            text = "[((risos))" 
+        intervals [126]:
+            xmin = 1003.9886973144393 
+            xmax = 1008.24 
+            text = "..." 
+        intervals [127]:
+            xmin = 1008.24 
+            xmax = 1008.6745983212281 
+            text = "[ah é?" 
+        intervals [128]:
+            xmin = 1008.6745983212281 
+            xmax = 1009.4995003944592 
+            text = "..." 
+        intervals [129]:
+            xmin = 1009.4995003944592 
+            xmax = 1011.6409667499927 
+            text = "e numa reunião de amigos o que que você costuma tomar?" 
+        intervals [130]:
+            xmin = 1011.6409667499927 
+            xmax = 1026.76 
+            text = "..." 
+        intervals [131]:
+            xmin = 1026.76 
+            xmax = 1027.2932031067191 
+            text = "hum" 
+        intervals [132]:
+            xmin = 1027.2932031067191 
+            xmax = 1027.4242344829725 
+            text = "..." 
+        intervals [133]:
+            xmin = 1027.4242344829725 
+            xmax = 1028.8519096393543 
+            text = "e quando você vai a um coquetel também?" 
+        intervals [134]:
+            xmin = 1028.8519096393543 
+            xmax = 1035.6046797781496 
+            text = "..." 
+        intervals [135]:
+            xmin = 1035.6046797781496 
+            xmax = 1038.8402204942677 
+            text = "se você fosse vegetaria::na como é que você se alimentaria?" 
+        intervals [136]:
+            xmin = 1038.8402204942677 
+            xmax = 1055.964735411219 
+            text = "..." 
+        intervals [137]:
+            xmin = 1055.964735411219 
+            xmax = 1058.096973261159 
+            text = "mas é só vegetais que come não?" 
+        intervals [138]:
+            xmin = 1058.096973261159 
+            xmax = 1077.4477862480348 
+            text = "..." 
+        intervals [139]:
+            xmin = 1077.4477862480348 
+            xmax = 1079.4430367500738 
+            text = "( )" 
+        intervals [140]:
+            xmin = 1079.4430367500738 
+            xmax = 1083.835020007747 
+            text = "..." 
+        intervals [141]:
+            xmin = 1083.835020007747 
+            xmax = 1086.4914052782533 
+            text = "escuta... do que que é composta uma ceia de Natal?" 
+        intervals [142]:
+            xmin = 1086.4914052782533 
+            xmax = 1171.1512944218757 
+            text = "..." 
+        intervals [143]:
+            xmin = 1171.1512944218757 
+            xmax = 1172.552001968486 
+            text = "[fica em bolinhas não é esse?" 
+        intervals [144]:
+            xmin = 1172.552001968486 
+            xmax = 1174.0243561895022 
+            text = "..." 
+        intervals [145]:
+            xmin = 1174.0243561895022 
+            xmax = 1176.3088370134308 
+            text = "[que nem ( ) com grãos cheio de bolinhas não é esse?" 
+        intervals [146]:
+            xmin = 1176.3088370134308 
+            xmax = 1183.2949532642879 
+            text = "..." 
+        intervals [147]:
+            xmin = 1183.2949532642879 
+            xmax = 1183.5553710546926 
+            text = "hum" 
+        intervals [148]:
+            xmin = 1183.5553710546926 
+            xmax = 1191.2133115763713 
+            text = "..." 
+        intervals [149]:
+            xmin = 1191.2133115763713 
+            xmax = 1192.9414367086472 
+            text = "ah:: então não é isso que eu conheço" 
+        intervals [150]:
+            xmin = 1192.9414367086472 
+            xmax = 1203.1423229759448 
+            text = "..." 
+        intervals [151]:
+            xmin = 1203.1423229759448 
+            xmax = 1204.082971011973 
+            text = "[( ) ((risos))" 
+        intervals [152]:
+            xmin = 1204.082971011973 
+            xmax = 1205.065094762967 
+            text = "..." 
+        intervals [153]:
+            xmin = 1205.065094762967 
+            xmax = 1206.1698128279722 
+            text = "[( )" 
+        intervals [154]:
+            xmin = 1206.1698128279722 
+            xmax = 1213.2146440938861 
+            text = "..." 
+        intervals [155]:
+            xmin = 1213.2146440938861 
+            xmax = 1213.5456342132622 
+            text = "uhum" 
+        intervals [156]:
+            xmin = 1213.5456342132622 
+            xmax = 1228.9833393906206 
+            text = "..." 
+        intervals [157]:
+            xmin = 1228.9833393906206 
+            xmax = 1229.7816096785275 
+            text = "[ah::" 
+        intervals [158]:
+            xmin = 1229.7816096785275 
+            xmax = 1234.0185101263412 
+            text = "..." 
+        intervals [159]:
+            xmin = 1234.0185101263412 
+            xmax = 1234.7638710262418 
+            text = "[((risos))" 
+        intervals [160]:
+            xmin = 1234.7638710262418 
+            xmax = 1236.3354943323582 
+            text = "..." 
+        intervals [161]:
+            xmin = 1236.3354943323582 
+            xmax = 1239.8286239804436 
+            text = "e de bebida vocês costumam tomar alguma bebida diferente nessa época?" 
+        intervals [162]:
+            xmin = 1239.8286239804436 
+            xmax = 1260.871281310065 
+            text = "..." 
+        intervals [163]:
+            xmin = 1260.871281310065 
+            xmax = 1266.2397020405315 
+            text = "se você fosse preparar um almoço... para uma visita tal... que tipo de almoço você [faria?" 
+        intervals [164]:
+            xmin = 1266.2397020405315 
+            xmax = 1270.72 
+            text = "..." 
+        intervals [165]:
+            xmin = 1270.72 
+            xmax = 1272.6599309012088 
+            text = "[ah é pode ser a gente" 
+        intervals [166]:
+            xmin = 1272.6599309012088 
+            xmax = 1273.3203983804465 
+            text = "..." 
+        intervals [167]:
+            xmin = 1273.3203983804465 
+            xmax = 1274.2674023677107 
+            text = "[( )" 
+        intervals [168]:
+            xmin = 1274.2674023677107 
+            xmax = 1282.5794008017665 
+            text = "..." 
+        intervals [169]:
+            xmin = 1282.5794008017665 
+            xmax = 1286.2405460923185 
+            text = "[(então quer dizer que a gente não) merece? [((risos))" 
+        intervals [170]:
+            xmin = 1286.2405460923185 
+            xmax = 1302.782344823523 
+            text = "..." 
+        intervals [171]:
+            xmin = 1302.782344823523 
+            xmax = 1304.96 
+            text = "[((risos))" 
+        intervals [172]:
+            xmin = 1304.96 
+            xmax = 1328.992590454493 
+            text = "..." 
+        intervals [173]:
+            xmin = 1328.992590454493 
+            xmax = 1340.1814908409287 
+            text = "não vamos supor que a gente omita a opinião a gente educada (como eu sou) assim ''não qualquer coisa se::rve e tal e não sei que''... e o que que você prepararia se a gente... deixasse... tudo a seu encargo?" 
+        intervals [174]:
+            xmin = 1340.1814908409287 
+            xmax = 1376.0865747502698 
+            text = "..." 
+        intervals [175]:
+            xmin = 1376.0865747502698 
+            xmax = 1377.577977623587 
+            text = "[( )" 
+        intervals [176]:
+            xmin = 1377.577977623587 
+            xmax = 1388.36 
+            text = "..." 
+        intervals [177]:
+            xmin = 1388.36 
+            xmax = 1388.918789580659 
+            text = "uhum" 
+        intervals [178]:
+            xmin = 1388.918789580659 
+            xmax = 1400.0274801848827 
+            text = "..." 
+        intervals [179]:
+            xmin = 1400.0274801848827 
+            xmax = 1401.298874323321 
+            text = "[((risos))" 
+        intervals [180]:
+            xmin = 1401.298874323321 
+            xmax = 1405.3 
+            text = "..." 
+        intervals [181]:
+            xmin = 1405.3 
+            xmax = 1406.26 
+            text = "uhum hum::" 
+        intervals [182]:
+            xmin = 1406.26 
+            xmax = 1408.8580269630609 
+            text = "..." 
+        intervals [183]:
+            xmin = 1408.8580269630609 
+            xmax = 1410.9646711578498 
+            text = "[somos bem brasileiras ((risos))" 
+        intervals [184]:
+            xmin = 1410.9646711578498 
+            xmax = 1418.7141899130986 
+            text = "e... você falou em jantar sofisticado... caso a gente quisesse jantar:: já que seria:: muito mais... sofisticado o que que você serviria?" 
+        intervals [185]:
+            xmin = 1418.7141899130986 
+            xmax = 1425.3877467898496 
+            text = "..." 
+        intervals [186]:
+            xmin = 1425.3877467898496 
+            xmax = 1426.92 
+            text = "[((risos))" 
+        intervals [187]:
+            xmin = 1426.92 
+            xmax = 1441.2037365244353 
+            text = "..." 
+        intervals [188]:
+            xmin = 1441.2037365244353 
+            xmax = 1441.5509509730848 
+            text = "uhum" 
+        intervals [189]:
+            xmin = 1441.5509509730848 
+            xmax = 1452.8842169293694 
+            text = "..." 
+        intervals [190]:
+            xmin = 1452.8842169293694 
+            xmax = 1453.8478277806785 
+            text = "[((risos))" 
+        intervals [191]:
+            xmin = 1453.8478277806785 
+            xmax = 1478.5857953452353 
+            text = "..." 
+        intervals [192]:
+            xmin = 1478.5857953452353 
+            xmax = 1478.8329172683216 
+            text = "hum" 
+        intervals [193]:
+            xmin = 1478.8329172683216 
+            xmax = 1479.0573191846397 
+            text = "..." 
+        intervals [194]:
+            xmin = 1479.0573191846397 
+            xmax = 1480.0834178371656 
+            text = "[e gostoso né?" 
+        intervals [195]:
+            xmin = 1480.0834178371656 
+            xmax = 1481.0076899058529 
+            text = "..." 
+        intervals [196]:
+            xmin = 1481.0076899058529 
+            xmax = 1481.7243923997928 
+            text = "mas gostoso?" 
+        intervals [197]:
+            xmin = 1481.7243923997928 
+            xmax = 1485.4616580751638 
+            text = "..." 
+        intervals [198]:
+            xmin = 1485.4616580751638 
+            xmax = 1487.0830506024374 
+            text = "[((risos))" 
+        intervals [199]:
+            xmin = 1487.0830506024374 
+            xmax = 1488.80478448357 
+            text = "..." 
+        intervals [200]:
+            xmin = 1488.80478448357 
+            xmax = 1490.345877098444 
+            text = "[que ti/ como é que seria esse peixe?" 
+        intervals [201]:
+            xmin = 1490.345877098444 
+            xmax = 1491.92 
+            text = "que tipo de peixe você serviria?" 
+        intervals [202]:
+            xmin = 1491.92 
+            xmax = 1512.8738708662563 
+            text = "..." 
+        intervals [203]:
+            xmin = 1512.8738708662563 
+            xmax = 1520.0901962883643 
+            text = "escuta Renata se você fosse:: para o Norte... qual a diferença que você notaria... quanto à alimentação?" 
+        intervals [204]:
+            xmin = 1520.0901962883643 
+            xmax = 1529.35582073202 
+            text = "..." 
+        intervals [205]:
+            xmin = 1529.35582073202 
+            xmax = 1530.6834700425964 
+            text = "[((risos))" 
+        intervals [206]:
+            xmin = 1530.6834700425964 
+            xmax = 1538.4817390803903 
+            text = "..." 
+        intervals [207]:
+            xmin = 1538.4817390803903 
+            xmax = 1539.7747827276828 
+            text = "[((risos))" 
+        intervals [208]:
+            xmin = 1539.7747827276828 
+            xmax = 1556.8363995070395 
+            text = "..." 
+        intervals [209]:
+            xmin = 1556.8363995070395 
+            xmax = 1559.0379446551601 
+            text = "toda comida ou a você conhece [algumas?" 
+        intervals [210]:
+            xmin = 1559.0379446551601 
+            xmax = 1582.9979285204959 
+            text = "..." 
+        intervals [211]:
+            xmin = 1582.9979285204959 
+            xmax = 1584.8766385912961 
+            text = "qual é a comida característica que você conhece?" 
+        intervals [212]:
+            xmin = 1584.8766385912961 
+            xmax = 1617.3571076258133 
+            text = "..." 
+        intervals [213]:
+            xmin = 1617.3571076258133 
+            xmax = 1617.8570713679387 
+            text = "uhum" 
+        intervals [214]:
+            xmin = 1617.8570713679387 
+            xmax = 1634.7117169193307 
+            text = "..." 
+        intervals [215]:
+            xmin = 1634.7117169193307 
+            xmax = 1637.5741763855258 
+            text = "[((risos))" 
+        intervals [216]:
+            xmin = 1637.5741763855258 
+            xmax = 1648.2360747497223 
+            text = "..." 
+        intervals [217]:
+            xmin = 1648.2360747497223 
+            xmax = 1651.478696734364 
+            text = "quando você vai tomar lanche que tipo de frios que você prefere?" 
+        intervals [218]:
+            xmin = 1651.478696734364 
+            xmax = 1693.5148664672465 
+            text = "..." 
+        intervals [219]:
+            xmin = 1693.5148664672465 
+            xmax = 1693.6882078571423 
+            text = "hum" 
+        intervals [220]:
+            xmin = 1693.6882078571423 
+            xmax = 1697.5230030672578 
+            text = "..." 
+        intervals [221]:
+            xmin = 1697.5230030672578 
+            xmax = 1699.862463309461 
+            text = "[bom mas em casa você pode tomar lanche né?" 
+        intervals [222]:
+            xmin = 1699.862463309461 
+            xmax = 1703.6367269738278 
+            text = "..." 
+        intervals [223]:
+            xmin = 1703.6367269738278 
+            xmax = 1704.2581104818978 
+            text = "((risos))" 
+        intervals [224]:
+            xmin = 1704.2581104818978 
+            xmax = 1720.2188222368259 
+            text = "..." 
+        intervals [225]:
+            xmin = 1720.2188222368259 
+            xmax = 1721.0613774501103 
+            text = "((risos))" 
+        intervals [226]:
+            xmin = 1721.0613774501103 
+            xmax = 1728.7912276761074 
+            text = "..." 
+        intervals [227]:
+            xmin = 1728.7912276761074 
+            xmax = 1731.92 
+            text = "você sabe à base do que que é feita a alimentação macrobiótica?" 
+        intervals [228]:
+            xmin = 1731.92 
+            xmax = 1758.9864709813264 
+            text = "..." 
+        intervals [229]:
+            xmin = 1758.9864709813264 
+            xmax = 1759.5042905713847 
+            text = "((risos))" 
+        intervals [230]:
+            xmin = 1759.5042905713847 
+            xmax = 1766.9239116320264 
+            text = "..." 
+        intervals [231]:
+            xmin = 1766.9239116320264 
+            xmax = 1775.1125764886797 
+            text = "escuta Renata vamos supor que você estivesse na sua casa... morrendo de fome... então se você ''vou fazer um sanduíche''... que tipo de sanduíche você faria?" 
+        intervals [232]:
+            xmin = 1775.1125764886797 
+            xmax = 1775.27260321032 
+            text = "..." 
+        intervals [233]:
+            xmin = 1775.27260321032 
+            xmax = 1776.828137435104 
+            text = "o que você lô/ colocaria [dentro do pão?" 
+        intervals [234]:
+            xmin = 1776.828137435104 
+            xmax = 1804.477638274308 
+            text = "..." 
+        intervals [235]:
+            xmin = 1804.477638274308 
+            xmax = 1808.6920487906777 
+            text = "se num jantar você quisesse tomar uma refeição bem leve o que que você comeria?" 
+        intervals [236]:
+            xmin = 1808.6920487906777 
+            xmax = 1843.06 
+            text = "..." 
+        intervals [237]:
+            xmin = 1843.06 
+            xmax = 1844.50154744053 
+            text = "(hora) ser bem leve né?" 
+        intervals [238]:
+            xmin = 1844.50154744053 
+            xmax = 1846.2623105586313 
+            text = "e quais os tipos de sopa que você conhece?" 
+        intervals [239]:
+            xmin = 1846.2623105586313 
+            xmax = 1864.16 
+            text = "..." 
+        intervals [240]:
+            xmin = 1864.16 
+            xmax = 1872.9121670861061 
+            text = "[vamos supor que não tivessem... essas sopinhas em saco... você tivesse que fazer sopa na sua casa tá?... que tipo de sopa você iria fazer?" 
+        intervals [241]:
+            xmin = 1872.9121670861061 
+            xmax = 1888.9804327837799 
+            text = "..." 
+        intervals [242]:
+            xmin = 1888.9804327837799 
+            xmax = 1889.6356286247717 
+            text = "[((risos))" 
+        intervals [243]:
+            xmin = 1889.6356286247717 
+            xmax = 1902.1175625938972 
+            text = "..." 
+        intervals [244]:
+            xmin = 1902.1175625938972 
+            xmax = 1903.5114213581728 
+            text = "[( )" 
+        intervals [245]:
+            xmin = 1903.5114213581728 
+            xmax = 1905.5256980933943 
+            text = "..." 
+        intervals [246]:
+            xmin = 1905.5256980933943 
+            xmax = 1906.7746650942315 
+            text = "[dá para sobreviver [né?" 
+        intervals [247]:
+            xmin = 1906.7746650942315 
+            xmax = 1912.503220784951 
+            text = "..." 
+        intervals [248]:
+            xmin = 1912.503220784951 
+            xmax = 1915.3401337630855 
+            text = "e:: e não acompanharia nada junto dessa sopa?" 
+        intervals [249]:
+            xmin = 1915.3401337630855 
+            xmax = 1916.620727320106 
+            text = "você só tomaria a sopa?" 
+        intervals [250]:
+            xmin = 1916.620727320106 
+            xmax = 1919.1026043305128 
+            text = "..." 
+        intervals [251]:
+            xmin = 1919.1026043305128 
+            xmax = 1926.367870827871 
+            text = "não você falou que éh:: comida de fim de semana em [Santos certo?... e você só tomaria sopa ou teria algum acompanhamento?" 
+        intervals [252]:
+            xmin = 1926.367870827871 
+            xmax = 1978.7854169246923 
+            text = "..." 
+        intervals [253]:
+            xmin = 1978.7854169246923 
+            xmax = 1987.1791331352183 
+            text = "e:: escuta Renata você me falou que você gosta muito de ca::rne e tal né?... quando você vai comer um bife... o que acompanha o bife?" 
+        intervals [254]:
+            xmin = 1987.1791331352183 
+            xmax = 1990.984624462161 
+            text = "ou você come somente o bife ou você gosta de bife:: acompanha de alguma outra coisa?" 
+        intervals [255]:
+            xmin = 1990.984624462161 
+            xmax = 2015.8540909140836 
+            text = "..." 
+        intervals [256]:
+            xmin = 2015.8540909140836 
+            xmax = 2017.868493050488 
+            text = "e [como é você costuma temperar esse bife?" 
+        intervals [257]:
+            xmin = 2017.868493050488 
+            xmax = 2023.4668207827644 
+            text = "..." 
+        intervals [258]:
+            xmin = 2023.4668207827644 
+            xmax = 2025.5365872845073 
+            text = "[((risos))" 
+        intervals [259]:
+            xmin = 2025.5365872845073 
+            xmax = 2048.268440144534 
+            text = "..." 
+        intervals [260]:
+            xmin = 2048.268440144534 
+            xmax = 2048.6634186669166 
+            text = "[uhum" 
+        intervals [261]:
+            xmin = 2048.6634186669166 
+            xmax = 2052.2 
+            text = "..." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "TB-l1" 
+        xmin = 0 
+        xmax = 2052.2 
+        intervals: size = 514 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.004823747246567629 
+            text = "..." 
+        intervals [2]:
+            xmin = 0.004823747246567629 
+            xmax = 2.9923956635148095 
+            text = "de manhã eu não costumo tomar nada" 
+        intervals [3]:
+            xmin = 2.9923956635148095 
+            xmax = 3.235907025513613 
+            text = "..." 
+        intervals [4]:
+            xmin = 3.235907025513613 
+            xmax = 4.706971320876198 
+            text = "a não ser uma xícara de café né?" 
+        intervals [5]:
+            xmin = 4.706971320876198 
+            xmax = 5.846058647534385 
+            text = "..." 
+        intervals [6]:
+            xmin = 5.846058647534385 
+            xmax = 9.9953610181269 
+            text = "mas::... ao almoço... as refeições comuns né?" 
+        intervals [7]:
+            xmin = 9.9953610181269 
+            xmax = 11.19899280730266 
+            text = "..." 
+        intervals [8]:
+            xmin = 11.19899280730266 
+            xmax = 14.315804310402095 
+            text = "arroz bife... verduras" 
+        intervals [9]:
+            xmin = 14.315804310402095 
+            xmax = 14.779266662422815 
+            text = "..." 
+        intervals [10]:
+            xmin = 14.779266662422815 
+            xmax = 16.02427808112415 
+            text = "porque agora precisa manter a linha" 
+        intervals [11]:
+            xmin = 16.02427808112415 
+            xmax = 16.836343308735813 
+            text = "..." 
+        intervals [12]:
+            xmin = 16.836343308735813 
+            xmax = 29.71917430299026 
+            text = "então... para não engordar muito nada de muita massa nem de muita:: gordura... nem nada dessas coisas que vão::... contribuir para::... estufar outra vez" 
+        intervals [13]:
+            xmin = 29.71917430299026 
+            xmax = 30.256656324143304 
+            text = "..." 
+        intervals [14]:
+            xmin = 30.256656324143304 
+            xmax = 45.83095010880126 
+            text = "então... e à noite... dependendo dos dias::... em que eu... não trabalho aqui né?... então já... janto em casa... porque aqui eu trabalho de segunda quarta e sexta" 
+        intervals [15]:
+            xmin = 45.83095010880126 
+            xmax = 46.24094134604271 
+            text = "..." 
+        intervals [16]:
+            xmin = 46.24094134604271 
+            xmax = 47.933298439414244 
+            text = "até:: as nove horas" 
+        intervals [17]:
+            xmin = 47.933298439414244 
+            xmax = 49.159791049863195 
+            text = "..." 
+        intervals [18]:
+            xmin = 49.159791049863195 
+            xmax = 55.6033645830259 
+            text = "e:: terças e quintas então que eu tenho oportunidade de:: jantar em casa... então aí eu faço uma refeição mais completa" 
+        intervals [19]:
+            xmin = 55.6033645830259 
+            xmax = 58.9724035500082 
+            text = "..." 
+        intervals [20]:
+            xmin = 58.9724035500082 
+            xmax = 72.98909673382893 
+            text = "e quanto à::... aos intervalos né? dessas ê/ dessas::... entre essas refeições vocês já viram a gente toma chazinho bolachinha e come e come e cô/ [((risos))" 
+        intervals [21]:
+            xmin = 72.98909673382893 
+            xmax = 78.41389542088716 
+            text = "..." 
+        intervals [22]:
+            xmin = 78.41389542088716 
+            xmax = 86.24798591014923 
+            text = "bem... eu não estou entendendo bem aonde você quer chegar com esse ''o que você costuma COmer em cada uma dessas refeições''" 
+        intervals [23]:
+            xmin = 86.24798591014923 
+            xmax = 91.10261071920111 
+            text = "..." 
+        intervals [24]:
+            xmin = 91.10261071920111 
+            xmax = 96.00818535716348 
+            text = "ah como eu já lhe disse né? as comidas comuns arroz verduras:: carne" 
+        intervals [25]:
+            xmin = 96.00818535716348 
+            xmax = 96.53416134500984 
+            text = "..." 
+        intervals [26]:
+            xmin = 96.53416134500984 
+            xmax = 97.99830674791276 
+            text = "peixe não porque eu não gosto de peixe" 
+        intervals [27]:
+            xmin = 97.99830674791276 
+            xmax = 98.43411542355689 
+            text = "..." 
+        intervals [28]:
+            xmin = 98.43411542355689 
+            xmax = 106.75234929006155 
+            text = "ah... às vezes... as massas né?... e nada mais de tanto extraordinário" 
+        intervals [29]:
+            xmin = 106.75234929006155 
+            xmax = 116.26927530308537 
+            text = "..." 
+        intervals [30]:
+            xmin = 116.26927530308537 
+            xmax = 116.58638573243182 
+            text = "não" 
+        intervals [31]:
+            xmin = 116.58638573243182 
+            xmax = 117.41738182684004 
+            text = "..." 
+        intervals [32]:
+            xmin = 117.41738182684004 
+            xmax = 119.47869885269128 
+            text = "para mim é:: indiferente" 
+        intervals [33]:
+            xmin = 119.47869885269128 
+            xmax = 121.9086835431077 
+            text = "..." 
+        intervals [34]:
+            xmin = 121.9086835431077 
+            xmax = 126.34904536746323 
+            text = "hã... o tipo da refeição... é indiferente" 
+        intervals [35]:
+            xmin = 126.34904536746323 
+            xmax = 127.17218714744752 
+            text = "..." 
+        intervals [36]:
+            xmin = 127.17218714744752 
+            xmax = 132.37434124206212 
+            text = "não não importa::... o meNU... que esteja" 
+        intervals [37]:
+            xmin = 132.37434124206212 
+            xmax = 133.77761743550204 
+            text = "..." 
+        intervals [38]:
+            xmin = 133.77761743550204 
+            xmax = 141.67510019494003 
+            text = "eu como aquilo que:: a... acho agradável... e não tenho assim GRANdes predileções não" 
+        intervals [39]:
+            xmin = 141.67510019494003 
+            xmax = 153.36693255135162 
+            text = "..." 
+        intervals [40]:
+            xmin = 153.36693255135162 
+            xmax = 155.87029156199767 
+            text = "isso aí é um bocado difícil de responder viu?" 
+        intervals [41]:
+            xmin = 155.87029156199767 
+            xmax = 156.21196905573885 
+            text = "..." 
+        intervals [42]:
+            xmin = 156.21196905573885 
+            xmax = 163.6633981146371 
+            text = "porque eu deTESto comer comidas... de restaurante assim MUIto preparadas MUIto cheia de molho MUIto cheia de coisa" 
+        intervals [43]:
+            xmin = 163.6633981146371 
+            xmax = 164.11587973745117 
+            text = "..." 
+        intervals [44]:
+            xmin = 164.11587973745117 
+            xmax = 172.5549971036383 
+            text = "então... eu acho um bocado diFÍcil... ahn... fazer as refeições fora de casa viu?" 
+        intervals [45]:
+            xmin = 172.5549971036383 
+            xmax = 174.81910471295888 
+            text = "..." 
+        intervals [46]:
+            xmin = 174.81910471295888 
+            xmax = 175.59158665917056 
+            text = "não gosto" 
+        intervals [47]:
+            xmin = 175.59158665917056 
+            xmax = 188.52328624125406 
+            text = "não gosto de de comer sanduíches nem de::... de hum... desses pratos muito preparados dessas comidas... éh chine::sas por exemplo né?... cheia de molho cheia de coisa eu não gosto" 
+        intervals [48]:
+            xmin = 188.52328624125406 
+            xmax = 189.512588409045 
+            text = "..." 
+        intervals [49]:
+            xmin = 189.512588409045 
+            xmax = 194.80050757210637 
+            text = "então... eu f/ diFIcilmente... como fora de casa" 
+        intervals [50]:
+            xmin = 194.80050757210637 
+            xmax = 199.82805646861445 
+            text = "..." 
+        intervals [51]:
+            xmin = 199.82805646861445 
+            xmax = 204.06514807835006 
+            text = "ah então a gente vai numa lanchonete né? onde se come umas coisas mais mais rápidas" 
+        intervals [52]:
+            xmin = 204.06514807835006 
+            xmax = 214.49130007273368 
+            text = "hambúrguer essas... essas comidas::... éh... à base de carne... né?... e:: ou sanduíches" 
+        intervals [53]:
+            xmin = 214.49130007273368 
+            xmax = 216.393861335233 
+            text = "..." 
+        intervals [54]:
+            xmin = 216.393861335233 
+            xmax = 220.01695361674797 
+            text = "agora empadinha coxinha essas coisas eu não gosto muito não de de comer fora de casa" 
+        intervals [55]:
+            xmin = 220.01695361674797 
+            xmax = 227.89931022795713 
+            text = "..." 
+        intervals [56]:
+            xmin = 227.89931022795713 
+            xmax = 232.90490723371764 
+            text = "eu tomo::... café com leite... e não como nada de sólido" 
+        intervals [57]:
+            xmin = 232.90490723371764 
+            xmax = 238.19232916682745 
+            text = "..." 
+        intervals [58]:
+            xmin = 238.19232916682745 
+            xmax = 248.77843476457824 
+            text = "não não é bem continuar o regime é um:: hábito que eu tenho de muitos anos... e eu não::... não como... durante o período da manhã" 
+        intervals [59]:
+            xmin = 248.77843476457824 
+            xmax = 272.68664114455976 
+            text = "porque eu sempre trabalhei... CEdo... das... no período::... bem cedo né?... das sete às onze das sete a meio-dia... e:: nesse intervalo eu quase nunca... tomava lanche... e acostumei... com esse... com esse tipo de... de VIda... de maneira que agora também... não como quase em casa" 
+        intervals [60]:
+            xmin = 272.68664114455976 
+            xmax = 273.05868985371626 
+            text = "..." 
+        intervals [61]:
+            xmin = 273.05868985371626 
+            xmax = 274.73930427682205 
+            text = "éh neste nesse horário" 
+        intervals [62]:
+            xmin = 274.73930427682205 
+            xmax = 279.8053106052112 
+            text = "..." 
+        intervals [63]:
+            xmin = 279.8053106052112 
+            xmax = 285.9141031566907 
+            text = "ah tomar água tomar vinho::... algumas vezes... e:: refrigerantes" 
+        intervals [64]:
+            xmin = 285.9141031566907 
+            xmax = 286.57218027611196 
+            text = "..." 
+        intervals [65]:
+            xmin = 286.57218027611196 
+            xmax = 290.4144904095287 
+            text = "isso embora engorde bastante né?... eu gosto de tomar" 
+        intervals [66]:
+            xmin = 290.4144904095287 
+            xmax = 293.2366700085076 
+            text = "..." 
+        intervals [67]:
+            xmin = 293.2366700085076 
+            xmax = 293.4834247568662 
+            text = "não" 
+        intervals [68]:
+            xmin = 293.4834247568662 
+            xmax = 294.4028197574376 
+            text = "eu JÁ fiz" 
+        intervals [69]:
+            xmin = 294.4028197574376 
+            xmax = 298.5921709710165 
+            text = "..." 
+        intervals [70]:
+            xmin = 298.5921709710165 
+            xmax = 300.2452612106147 
+            text = "não era nada extraordinário viu?" 
+        intervals [71]:
+            xmin = 300.2452612106147 
+            xmax = 304.0547287321648 
+            text = "era até muito comum... porque se podia comer de tudo" 
+        intervals [72]:
+            xmin = 304.0547287321648 
+            xmax = 304.967521762283 
+            text = "..." 
+        intervals [73]:
+            xmin = 304.967521762283 
+            xmax = 317.03778206201093 
+            text = "você comia:: normalmente... verduras... ca::rnes frutas... legumes... ma::s tudo em quantidade... restrita" 
+        intervals [74]:
+            xmin = 317.03778206201093 
+            xmax = 317.4679806609561 
+            text = "..." 
+        intervals [75]:
+            xmin = 317.4679806609561 
+            xmax = 321.297179668572 
+            text = "você não::... podia exagerar na na quantidade" 
+        intervals [76]:
+            xmin = 321.297179668572 
+            xmax = 322.7888823870871 
+            text = "agora na qualidade sim" 
+        intervals [77]:
+            xmin = 322.7888823870871 
+            xmax = 323.25864670152697 
+            text = "..." 
+        intervals [78]:
+            xmin = 323.25864670152697 
+            xmax = 325.4521507158545 
+            text = "podia:... exagerar à vontade" 
+        intervals [79]:
+            xmin = 325.4521507158545 
+            xmax = 326.06011000820837 
+            text = "..." 
+        intervals [80]:
+            xmin = 326.06011000820837 
+            xmax = 336.5598479837692 
+            text = "agora não come::r... as::... a... as massas nem pão... nem... nem muito::... muita coisa gordurosa" 
+        intervals [81]:
+            xmin = 336.5598479837692 
+            xmax = 338.0077505001668 
+            text = "..." 
+        intervals [82]:
+            xmin = 338.0077505001668 
+            xmax = 344.9249622521352 
+            text = "agora nada de refrigerantes... nem de bebidas alcoólicas uísques esse negócio todo nada disso" 
+        intervals [83]:
+            xmin = 344.9249622521352 
+            xmax = 345.9280729639972 
+            text = "..." 
+        intervals [84]:
+            xmin = 345.9280729639972 
+            xmax = 353.09940888768614 
+            text = "então você podia comer... as coisas que você gosTAsse ma::s em quantidades pequenas::" 
+        intervals [85]:
+            xmin = 353.09940888768614 
+            xmax = 358.48040995436105 
+            text = "..." 
+        intervals [86]:
+            xmin = 358.48040995436105 
+            xmax = 359.35218732284744 
+            text = "ah qualquer tipo" 
+        intervals [87]:
+            xmin = 359.35218732284744 
+            xmax = 359.6746740729786 
+            text = "..." 
+        intervals [88]:
+            xmin = 359.6746740729786 
+            xmax = 361.8700143635609 
+            text = "não há::... diferença" 
+        intervals [89]:
+            xmin = 361.8700143635609 
+            xmax = 362.98360346275973 
+            text = "quanto às frutas não" 
+        intervals [90]:
+            xmin = 362.98360346275973 
+            xmax = 363.69222655941917 
+            text = "..." 
+        intervals [91]:
+            xmin = 363.69222655941917 
+            xmax = 366.6717038949346 
+            text = "você pode comer... as que mais lhe agradem né?" 
+        intervals [92]:
+            xmin = 366.6717038949346 
+            xmax = 367.180937907651 
+            text = "..." 
+        intervals [93]:
+            xmin = 367.180937907651 
+            xmax = 370.3101737275973 
+            text = "maçã:: pera:: laranja... bastante laranja" 
+        intervals [94]:
+            xmin = 370.3101737275973 
+            xmax = 370.9074521704532 
+            text = "..." 
+        intervals [95]:
+            xmin = 370.9074521704532 
+            xmax = 380.17748705680185 
+            text = "[até achei... achei interessante porque laranja é um negócio meio ácido assim né? mas podia tomar bastante laranja laranjada::... éh com açúcar... não é?" 
+        intervals [96]:
+            xmin = 380.17748705680185 
+            xmax = 381.08115871925725 
+            text = "..." 
+        intervals [97]:
+            xmin = 381.08115871925725 
+            xmax = 382.09752948767107 
+            text = "[com açúcar" 
+        intervals [98]:
+            xmin = 382.09752948767107 
+            xmax = 383.1362746056813 
+            text = "..." 
+        intervals [99]:
+            xmin = 383.1362746056813 
+            xmax = 384.46287682133976 
+            text = "agora não exagera né?" 
+        intervals [100]:
+            xmin = 384.46287682133976 
+            xmax = 385.372479616101 
+            text = "..." 
+        intervals [101]:
+            xmin = 385.372479616101 
+            xmax = 395.028794988063 
+            text = "como nós aqui exageramos no nosso chá que eu tomo com três quatro colheres de açúcar então já... [((risos)) já vai estufando um pouco ((risos))" 
+        intervals [102]:
+            xmin = 395.028794988063 
+            xmax = 403.1095825684998 
+            text = "..." 
+        intervals [103]:
+            xmin = 403.1095825684998 
+            xmax = 404.99975103773045 
+            text = "ah são os salgadinhos né?" 
+        intervals [104]:
+            xmin = 404.99975103773045 
+            xmax = 405.6732560521995 
+            text = "..." 
+        intervals [105]:
+            xmin = 405.6732560521995 
+            xmax = 419.181299140289 
+            text = "então... maionese... as coxinhas empadinhas camarão... camarão empanado [((risos))" 
+        intervals [106]:
+            xmin = 419.181299140289 
+            xmax = 423.00681933536015 
+            text = "é melhor nem pensar muito nisso [((risos))" 
+        intervals [107]:
+            xmin = 423.00681933536015 
+            xmax = 424.201376221072 
+            text = "..." 
+        intervals [108]:
+            xmin = 424.201376221072 
+            xmax = 426.58769753418596 
+            text = "eu prefiro... os salgados" 
+        intervals [109]:
+            xmin = 426.58769753418596 
+            xmax = 426.75582337915426 
+            text = "..." 
+        intervals [110]:
+            xmin = 426.75582337915426 
+            xmax = 428.7245452619106 
+            text = "se bem que também gosto dos doces né?" 
+        intervals [111]:
+            xmin = 428.7245452619106 
+            xmax = 429.933727015849 
+            text = "..." 
+        intervals [112]:
+            xmin = 429.933727015849 
+            xmax = 431.49876444772895 
+            text = "aproveite também" 
+        intervals [113]:
+            xmin = 431.49876444772895 
+            xmax = 436.8444131241135 
+            text = "..." 
+        intervals [114]:
+            xmin = 436.8444131241135 
+            xmax = 438.6242052516307 
+            text = "ih agora nem sei lhe dizer viu?" 
+        intervals [115]:
+            xmin = 438.6242052516307 
+            xmax = 439.47788101539925 
+            text = "..." 
+        intervals [116]:
+            xmin = 439.47788101539925 
+            xmax = 453.8242078165479 
+            text = "são tantos os doces que a gente gosta quindim... brigadeiros... cocadinhas... doces de confeitaria doce enfeiTAdo com chantili:: com esses... éh... toda essa ((risos))" 
+        intervals [117]:
+            xmin = 453.8242078165479 
+            xmax = 463.2167499762167 
+            text = "..." 
+        intervals [118]:
+            xmin = 463.2167499762167 
+            xmax = 465.0525134163687 
+            text = "prefiro comer frutas::" 
+        intervals [119]:
+            xmin = 465.0525134163687 
+            xmax = 466.41655820787963 
+            text = "..." 
+        intervals [120]:
+            xmin = 466.41655820787963 
+            xmax = 472.839227934117 
+            text = "então todos os dias::... as refeições nós lá em casa costumamos mais comer frutas do que doces" 
+        intervals [121]:
+            xmin = 472.839227934117 
+            xmax = 474.1327186427181 
+            text = "..." 
+        intervals [122]:
+            xmin = 474.1327186427181 
+            xmax = 476.6086536806103 
+            text = "o pessoal todo lá em casa prefere as frutas" 
+        intervals [123]:
+            xmin = 476.6086536806103 
+            xmax = 477.5051623426394 
+            text = "..." 
+        intervals [124]:
+            xmin = 477.5051623426394 
+            xmax = 480.6678572723386 
+            text = "se bem que os doces em calda também tenham bastante aceitação viu?" 
+        intervals [125]:
+            xmin = 480.6678572723386 
+            xmax = 484.63272599848614 
+            text = "pêssego em calda goiaba em calda:: com Catupiri ((risos))" 
+        intervals [126]:
+            xmin = 484.63272599848614 
+            xmax = 492.0413389759846 
+            text = "então a gente ((risos)) aproveita::... a reunião das pessoas" 
+        intervals [127]:
+            xmin = 492.0413389759846 
+            xmax = 493.9076233529852 
+            text = "--porque lá em casa nós somos ba/ bastante né?" 
+        intervals [128]:
+            xmin = 493.9076233529852 
+            xmax = 503.25870428702723 
+            text = "somos seis... então cada um gostando duma coisa... ah:: a gente experimenta seis sobremesas ao mesmo tempo né? [((risos))" 
+        intervals [129]:
+            xmin = 503.25870428702723 
+            xmax = 514.1292934906205 
+            text = "..." 
+        intervals [130]:
+            xmin = 514.1292934906205 
+            xmax = 523.3295467049716 
+            text = "eu prefiro pêssego::... morango::... laranja::... bananas... éh e que mais que tem?" 
+        intervals [131]:
+            xmin = 523.3295467049716 
+            xmax = 523.8901775359991 
+            text = "..." 
+        intervals [132]:
+            xmin = 523.8901775359991 
+            xmax = 527.1860552010287 
+            text = "agora caqui goia::ba melancia eu não gosto" 
+        intervals [133]:
+            xmin = 527.1860552010287 
+            xmax = 529.7256939967014 
+            text = "..." 
+        intervals [134]:
+            xmin = 529.7256939967014 
+            xmax = 530.75632891274 
+            text = "não faço questão" 
+        intervals [135]:
+            xmin = 530.75632891274 
+            xmax = 532.4943238767912 
+            text = "abacaxi também eu gosto" 
+        intervals [136]:
+            xmin = 532.4943238767912 
+            xmax = 535.2385195258488 
+            text = "..." 
+        intervals [137]:
+            xmin = 535.2385195258488 
+            xmax = 541.2416278908269 
+            text = "e acho que::... mais nenhuma de::... [em particular não" 
+        intervals [138]:
+            xmin = 541.2416278908269 
+            xmax = 550.4140064222875 
+            text = "..." 
+        intervals [139]:
+            xmin = 550.4140064222875 
+            xmax = 553.7918045445114 
+            text = "bom aí o tipo que você pergunta é a maneira como eles são feitos?" 
+        intervals [140]:
+            xmin = 553.7918045445114 
+            xmax = 556.5447641349081 
+            text = "..." 
+        intervals [141]:
+            xmin = 556.5447641349081 
+            xmax = 558.4627774097368 
+            text = "bom eu prefiro carnes assadas::" 
+        intervals [142]:
+            xmin = 558.4627774097368 
+            xmax = 558.8835856208539 
+            text = "..." 
+        intervals [143]:
+            xmin = 558.8835856208539 
+            xmax = 565.9713861224039 
+            text = "carne de porco... um pernil um lindo dum pernil cheio de batatinhas assim em volta é uma delícia né? ((risos)) (então) ((risos))" 
+        intervals [144]:
+            xmin = 565.9713861224039 
+            xmax = 576.28 
+            text = "lombo de po::rco::... hã frango... um franguinho um frango assado né? que vocês devem estar acostumados também [a... ((risos)) a saborear por aí né?" 
+        intervals [145]:
+            xmin = 576.28 
+            xmax = 577.768758931019 
+            text = "..." 
+        intervals [146]:
+            xmin = 577.768758931019 
+            xmax = 585.4881649273126 
+            text = "frangos... carnes de vaca bife bife à milanesa:: bifes... éh grelhados né?" 
+        intervals [147]:
+            xmin = 585.4881649273126 
+            xmax = 587.5777299289357 
+            text = "..." 
+        intervals [148]:
+            xmin = 587.5777299289357 
+            xmax = 589.8850971259396 
+            text = "são os tipos que eu prefiro de carne" 
+        intervals [149]:
+            xmin = 589.8850971259396 
+            xmax = 595.3728564928552 
+            text = "..." 
+        intervals [150]:
+            xmin = 595.3728564928552 
+            xmax = 602.3199705203389 
+            text = "não ih Deus me livre detesto asa... pés cabeça esse negócio [((risos))" 
+        intervals [151]:
+            xmin = 602.3199705203389 
+            xmax = 613.0777329991355 
+            text = "frango para mim são esses frangos comprados em supermercados que a gente compra os pedacinhos certinho que a gente gosta né? as coxas... as partes do peito:: então frango para mim é isso aí" 
+        intervals [152]:
+            xmin = 613.0777329991355 
+            xmax = 613.934697721494 
+            text = "..." 
+        intervals [153]:
+            xmin = 613.934697721494 
+            xmax = 616.9483421431144 
+            text = "ahn... o frango inteiro não existe ((risos))" 
+        intervals [154]:
+            xmin = 616.9483421431144 
+            xmax = 623.0657896107359 
+            text = "..." 
+        intervals [155]:
+            xmin = 623.0657896107359 
+            xmax = 642.7061507219129 
+            text = "de::: falando em peixes assim ca/ prefiro camarão... e:: em questão de peixe... --aliás camarão não é peixe né? precisa explicar bem isso aí--... ah:: falando em peixes eu prefiro a pescada::... pescadinha branca é::... é a uma das únicas... qualidades de peixe que eu prefiro" 
+        intervals [156]:
+            xmin = 642.7061507219129 
+            xmax = 642.8992612734742 
+            text = "..." 
+        intervals [157]:
+            xmin = 642.8992612734742 
+            xmax = 644.1299319071526 
+            text = "o resto não faço questão" 
+        intervals [158]:
+            xmin = 644.1299319071526 
+            xmax = 644.4506918063561 
+            text = "..." 
+        intervals [159]:
+            xmin = 644.4506918063561 
+            xmax = 649.4673421590787 
+            text = "o::stra:: mari::sco::... e esse negócio todo aí eu não gosto não" 
+        intervals [160]:
+            xmin = 649.4673421590787 
+            xmax = 654.7222909440325 
+            text = "..." 
+        intervals [161]:
+            xmin = 654.7222909440325 
+            xmax = 657.0960846310232 
+            text = "ih acho que eu não conheço na::da minha filha" 
+        intervals [162]:
+            xmin = 657.0960846310232 
+            xmax = 663.2459716254946 
+            text = "sou uma nulidade nesses assuntos porque eu não gosto e eu não::... nem procuro tomar conhecimento disso viu?" 
+        intervals [163]:
+            xmin = 663.2459716254946 
+            xmax = 670.3728991885089 
+            text = "..." 
+        intervals [164]:
+            xmin = 670.3728991885089 
+            xmax = 671.7279461096335 
+            text = "vamos fazer uma linda feijoada" 
+        intervals [165]:
+            xmin = 671.7279461096335 
+            xmax = 674.88 
+            text = "você quer uma [rece::ita? o que que você vai querer? ((risos))" 
+        intervals [166]:
+            xmin = 674.88 
+            xmax = 676.9806047104815 
+            text = "..." 
+        intervals [167]:
+            xmin = 676.9806047104815 
+            xmax = 680.7164846541381 
+            text = "se bem que eu seja lá uma grande que eu não seja uma grande coisa em culinária hein?" 
+        intervals [168]:
+            xmin = 680.7164846541381 
+            xmax = 691.779657735969 
+            text = "(você vai) ((risos)) você vai tentar fazer essa feijoada você vai::... dar alguma mancada por aí viu? [((risos))" 
+        intervals [169]:
+            xmin = 691.779657735969 
+            xmax = 694.1254758552309 
+            text = "bom em primeiro lugar você tem que ter o feijão preto né?" 
+        intervals [170]:
+            xmin = 694.1254758552309 
+            xmax = 695.1270473887555 
+            text = "..." 
+        intervals [171]:
+            xmin = 695.1270473887555 
+            xmax = 706.5330487651196 
+            text = "agora quanto aos pertences da feijoada você se... você preferir... fazer a feijoada em casa você não vai comprar aqueles prontinhos de supermercado não que aquilo lá é cheio de gordura e::... e você não vai aproveitar grande coisa" 
+        intervals [172]:
+            xmin = 706.5330487651196 
+            xmax = 707.3205565075143 
+            text = "..." 
+        intervals [173]:
+            xmin = 707.3205565075143 
+            xmax = 722.6420469981659 
+            text = "então você compra... linguiça calabresa... você compra lombo de porco salgado... costelas... se você gostar de... de ossos né? porque... quando gente prefere só as carnes... compra-se só carne" 
+        intervals [174]:
+            xmin = 722.6420469981659 
+            xmax = 723.6548234882259 
+            text = "..." 
+        intervals [175]:
+            xmin = 723.6548234882259 
+            xmax = 725.2994967234218 
+            text = "éh o que mais que::... que tem?" 
+        intervals [176]:
+            xmin = 725.2994967234218 
+            xmax = 726.1017344465771 
+            text = "..." 
+        intervals [177]:
+            xmin = 726.1017344465771 
+            xmax = 730.5427408400839 
+            text = "ore::lhas pé::s... essas coisas se for do seu agrado" 
+        intervals [178]:
+            xmin = 730.5427408400839 
+            xmax = 731.3317056177951 
+            text = "..." 
+        intervals [179]:
+            xmin = 731.3317056177951 
+            xmax = 733.5470901252534 
+            text = "porque do meu não é:: então eu não compro viu?" 
+        intervals [180]:
+            xmin = 733.5470901252534 
+            xmax = 733.9753039781535 
+            text = "..." 
+        intervals [181]:
+            xmin = 733.9753039781535 
+            xmax = 743.0545088764499 
+            text = "((risos)) só faço com... com a... o lombo de porco... a linguiça:: pa::io... o que mais que tem?" 
+        intervals [182]:
+            xmin = 743.0545088764499 
+            xmax = 743.3566067638305 
+            text = "..." 
+        intervals [183]:
+            xmin = 743.3566067638305 
+            xmax = 745.0010597751733 
+            text = "que eu já nem sei mais" 
+        intervals [184]:
+            xmin = 745.0010597751733 
+            xmax = 748.9831642863168 
+            text = "..." 
+        intervals [185]:
+            xmin = 748.9831642863168 
+            xmax = 752.829729310999 
+            text = "ih... não sei mais" 
+        intervals [186]:
+            xmin = 752.829729310999 
+            xmax = 757.7009974075416 
+            text = "..." 
+        intervals [187]:
+            xmin = 757.7009974075416 
+            xmax = 761.7809175523133 
+            text = "bom a gente prepara:: essa... as ca::rnes em panela separada" 
+        intervals [188]:
+            xmin = 761.7809175523133 
+            xmax = 762.6941169293613 
+            text = "..." 
+        intervals [189]:
+            xmin = 762.6941169293613 
+            xmax = 770.1381607030597 
+            text = "então você dá uma::... uma fervura nelas... para tirar um pouco da gordura... e bastante do sal né?" 
+        intervals [190]:
+            xmin = 770.1381607030597 
+            xmax = 772.5311836495409 
+            text = "porque carne salgada você não vai comer do jeito que ela está" 
+        intervals [191]:
+            xmin = 772.5311836495409 
+            xmax = 772.8259862364697 
+            text = "..." 
+        intervals [192]:
+            xmin = 772.8259862364697 
+            xmax = 795.4240188373407 
+            text = "então você::... cozinha em panela separada dá uma f/... fervura nas::... em todos:: esses esses pertences... quando ele estive::r... eles estiverem... mais ou menos cozidos... você::... retira da água deixa escorrer bem... e:: s/... põe de parte" 
+        intervals [193]:
+            xmin = 795.4240188373407 
+            xmax = 796.2374271930627 
+            text = "..." 
+        intervals [194]:
+            xmin = 796.2374271930627 
+            xmax = 807.776326229086 
+            text = "então depois numa outra panela você cozinha o feijão... depois que ele estiver cozido então aí você mistura tudo... e deixa... tomar o o... deixa que o feijão tome o gosto da carne" 
+        intervals [195]:
+            xmin = 807.776326229086 
+            xmax = 808.7498737409226 
+            text = "..." 
+        intervals [196]:
+            xmin = 808.7498737409226 
+            xmax = 810.6261094216594 
+            text = "para ficar uma deliCIOsa feijoAda" 
+        intervals [197]:
+            xmin = 810.6261094216594 
+            xmax = 815.2222611430884 
+            text = "..." 
+        intervals [198]:
+            xmin = 815.2222611430884 
+            xmax = 828.2133684289715 
+            text = "bom como boa italiana [((risos)) embora eu seja paulistana descendente de italiano:: eu conheço... e que eu gosto... gosto de macarrão em primeiro lugar né?" 
+        intervals [199]:
+            xmin = 828.2133684289715 
+            xmax = 829.0963017792802 
+            text = "..." 
+        intervals [200]:
+            xmin = 829.0963017792802 
+            xmax = 842.8364017296435 
+            text = "e:: dos tipos de de macarrão são as lasanhas canelone... ahn... depois gosto de emPAdas::... de torta::s... salgados... né?" 
+        intervals [201]:
+            xmin = 842.8364017296435 
+            xmax = 847.6031267823524 
+            text = "porque tem as massas doces... que também são do meu agrado viu?" 
+        intervals [202]:
+            xmin = 847.6031267823524 
+            xmax = 847.7315025315589 
+            text = "..." 
+        intervals [203]:
+            xmin = 847.7315025315589 
+            xmax = 852.3833069511367 
+            text = "(vem) aqueles doces... de massa cheio de chantili cheio de CREme né?" 
+        intervals [204]:
+            xmin = 852.3833069511367 
+            xmax = 853.8663438914583 
+            text = "..." 
+        intervals [205]:
+            xmin = 853.8663438914583 
+            xmax = 858.22 
+            text = "[((risos))" 
+        intervals [206]:
+            xmin = 858.22 
+            xmax = 863.4847800282938 
+            text = "também vocês inventam de fazer a gravação depois do almoço é isso [aí viu? ((risos))" 
+        intervals [207]:
+            xmin = 863.4847800282938 
+            xmax = 869.0571436568397 
+            text = "..." 
+        intervals [208]:
+            xmin = 869.0571436568397 
+            xmax = 872.9897581556982 
+            text = "bom esses pratos não são muito trabalhosos mas são demorados né?" 
+        intervals [209]:
+            xmin = 872.9897581556982 
+            xmax = 873.9998585396847 
+            text = "..." 
+        intervals [210]:
+            xmin = 873.9998585396847 
+            xmax = 879.4766949246011 
+            text = "agora se você souber::... preparar a massa em casa... então você prepara... né?" 
+        intervals [211]:
+            xmin = 879.4766949246011 
+            xmax = 879.8042733652344 
+            text = "..." 
+        intervals [212]:
+            xmin = 879.8042733652344 
+            xmax = 892.5500577147812 
+            text = "se não souber é muito mais prático você ir ao supermercado comprar... um pacotinho de lasanha... ou então já:: a lasanha pronta né?... semipronta... só põe no forno::... e assa muito prático" 
+        intervals [213]:
+            xmin = 892.5500577147812 
+            xmax = 892.8763140427614 
+            text = "..." 
+        intervals [214]:
+            xmin = 892.8763140427614 
+            xmax = 902.3860130171258 
+            text = "agora se você quiser prepará-la mesmo... então o negócio é fazer a massa... depois cozinhar essa massa... aí... entra a dificuldade" 
+        intervals [215]:
+            xmin = 902.3860130171258 
+            xmax = 902.5404036047398 
+            text = "..." 
+        intervals [216]:
+            xmin = 902.5404036047398 
+            xmax = 911.3084233924958 
+            text = "porque na hora de cozinhar a massa... --aprende bem hein?--... [você tem que... que cozinhar com bastante água... e::... aos poucos" 
+        intervals [217]:
+            xmin = 911.3084233924958 
+            xmax = 911.9764270730365 
+            text = "..." 
+        intervals [218]:
+            xmin = 911.9764270730365 
+            xmax = 915.7593127649498 
+            text = "porque senão ela embola tudo e fica uma grande porcaria né?" 
+        intervals [219]:
+            xmin = 915.7593127649498 
+            xmax = 916.2318771105594 
+            text = "..." 
+        intervals [220]:
+            xmin = 916.2318771105594 
+            xmax = 929.8885384099749 
+            text = "então você tem que cozinhar aos poucos... e retirando... essa massa NÃO MUIto cozida porque senão ela desmancha... e::... ir colocando na assadeira... e:: com camadas de recheio" 
+        intervals [221]:
+            xmin = 929.8885384099749 
+            xmax = 930.2310067797279 
+            text = "..." 
+        intervals [222]:
+            xmin = 930.2310067797279 
+            xmax = 935.7905300017175 
+            text = "então o recheio pode ser com:: presunto muçarela com algu/ o::... molho [bran::co" 
+        intervals [223]:
+            xmin = 935.7905300017175 
+            xmax = 950.214980557986 
+            text = "então você põe uma camada de cada coisa... né?... e quando estiver bem arrumadinha com um molho de tomate... por cima assim intercalado também... você põe no forno... e espera a vontade de comer" 
+        intervals [224]:
+            xmin = 950.214980557986 
+            xmax = 954.64428628119 
+            text = "..." 
+        intervals [225]:
+            xmin = 954.64428628119 
+            xmax = 955.6919758179004 
+            text = "[((risos)) ô" 
+        intervals [226]:
+            xmin = 955.6919758179004 
+            xmax = 959.16 
+            text = "..." 
+        intervals [227]:
+            xmin = 959.16 
+            xmax = 959.9166905313398 
+            text = "[há (sim)" 
+        intervals [228]:
+            xmin = 959.9166905313398 
+            xmax = 960.7594605195145 
+            text = "vinhos né?" 
+        intervals [229]:
+            xmin = 960.7594605195145 
+            xmax = 961.2299822796969 
+            text = "..." 
+        intervals [230]:
+            xmin = 961.2299822796969 
+            xmax = 963.0354189408988 
+            text = "para massas são os vinhos" 
+        intervals [231]:
+            xmin = 963.0354189408988 
+            xmax = 963.5416765309684 
+            text = "..." 
+        intervals [232]:
+            xmin = 963.5416765309684 
+            xmax = 966.1276273399169 
+            text = "agora o vinho depende:: da pessoa" 
+        intervals [233]:
+            xmin = 966.1276273399169 
+            xmax = 967.6597763889821 
+            text = "..." 
+        intervals [234]:
+            xmin = 967.6597763889821 
+            xmax = 969.9904291020027 
+            text = "ou... depende também do tempo" 
+        intervals [235]:
+            xmin = 969.9904291020027 
+            xmax = 981.4872565202489 
+            text = "porque para os tempo::s FRIos de inverno né? tempo de inverno o vinho tem que ser tinto um vinho mais pesado (ago/ para) para::... tempo de calor então são os vinhos rosados os vinhos mais leves" 
+        intervals [236]:
+            xmin = 981.4872565202489 
+            xmax = 981.826746904178 
+            text = "..." 
+        intervals [237]:
+            xmin = 981.826746904178 
+            xmax = 983.1560993196165 
+            text = "mas para massa:: é:: vinho" 
+        intervals [238]:
+            xmin = 983.1560993196165 
+            xmax = 987.6282642298014 
+            text = "..." 
+        intervals [239]:
+            xmin = 987.6282642298014 
+            xmax = 990.2488917548676 
+            text = "tih:: agora é que é quais são os tipos?" 
+        intervals [240]:
+            xmin = 990.2488917548676 
+            xmax = 992.4462689816303 
+            text = "todos estes que existem à venda por aí" 
+        intervals [241]:
+            xmin = 992.4462689816303 
+            xmax = 992.6160141735949 
+            text = "..." 
+        intervals [242]:
+            xmin = 992.6160141735949 
+            xmax = 1003.9886973144393 
+            text = "[então (são::)... o gim uísque::... o rum::... o vinho né? os refrigeRANtes::... e entre eles Coca-Cola claro né? [((risos))" 
+        intervals [243]:
+            xmin = 1003.9886973144393 
+            xmax = 1004.929527481095 
+            text = "..." 
+        intervals [244]:
+            xmin = 1004.929527481095 
+            xmax = 1009.2225477128329 
+            text = "e sendo eu mesma eu prefiro:: Guaraná a champanhe [((risos))" 
+        intervals [245]:
+            xmin = 1009.2225477128329 
+            xmax = 1012.8321610795682 
+            text = "..." 
+        intervals [246]:
+            xmin = 1012.8321610795682 
+            xmax = 1015.2855304235376 
+            text = "ah em reuniões... eu quase não gosto de tomar" 
+        intervals [247]:
+            xmin = 1015.2855304235376 
+            xmax = 1016.4372665859762 
+            text = "..." 
+        intervals [248]:
+            xmin = 1016.4372665859762 
+            xmax = 1019.129365770817 
+            text = "nada né? dessas bebidas alcoólicas eu não gosto" 
+        intervals [249]:
+            xmin = 1019.129365770817 
+            xmax = 1026.4526338524734 
+            text = "eu tomo::... refrigerante Fanta::... Guaraná::... coisinhas levinhas assim" 
+        intervals [250]:
+            xmin = 1026.4526338524734 
+            xmax = 1029.010970152079 
+            text = "..." 
+        intervals [251]:
+            xmin = 1029.010970152079 
+            xmax = 1029.4086214338906 
+            text = "também" 
+        intervals [252]:
+            xmin = 1029.4086214338906 
+            xmax = 1030.6162589749306 
+            text = "..." 
+        intervals [253]:
+            xmin = 1030.6162589749306 
+            xmax = 1034.952500882707 
+            text = "eu sou abstêmia... por natureza ((risos))" 
+        intervals [254]:
+            xmin = 1034.952500882707 
+            xmax = 1041.0351024389802 
+            text = "..." 
+        intervals [255]:
+            xmin = 1041.0351024389802 
+            xmax = 1054.1630539877358 
+            text = "partindo de uma::... de uma::... --como é que a gente fala?--... de uma definição... vegetaria::na eu iria comer vegetais (né?) ((risos)) então" 
+        intervals [256]:
+            xmin = 1054.1630539877358 
+            xmax = 1059.6272816633596 
+            text = "..." 
+        intervals [257]:
+            xmin = 1059.6272816633596 
+            xmax = 1063.1766644541904 
+            text = "bom... acho que sim né?" 
+        intervals [258]:
+            xmin = 1063.1766644541904 
+            xmax = 1063.5872501865897 
+            text = "..." 
+        intervals [259]:
+            xmin = 1063.5872501865897 
+            xmax = 1068.3639394481877 
+            text = "pensando em vegetais num termo abrangente... acho que tem que ser só vegetais não?" 
+        intervals [260]:
+            xmin = 1068.3639394481877 
+            xmax = 1069.6111510414617 
+            text = "..." 
+        intervals [261]:
+            xmin = 1069.6111510414617 
+            xmax = 1075.091422209404 
+            text = "ou:: o vegetariano come também::... éh peixe::... e essas coisas?" 
+        intervals [262]:
+            xmin = 1075.091422209404 
+            xmax = 1075.7078652749594 
+            text = "acho que não né?" 
+        intervals [263]:
+            xmin = 1075.7078652749594 
+            xmax = 1080.3066526390162 
+            text = "..." 
+        intervals [264]:
+            xmin = 1080.3066526390162 
+            xmax = 1080.7265486401916 
+            text = "hum?" 
+        intervals [265]:
+            xmin = 1080.7265486401916 
+            xmax = 1089.0675404703027 
+            text = "..." 
+        intervals [266]:
+            xmin = 1089.0675404703027 
+            xmax = 1097.5189978096435 
+            text = "bom a ceia de Natal::... tradicionalmente é composta com um peru::... né?... e::" 
+        intervals [267]:
+            xmin = 1097.5189978096435 
+            xmax = 1100.8194325126326 
+            text = "..." 
+        intervals [268]:
+            xmin = 1100.8194325126326 
+            xmax = 1102.767129156378 
+            text = "bom dependendo das tradições" 
+        intervals [269]:
+            xmin = 1102.767129156378 
+            xmax = 1103.157473936973 
+            text = "..." 
+        intervals [270]:
+            xmin = 1103.157473936973 
+            xmax = 1106.2895841414759 
+            text = "porque há vário::s vários:: tipos de tradições né?" 
+        intervals [271]:
+            xmin = 1106.2895841414759 
+            xmax = 1171.6932096173246 
+            text = "na lá em casa... a tradição... é... se fazer... o peru... e também um:: um presunto... ah ah:: o tênder né? o presunto tender... sê/ preparado com:: abacaxi em calda... isso como o prato salgado... os pratos salgados aliás... e depois... entre os doces... há sempre um::: um bolo preparado pela Lurdes... que ela é exímia boleira né?... ela faz... um bolo bem enfeitado bem::... bem trabalhado decorado assim... próprio para... para a festa de Natal... e os doces... um doce:: de massa... que é tradicional também da... da Itália né?... e que lá em casa sempre a minha mãe faz questão:: que::... que se faça... é preparado com uma massa frita... e depois:: enfeitado com... com mel né? regado [com mel" 
+        intervals [272]:
+            xmin = 1171.6932096173246 
+            xmax = 1173.8921874518417 
+            text = "..." 
+        intervals [273]:
+            xmin = 1173.8921874518417 
+            xmax = 1174.5695163861217 
+            text = "[não é bem" 
+        intervals [274]:
+            xmin = 1174.5695163861217 
+            xmax = 1175.2347416260438 
+            text = "..." 
+        intervals [275]:
+            xmin = 1175.2347416260438 
+            xmax = 1177.2503674718412 
+            text = "não não não é:: não é esse aí" 
+        intervals [276]:
+            xmin = 1177.2503674718412 
+            xmax = 1184.5396531851657 
+            text = "é um::... é mais ou menos grande assim:: fica feito uma:: uma rodela grande assim de massa... trabalhadinha::" 
+        intervals [277]:
+            xmin = 1184.5396531851657 
+            xmax = 1186.2837792164 
+            text = "..." 
+        intervals [278]:
+            xmin = 1186.2837792164 
+            xmax = 1188.7335460894246 
+            text = "não sei explicar bem como fica viu? ( )" 
+        intervals [279]:
+            xmin = 1188.7335460894246 
+            xmax = 1190.9661068946273 
+            text = "e:: depois por cima se põe o mel" 
+        intervals [280]:
+            xmin = 1190.9661068946273 
+            xmax = 1193.3008235561788 
+            text = "..." 
+        intervals [281]:
+            xmin = 1193.3008235561788 
+            xmax = 1195.7480790978889 
+            text = "eu não sei bem o nome desse:: desse doce não" 
+        intervals [282]:
+            xmin = 1195.7480790978889 
+            xmax = 1201.6951485328636 
+            text = "eu sei que lá em casa sempre se faz... mas eu não sei o nome... e nem a minha mãe sabe o nome" 
+        intervals [283]:
+            xmin = 1201.6951485328636 
+            xmax = 1210.8136268509388 
+            text = "ela sabe que o doce::... [é tradicional é tradicional [no Natal né? ((risos)) então... a gente sempre faz... isso aí no Natal" 
+        intervals [284]:
+            xmin = 1210.8136268509388 
+            xmax = 1210.9050950579258 
+            text = "..." 
+        intervals [285]:
+            xmin = 1210.9050950579258 
+            xmax = 1212.9842490107912 
+            text = "conserva a tradição da família" 
+        intervals [286]:
+            xmin = 1212.9842490107912 
+            xmax = 1215.868710405243 
+            text = "..." 
+        intervals [287]:
+            xmin = 1215.868710405243 
+            xmax = 1221.2863133967169 
+            text = "e além disso né? os nó/ nozes avelã::s... frutas secas em geral né? os figos" 
+        intervals [288]:
+            xmin = 1221.2863133967169 
+            xmax = 1224.7537241619027 
+            text = "..." 
+        intervals [289]:
+            xmin = 1224.7537241619027 
+            xmax = 1226.0936533337297 
+            text = "isso para a ceia de Natal" 
+        intervals [290]:
+            xmin = 1226.0936533337297 
+            xmax = 1230.6070245270198 
+            text = "agora para a festa de Natal é imprescindível o Papai Noel né?... [((risos))" 
+        intervals [291]:
+            xmin = 1230.6070245270198 
+            xmax = 1234.7638710262418 
+            text = "porque se Papai Noel não chega com os presentes então não é festa [((risos))" 
+        intervals [292]:
+            xmin = 1234.7638710262418 
+            xmax = 1240.7990059568706 
+            text = "..." 
+        intervals [293]:
+            xmin = 1240.7990059568706 
+            xmax = 1248.8043052579924 
+            text = "a não ser champanhe né? para que::... que é para o brinde da meia-noite... lá em casa não se toma:: bebidas" 
+        intervals [294]:
+            xmin = 1248.8043052579924 
+            xmax = 1249.8295536126025 
+            text = "..." 
+        intervals [295]:
+            xmin = 1249.8295536126025 
+            xmax = 1258.1782670336265 
+            text = "por... uma questão particular... lá em casa não se toma... nada de:: de álcool viu?" 
+        intervals [296]:
+            xmin = 1258.1782670336265 
+            xmax = 1265.863358693767 
+            text = "..." 
+        intervals [297]:
+            xmin = 1265.863358693767 
+            xmax = 1268.4593524964462 
+            text = "[ih::: meu Deus (o) que será que eu ia fazer?" 
+        intervals [298]:
+            xmin = 1268.4593524964462 
+            xmax = 1269.5266869061227 
+            text = "quem seria a visita?" 
+        intervals [299]:
+            xmin = 1269.5266869061227 
+            xmax = 1273.3203983804465 
+            text = "vocês por exemplo? [((risos))" 
+        intervals [300]:
+            xmin = 1273.3203983804465 
+            xmax = 1275.4427041309673 
+            text = "[( ) se vocês fossem::" 
+        intervals [301]:
+            xmin = 1275.4427041309673 
+            xmax = 1275.6586388381274 
+            text = "..." 
+        intervals [302]:
+            xmin = 1275.6586388381274 
+            xmax = 1279.04 
+            text = "não um jantar já teria um pouquinho de de mais sofisticado né?" 
+        intervals [303]:
+            xmin = 1279.04 
+            xmax = 1284.05353053929 
+            text = "então vamos fazer um almoço o almoço é mais comunzinho assim [(não é?) ((risos))" 
+        intervals [304]:
+            xmin = 1284.05353053929 
+            xmax = 1290.719149676133 
+            text = "[não não é questão que mereça nós vamos... vamos então assim::... éh::... conservar o:: protocolo né?" 
+        intervals [305]:
+            xmin = 1290.719149676133 
+            xmax = 1298.5184632215723 
+            text = "um jantar exige... um:: preparo mais sofistica::do à no::ite né? vocês sabem as companhi::as são diferentes" 
+        intervals [306]:
+            xmin = 1298.5184632215723 
+            xmax = 1301.6031960987057 
+            text = "agora num jantar vocês iriam lá em casa seriam sozinhas" 
+        intervals [307]:
+            xmin = 1301.6031960987057 
+            xmax = 1303.4138417501729 
+            text = "eu sozinha assim né? [((risos))" 
+        intervals [308]:
+            xmin = 1303.4138417501729 
+            xmax = 1308.0469749393187 
+            text = "não teriam ((risos)) acompanhantes nada disso né? então" 
+        intervals [309]:
+            xmin = 1308.0469749393187 
+            xmax = 1309.8978438578329 
+            text = "..." 
+        intervals [310]:
+            xmin = 1309.8978438578329 
+            xmax = 1311.436462143146 
+            text = "então o negócio seria diferente" 
+        intervals [311]:
+            xmin = 1311.436462143146 
+            xmax = 1313.803085861056 
+            text = "..." 
+        intervals [312]:
+            xmin = 1313.803085861056 
+            xmax = 1316.9954241699193 
+            text = "eu primeiro ia saber o que é que vocês preferem comer né?" 
+        intervals [313]:
+            xmin = 1316.9954241699193 
+            xmax = 1317.6265035848826 
+            text = "..." 
+        intervals [314]:
+            xmin = 1317.6265035848826 
+            xmax = 1324.910979959569 
+            text = "porque não teria cabimento eu chê/ convidá-las para jan/ para almoçar em casa e preparar um::... um prato do meu gosto... né?" 
+        intervals [315]:
+            xmin = 1324.910979959569 
+            xmax = 1326.8653910606408 
+            text = "então teria que saber o que é que vocês preferem" 
+        intervals [316]:
+            xmin = 1326.8653910606408 
+            xmax = 1327.1393718798201 
+            text = "..." 
+        intervals [317]:
+            xmin = 1327.1393718798201 
+            xmax = 1328.1275498905675 
+            text = "e o que é que vocês preferem?" 
+        intervals [318]:
+            xmin = 1328.1275498905675 
+            xmax = 1340.54100050404 
+            text = "..." 
+        intervals [319]:
+            xmin = 1340.54100050404 
+            xmax = 1352.7165877244774 
+            text = "bom... supondo que a gente... que ó/ agora fossem:: fossem dez horas da manhã por exemplo... então daqui a pouco estaria na hora de ir embora né?... então fala ''vamo al/ vamos almoçar comigo?''" 
+        intervals [320]:
+            xmin = 1352.7165877244774 
+            xmax = 1354.1572667596704 
+            text = "então vocês ''vamos''" 
+        intervals [321]:
+            xmin = 1354.1572667596704 
+            xmax = 1355.591828261805 
+            text = "..." 
+        intervals [322]:
+            xmin = 1355.591828261805 
+            xmax = 1358.7914015589506 
+            text = "eu teria que preparar um negócio bem:: bem mais rápido né?" 
+        intervals [323]:
+            xmin = 1358.7914015589506 
+            xmax = 1360.432671622524 
+            text = "..." 
+        intervals [324]:
+            xmin = 1360.432671622524 
+            xmax = 1376.5963078575626 
+            text = "então eu iria para casa... ia dar uma... vistoria na geladeira para ver o que que tinha lá e supondo que tivesse... carne né? faria... bife... com batatas porque sei que com certeza vocês iriam adorar batatas fritas [((risos))" 
+        intervals [325]:
+            xmin = 1376.5963078575626 
+            xmax = 1388.36 
+            text = "então ((risos)) um bifezinho com batatinhas fritas um pouco de arroz... né?... uma salada... e::... o principal do almoço já estaria pronto né?" 
+        intervals [326]:
+            xmin = 1388.36 
+            xmax = 1389.1896919636677 
+            text = "..." 
+        intervals [327]:
+            xmin = 1389.1896919636677 
+            xmax = 1400.0274801848827 
+            text = "aí como sobremesa então::... seria mais fácil... comprar umas frutas um:: doce em conserva::... porque com certeza vocês gostam de:: pêssego em calda né?... claro" 
+        intervals [328]:
+            xmin = 1400.0274801848827 
+            xmax = 1401.298874323321 
+            text = "[(então)" 
+        intervals [329]:
+            xmin = 1401.298874323321 
+            xmax = 1403.649211902649 
+            text = "..." 
+        intervals [330]:
+            xmin = 1403.649211902649 
+            xmax = 1405.2486089899764 
+            text = "e no final um cafezinho né?" 
+        intervals [331]:
+            xmin = 1405.2486089899764 
+            xmax = 1406.5477090539498 
+            text = "..." 
+        intervals [332]:
+            xmin = 1406.5477090539498 
+            xmax = 1407.8806719157992 
+            text = "ou vocês não gostam do café?" 
+        intervals [333]:
+            xmin = 1407.8806719157992 
+            xmax = 1413.32 
+            text = "..." 
+        intervals [334]:
+            xmin = 1413.32 
+            xmax = 1413.6 
+            text = "hum" 
+        intervals [335]:
+            xmin = 1413.6 
+            xmax = 1418.8942299921869 
+            text = "..." 
+        intervals [336]:
+            xmin = 1418.8942299921869 
+            xmax = 1420.9870938445458 
+            text = "vou fazer um negócio bem bacana assim né?" 
+        intervals [337]:
+            xmin = 1420.9870938445458 
+            xmax = 1426.92 
+            text = "então... faz aqueles né?/... aquela mesa toda arrumada com ve::las [((risos))" 
+        intervals [338]:
+            xmin = 1426.92 
+            xmax = 1434.3521423538893 
+            text = "porque vocês sabem que em jantar o mais importante nesses casos assim não é:: propriamente a cozinha... é o ambiente né? então" 
+        intervals [339]:
+            xmin = 1434.3521423538893 
+            xmax = 1435.2673454415064 
+            text = "..." 
+        intervals [340]:
+            xmin = 1435.2673454415064 
+            xmax = 1440.925758821478 
+            text = "música:: ambien::te::... ve::las... os acompanhantes é claro né?" 
+        intervals [341]:
+            xmin = 1440.925758821478 
+            xmax = 1441.5509509730848 
+            text = "..." 
+        intervals [342]:
+            xmin = 1441.5509509730848 
+            xmax = 1463.9208438882854 
+            text = "então... aí:: seria::... uma maionese como entrada... uma carne assada:: --vocês já estão vendo que para mim é só carne né?-- [((risos)) uma carne assada... OU:: se vocês gosta::ssem aí então eu iria dar preferência iria::... dar preferência ao seu gosto né?" 
+        intervals [343]:
+            xmin = 1463.9208438882854 
+            xmax = 1464.4718839628142 
+            text = "..." 
+        intervals [344]:
+            xmin = 1464.4718839628142 
+            xmax = 1473.1882827862808 
+            text = "poderia ser peixe... e... e uma sobremesa mais trabalhada também né?" 
+        intervals [345]:
+            xmin = 1473.1882827862808 
+            xmax = 1477.3219707198828 
+            text = "um pavê:: um doce::... éh:: confeita::do" 
+        intervals [346]:
+            xmin = 1477.3219707198828 
+            xmax = 1477.780190347156 
+            text = "..." 
+        intervals [347]:
+            xmin = 1477.780190347156 
+            xmax = 1480.0834178371656 
+            text = "bonito né?... [((risos))" 
+        intervals [348]:
+            xmin = 1480.0834178371656 
+            xmax = 1481.0076899058529 
+            text = "BOnito ((risos))" 
+        intervals [349]:
+            xmin = 1481.0076899058529 
+            xmax = 1481.7243923997928 
+            text = "..." 
+        intervals [350]:
+            xmin = 1481.7243923997928 
+            xmax = 1487.0830506024374 
+            text = "vocês já disseram que são muito bem educadas então vocês iriam adorar [((risos))" 
+        intervals [351]:
+            xmin = 1487.0830506024374 
+            xmax = 1488.2692190058494 
+            text = "..." 
+        intervals [352]:
+            xmin = 1488.2692190058494 
+            xmax = 1491.92 
+            text = "[( ) ((risos))" 
+        intervals [353]:
+            xmin = 1491.92 
+            xmax = 1492.1496017689008 
+            text = "..." 
+        intervals [354]:
+            xmin = 1492.1496017689008 
+            xmax = 1498.8721297889638 
+            text = "ah um peixe bem grande bem bonito numa travessa toda enfeitada assim (não sei) dourado não sei" 
+        intervals [355]:
+            xmin = 1498.8721297889638 
+            xmax = 1500.3817896582252 
+            text = "..." 
+        intervals [356]:
+            xmin = 1500.3817896582252 
+            xmax = 1502.1855986043702 
+            text = "e aí:: ficaria por conta da empregada viu?" 
+        intervals [357]:
+            xmin = 1502.1855986043702 
+            xmax = 1509.3019781570717 
+            text = "porque eu não conheço peixe e de repente eu ia comprar um peixe estragado ia ser horrível então ((risos))" 
+        intervals [358]:
+            xmin = 1509.3019781570717 
+            xmax = 1509.8502751469712 
+            text = "..." 
+        intervals [359]:
+            xmin = 1509.8502751469712 
+            xmax = 1511.6048255146488 
+            text = "o negócio é:: complicado né?" 
+        intervals [360]:
+            xmin = 1511.6048255146488 
+            xmax = 1520.41200197616 
+            text = "..." 
+        intervals [361]:
+            xmin = 1520.41200197616 
+            xmax = 1525.9944737766825 
+            text = "ai a pimen::ta e:: os mo::lhos:: o óleo de dendê:: né? todas essas coisas" 
+        intervals [362]:
+            xmin = 1525.9944737766825 
+            xmax = 1529.6469563737667 
+            text = "eu tenho até medo de pensar em fazer uma viagem para o Norte só por causa [disso" 
+        intervals [363]:
+            xmin = 1529.6469563737667 
+            xmax = 1531.8625391555777 
+            text = "..." 
+        intervals [364]:
+            xmin = 1531.8625391555777 
+            xmax = 1541.1251355410348 
+            text = "porque::... segundo consta né? a comida::... baiana... considerando o Norte todo:: baiano né? [(então) ( )... (é)" 
+        intervals [365]:
+            xmin = 1541.1251355410348 
+            xmax = 1541.6302956323416 
+            text = "..." 
+        intervals [366]:
+            xmin = 1541.6302956323416 
+            xmax = 1545.600841990619 
+            text = "a::... a comida baiana é muito condimentada" 
+        intervals [367]:
+            xmin = 1545.600841990619 
+            xmax = 1547.3551421709224 
+            text = "..." 
+        intervals [368]:
+            xmin = 1547.3551421709224 
+            xmax = 1554.120725080163 
+            text = "e:::... pelo que eu ouço dizer... não é muito do agrado dos:: paulistas não né?" 
+        intervals [369]:
+            xmin = 1554.120725080163 
+            xmax = 1558.4229763864032 
+            text = "..." 
+        intervals [370]:
+            xmin = 1558.4229763864032 
+            xmax = 1561.4 
+            text = "[não ah os pratos característicos dele né?" 
+        intervals [371]:
+            xmin = 1561.4 
+            xmax = 1575.0135931039417 
+            text = "claro porque se a gente vai para um hotel... hã::... de:: de classe internacional né?... então aí a comida tranquilamente você pode pedir... qualquer tipo de prato::... que eles::... que eles preparam né?" 
+        intervals [372]:
+            xmin = 1575.0135931039417 
+            xmax = 1575.582365947487 
+            text = "..." 
+        intervals [373]:
+            xmin = 1575.582365947487 
+            xmax = 1580.5383748295956 
+            text = "agora quando a comida... é característica do local então aí a gente sente diferença né?" 
+        intervals [374]:
+            xmin = 1580.5383748295956 
+            xmax = 1586.8837532001046 
+            text = "..." 
+        intervals [375]:
+            xmin = 1586.8837532001046 
+            xmax = 1590.6317872138939 
+            text = "de experiência... acho que praticamente nenhuma viu? a não" 
+        intervals [376]:
+            xmin = 1590.6317872138939 
+            xmax = 1590.8548937804146 
+            text = "..." 
+        intervals [377]:
+            xmin = 1590.8548937804146 
+            xmax = 1597.4187763646962 
+            text = "experimentei uma vez::... --ai como é que chama aquele negócio que é feito com quiabo?... aca/ acarajé?" 
+        intervals [378]:
+            xmin = 1597.4187763646962 
+            xmax = 1597.5125122665565 
+            text = "..." 
+        intervals [379]:
+            xmin = 1597.5125122665565 
+            xmax = 1598.8168700295414 
+            text = "não acarajé é um bolinho--" 
+        intervals [380]:
+            xmin = 1598.8168700295414 
+            xmax = 1599.7525164612332 
+            text = "..." 
+        intervals [381]:
+            xmin = 1599.7525164612332 
+            xmax = 1602.059492014183 
+            text = "acarajé eu experimentei uma vez" 
+        intervals [382]:
+            xmin = 1602.059492014183 
+            xmax = 1605.0416087415301 
+            text = "..." 
+        intervals [383]:
+            xmin = 1605.0416087415301 
+            xmax = 1608.6608526508116 
+            text = "para o meu gosto não foi lá uma grande coisa não mas:: dá para comer né?" 
+        intervals [384]:
+            xmin = 1608.6608526508116 
+            xmax = 1609.3036631764014 
+            text = "..." 
+        intervals [385]:
+            xmin = 1609.3036631764014 
+            xmax = 1613.276159133543 
+            text = "éh::... --é um negócio que é feito com quiabo meu Deus do céu como é que chama?--" 
+        intervals [386]:
+            xmin = 1613.276159133543 
+            xmax = 1615.3796179975136 
+            text = "..." 
+        intervals [387]:
+            xmin = 1615.3796179975136 
+            xmax = 1622.051926291872 
+            text = "não lembro agora o nome do... do tal de prato... e não gostei" 
+        intervals [388]:
+            xmin = 1622.051926291872 
+            xmax = 1622.9328038223048 
+            text = "..." 
+        intervals [389]:
+            xmin = 1622.9328038223048 
+            xmax = 1631.2495272179658 
+            text = "aliás detestei e tem... é feito com pe::ixe com fran::go::... uma misturada assim num caldeirão e depois vai com:: com quiabo" 
+        intervals [390]:
+            xmin = 1631.2495272179658 
+            xmax = 1631.983343355161 
+            text = "..." 
+        intervals [391]:
+            xmin = 1631.983343355161 
+            xmax = 1634.479590896201 
+            text = "fica aquela:: dá dá uma impressão muito feia aquilo lá" 
+        intervals [392]:
+            xmin = 1634.479590896201 
+            xmax = 1635.0013748645285 
+            text = "..." 
+        intervals [393]:
+            xmin = 1635.0013748645285 
+            xmax = 1637.5741763855258 
+            text = "[então... não gostei ((risos))" 
+        intervals [394]:
+            xmin = 1637.5741763855258 
+            xmax = 1638.6343562030283 
+            text = "..." 
+        intervals [395]:
+            xmin = 1638.6343562030283 
+            xmax = 1639.6935057106436 
+            text = "não é acarajé não" 
+        intervals [396]:
+            xmin = 1639.6935057106436 
+            xmax = 1640.8556236858994 
+            text = "--como é que chama o outro?--" 
+        intervals [397]:
+            xmin = 1640.8556236858994 
+            xmax = 1643.501973218211 
+            text = "..." 
+        intervals [398]:
+            xmin = 1643.501973218211 
+            xmax = 1644.485574417966 
+            text = "não não adianta" 
+        intervals [399]:
+            xmin = 1644.485574417966 
+            xmax = 1645.1411400584648 
+            text = "..." 
+        intervals [400]:
+            xmin = 1645.1411400584648 
+            xmax = 1646.2254724906334 
+            text = "não lembro mesmo" 
+        intervals [401]:
+            xmin = 1646.2254724906334 
+            xmax = 1654.4140304481984 
+            text = "..." 
+        intervals [402]:
+            xmin = 1654.4140304481984 
+            xmax = 1657.6836272875717 
+            text = "rosbife... presunto" 
+        intervals [403]:
+            xmin = 1657.6836272875717 
+            xmax = 1658.9288868028093 
+            text = "..." 
+        intervals [404]:
+            xmin = 1658.9288868028093 
+            xmax = 1665.9499125302984 
+            text = "embora eu goste muito de mortadela:: agora não dá mais para comer muito não porque fica é muito pesada né?" 
+        intervals [405]:
+            xmin = 1665.9499125302984 
+            xmax = 1666.1428247222793 
+            text = "..." 
+        intervals [406]:
+            xmin = 1666.1428247222793 
+            xmax = 1667.8311593237036 
+            text = "mortadela é bastante pesada" 
+        intervals [407]:
+            xmin = 1667.8311593237036 
+            xmax = 1668.395404118388 
+            text = "..." 
+        intervals [408]:
+            xmin = 1668.395404118388 
+            xmax = 1669.8357105419173 
+            text = "e... mas eu gosto" 
+        intervals [409]:
+            xmin = 1669.8357105419173 
+            xmax = 1672.1117223177155 
+            text = "..." 
+        intervals [410]:
+            xmin = 1672.1117223177155 
+            xmax = 1674.2625654819353 
+            text = "e esses mais comuns mesmo viu?" 
+        intervals [411]:
+            xmin = 1674.2625654819353 
+            xmax = 1681.4857593423342 
+            text = "esses tipos:: que é feit/ esses tipos de frios que são feitos com::... com sangue... esse aí eu não gosto" 
+        intervals [412]:
+            xmin = 1681.4857593423342 
+            xmax = 1683.5632495783548 
+            text = "..." 
+        intervals [413]:
+            xmin = 1683.5632495783548 
+            xmax = 1693.012503010736 
+            text = "salsichas embora não seja frios né?... é tipo de de lanche... a salsicha... e acho que é só esse mesmo" 
+        intervals [414]:
+            xmin = 1693.012503010736 
+            xmax = 1693.9018371064356 
+            text = "..." 
+        intervals [415]:
+            xmin = 1693.9018371064356 
+            xmax = 1696.7837765368167 
+            text = "como eu já lhe disse eu:: dificilmente como fora né?" 
+        intervals [416]:
+            xmin = 1696.7837765368167 
+            xmax = 1697.5230030672578 
+            text = "..." 
+        intervals [417]:
+            xmin = 1697.5230030672578 
+            xmax = 1698.919674538596 
+            text = "[a não se::r" 
+        intervals [418]:
+            xmin = 1698.919674538596 
+            xmax = 1699.862463309461 
+            text = "..." 
+        intervals [419]:
+            xmin = 1699.862463309461 
+            xmax = 1701.0389466119254 
+            text = "ah bom... claro" 
+        intervals [420]:
+            xmin = 1701.0389466119254 
+            xmax = 1702.5475202499117 
+            text = "..." 
+        intervals [421]:
+            xmin = 1702.5475202499117 
+            xmax = 1703.3688892548319 
+            text = "tem razão" 
+        intervals [422]:
+            xmin = 1703.3688892548319 
+            xmax = 1705.6044414160497 
+            text = "..." 
+        intervals [423]:
+            xmin = 1705.6044414160497 
+            xmax = 1706.4144525976287 
+            text = "e::" 
+        intervals [424]:
+            xmin = 1706.4144525976287 
+            xmax = 1708.2062879261966 
+            text = "..." 
+        intervals [425]:
+            xmin = 1708.2062879261966 
+            xmax = 1709.9202173709134 
+            text = "mas são esses mais comuns viu?" 
+        intervals [426]:
+            xmin = 1709.9202173709134 
+            xmax = 1711.618988303501 
+            text = "..." 
+        intervals [427]:
+            xmin = 1711.618988303501 
+            xmax = 1715.905877907379 
+            text = "não gosto de::... de muitas variedades coisas diferen/" 
+        intervals [428]:
+            xmin = 1715.905877907379 
+            xmax = 1718.4914046880845 
+            text = "não gosto de experimentar esses coisas muito diferentes não viu?" 
+        intervals [429]:
+            xmin = 1718.4914046880845 
+            xmax = 1726.7270827030918 
+            text = "tenho até medo de... de experimentar assim essas... essas comidas meio estranha assim" 
+        intervals [430]:
+            xmin = 1726.7270827030918 
+            xmax = 1732.187409952973 
+            text = "..." 
+        intervals [431]:
+            xmin = 1732.187409952973 
+            xmax = 1733.0793590168564 
+            text = "ah não sei" 
+        intervals [432]:
+            xmin = 1733.0793590168564 
+            xmax = 1734.0661668789662 
+            text = "..." 
+        intervals [433]:
+            xmin = 1734.0661668789662 
+            xmax = 1735.9844828438265 
+            text = "suponho que seja vegetal né?" 
+        intervals [434]:
+            xmin = 1735.9844828438265 
+            xmax = 1738.0324612944787 
+            text = "..." 
+        intervals [435]:
+            xmin = 1738.0324612944787 
+            xmax = 1742.2982219391977 
+            text = "mas::... sinceramente eu não sei viu?" 
+        intervals [436]:
+            xmin = 1742.2982219391977 
+            xmax = 1745.1807396416764 
+            text = "..." 
+        intervals [437]:
+            xmin = 1745.1807396416764 
+            xmax = 1756.1223929728653 
+            text = "porque tem muita coisa de de macrobiótica... pelo menos que eu tenho visto em supermercado né? que é a base de soja... ma::s não sei não viu?" 
+        intervals [438]:
+            xmin = 1756.1223929728653 
+            xmax = 1757.7258481172532 
+            text = "..." 
+        intervals [439]:
+            xmin = 1757.7258481172532 
+            xmax = 1758.9864709813264 
+            text = "não posso lhe dizer" 
+        intervals [440]:
+            xmin = 1758.9864709813264 
+            xmax = 1759.5042905713847 
+            text = "..." 
+        intervals [441]:
+            xmin = 1759.5042905713847 
+            xmax = 1766.9239116320264 
+            text = "sinto muito mas não vou chegar aonde você quer ((risos)) com essa resposta ((risos))" 
+        intervals [442]:
+            xmin = 1766.9239116320264 
+            xmax = 1771.3663422897732 
+            text = "..." 
+        intervals [443]:
+            xmin = 1771.3663422897732 
+            xmax = 1771.9104607820668 
+            text = "uhum" 
+        intervals [444]:
+            xmin = 1771.9104607820668 
+            xmax = 1776.1777257975277 
+            text = "..." 
+        intervals [445]:
+            xmin = 1776.1777257975277 
+            xmax = 1777.162916731612 
+            text = "[((risos))" 
+        intervals [446]:
+            xmin = 1777.162916731612 
+            xmax = 1777.9501429720603 
+            text = "..." 
+        intervals [447]:
+            xmin = 1777.9501429720603 
+            xmax = 1783.8475981246552 
+            text = "ah eu ia pensar morta de fome assim né? um sanduíche bem grande e bem alto" 
+        intervals [448]:
+            xmin = 1783.8475981246552 
+            xmax = 1784.301007169303 
+            text = "..." 
+        intervals [449]:
+            xmin = 1784.301007169303 
+            xmax = 1796.8621103492978 
+            text = "daqueles tipo americano assim que eles... que eles vendem nas nas lanchonetes... e que tem... ovo presunto muçarela::... alface esse negócio todo" 
+        intervals [450]:
+            xmin = 1796.8621103492978 
+            xmax = 1798.3456289117144 
+            text = "( )" 
+        intervals [451]:
+            xmin = 1798.3456289117144 
+            xmax = 1802.3911630755074 
+            text = "um sanduichinho bem delicado para você comer ((risos))" 
+        intervals [452]:
+            xmin = 1802.3911630755074 
+            xmax = 1809.0917811613333 
+            text = "..." 
+        intervals [453]:
+            xmin = 1809.0917811613333 
+            xmax = 1810.247564131164 
+            text = "ah bem leve?" 
+        intervals [454]:
+            xmin = 1810.247564131164 
+            xmax = 1810.8675935368544 
+            text = "..." 
+        intervals [455]:
+            xmin = 1810.8675935368544 
+            xmax = 1812.2936515882282 
+            text = "ah seria uma sopa né?" 
+        intervals [456]:
+            xmin = 1812.2936515882282 
+            xmax = 1820.3543613068925 
+            text = "uma sopa creme... bem leve... suponho que seja isso né?" 
+        intervals [457]:
+            xmin = 1820.3543613068925 
+            xmax = 1821.7667618171988 
+            text = "..." 
+        intervals [458]:
+            xmin = 1821.7667618171988 
+            xmax = 1828.1222169224297 
+            text = "uma sopinha::... de aspargos... que é a minha preferida né?" 
+        intervals [459]:
+            xmin = 1828.1222169224297 
+            xmax = 1831.5072287579815 
+            text = "em questão de sopa porque eu também não a/ não aprecio muito sopa não" 
+        intervals [460]:
+            xmin = 1831.5072287579815 
+            xmax = 1832.9627399789729 
+            text = "..." 
+        intervals [461]:
+            xmin = 1832.9627399789729 
+            xmax = 1837.2182847261172 
+            text = "então uma sopa creme com:: torradinhas... e só" 
+        intervals [462]:
+            xmin = 1837.2182847261172 
+            xmax = 1837.8834619040667 
+            text = "..." 
+        intervals [463]:
+            xmin = 1837.8834619040667 
+            xmax = 1842.4809643048995 
+            text = "porque já que é para ser... BEM leve ((risos)) tem que ser bem ((risos))" 
+        intervals [464]:
+            xmin = 1842.4809643048995 
+            xmax = 1847.0871110090459 
+            text = "..." 
+        intervals [465]:
+            xmin = 1847.0871110090459 
+            xmax = 1848.2870899444074 
+            text = "ah sopinhas de saco" 
+        intervals [466]:
+            xmin = 1848.2870899444074 
+            xmax = 1853.0220647397825 
+            text = "sou... especialista em soquinhas sopinhas de sa/ ((risos))" 
+        intervals [467]:
+            xmin = 1853.0220647397825 
+            xmax = 1856.077445909804 
+            text = "sopinhas Knorr... e Magi então ((risos))" 
+        intervals [468]:
+            xmin = 1856.077445909804 
+            xmax = 1863.3025279572878 
+            text = "ah de galinha com arro::z galinha com Fidelini essas aí são... o menu de::... de fim de semana em Santos ((risos))" 
+        intervals [469]:
+            xmin = 1863.3025279572878 
+            xmax = 1864.3375642319315 
+            text = "então a [(gente)" 
+        intervals [470]:
+            xmin = 1864.3375642319315 
+            xmax = 1873.0831393669632 
+            text = "..." 
+        intervals [471]:
+            xmin = 1873.0831393669632 
+            xmax = 1875.24 
+            text = "ah então seria o:: a mais fácil né?" 
+        intervals [472]:
+            xmin = 1875.24 
+            xmax = 1881.0724803400099 
+            text = "sopinha com:: batatas ervilhas legumes... éh::... cenoura né?::?" 
+        intervals [473]:
+            xmin = 1881.0724803400099 
+            xmax = 1882.3150875424008 
+            text = "..." 
+        intervals [474]:
+            xmin = 1882.3150875424008 
+            xmax = 1894.3645667795015 
+            text = "cozinha tudo junto... e:: tem um caldo bastante::... [éh... não digo bastante gos-toso né? porque:: sopa nunca é muito gostosa né?" 
+        intervals [475]:
+            xmin = 1894.3645667795015 
+            xmax = 1894.506869444806 
+            text = "..." 
+        intervals [476]:
+            xmin = 1894.506869444806 
+            xmax = 1905.3359664998698 
+            text = "mas é uma alimentação razoável que dá para você... passar da noite para para o dia seguinte [((risos))" 
+        intervals [477]:
+            xmin = 1905.3359664998698 
+            xmax = 1905.91111018414 
+            text = "[( )" 
+        intervals [478]:
+            xmin = 1905.91111018414 
+            xmax = 1906.6790365303625 
+            text = "..." 
+        intervals [479]:
+            xmin = 1906.6790365303625 
+            xmax = 1907.12 
+            text = "[é" 
+        intervals [480]:
+            xmin = 1907.12 
+            xmax = 1910.9204402813443 
+            text = "para sobrevivência... é sô/ é::... é suficiente" 
+        intervals [481]:
+            xmin = 1910.9204402813443 
+            xmax = 1917.8075505571367 
+            text = "..." 
+        intervals [482]:
+            xmin = 1917.8075505571367 
+            xmax = 1919.1026043305128 
+            text = "como acompanharia::?" 
+        intervals [483]:
+            xmin = 1919.1026043305128 
+            xmax = 1921.758160774325 
+            text = "..." 
+        intervals [484]:
+            xmin = 1921.758160774325 
+            xmax = 1922.56 
+            text = "[ah:: sim" 
+        intervals [485]:
+            xmin = 1922.56 
+            xmax = 1923.06 
+            text = "hã" 
+        intervals [486]:
+            xmin = 1923.06 
+            xmax = 1926.8894811762484 
+            text = "..." 
+        intervals [487]:
+            xmin = 1926.8894811762484 
+            xmax = 1938.189079318117 
+            text = "bom poderia acompanha::r... assim:: mais alguma coisa por exemplo::... mais um ovo frito:: umas batatinhas um pedaço de pão né? coisas rápidas" 
+        intervals [488]:
+            xmin = 1938.189079318117 
+            xmax = 1938.6266524437003 
+            text = "..." 
+        intervals [489]:
+            xmin = 1938.6266524437003 
+            xmax = 1945.1290218572778 
+            text = "éh:: coisa muito demorada também::... já:: já esta riscado do nosso programa" 
+        intervals [490]:
+            xmin = 1945.1290218572778 
+            xmax = 1957.8350054808875 
+            text = "já foi combinado que a gente vai para Santos... ma::s... a comida tem que ser aquela que aparecer na mesa e todo mundo achar uma beleza uma delícia ((risos)) e ficar con-tente ((risos))" 
+        intervals [491]:
+            xmin = 1957.8350054808875 
+            xmax = 1969.072622750049 
+            text = "até tem o meu sobrinho... e um dia ele foi conosco né?... e justamente aquele dia a sopa:: estava para ser tomada no copo de canudinho ((risos))" 
+        intervals [492]:
+            xmin = 1969.072622750049 
+            xmax = 1976.445647262979 
+            text = "já daí vocês já (veem) né? ((risos)) que o acompanhamento não era lá muito bom né? (então)" 
+        intervals [493]:
+            xmin = 1976.445647262979 
+            xmax = 1991.195937958324 
+            text = "..." 
+        intervals [494]:
+            xmin = 1991.195937958324 
+            xmax = 1993.9304130650255 
+            text = "preferivelmente batatas fritas né?" 
+        intervals [495]:
+            xmin = 1993.9304130650255 
+            xmax = 1996.1435691700965 
+            text = "..." 
+        intervals [496]:
+            xmin = 1996.1435691700965 
+            xmax = 2001.1151543544208 
+            text = "ou então pode ser também:: o bife a cavalo bife com ovo né?" 
+        intervals [497]:
+            xmin = 2001.1151543544208 
+            xmax = 2004.3389390931595 
+            text = "..." 
+        intervals [498]:
+            xmin = 2004.3389390931595 
+            xmax = 2007.155553431107 
+            text = "ou então... o bife com:: salada" 
+        intervals [499]:
+            xmin = 2007.155553431107 
+            xmax = 2007.9013742887023 
+            text = "..." 
+        intervals [500]:
+            xmin = 2007.9013742887023 
+            xmax = 2014.4630962679034 
+            text = "são os três tipos::... de acompanhamento para o meu o gô/ coitado do meu bife ((risos))" 
+        intervals [501]:
+            xmin = 2014.4630962679034 
+            xmax = 2015.9830920361194 
+            text = "..." 
+        intervals [502]:
+            xmin = 2015.9830920361194 
+            xmax = 2016.461388503975 
+            text = "[é" 
+        intervals [503]:
+            xmin = 2016.461388503975 
+            xmax = 2019.2676590664146 
+            text = "..." 
+        intervals [504]:
+            xmin = 2019.2676590664146 
+            xmax = 2021.0591404466195 
+            text = "bom o bife é temperado com::" 
+        intervals [505]:
+            xmin = 2021.0591404466195 
+            xmax = 2021.8145053917895 
+            text = "..." 
+        intervals [506]:
+            xmin = 2021.8145053917895 
+            xmax = 2028.3323771293817 
+            text = "hoje eu estou:: dando [reCEItas de culinária aQUI não tem tamanho ((risos))" 
+        intervals [507]:
+            xmin = 2028.3323771293817 
+            xmax = 2030.6763482456063 
+            text = "até parece que eu sou uma exímia cozinheira" 
+        intervals [508]:
+            xmin = 2030.6763482456063 
+            xmax = 2031.8123427429373 
+            text = "..." 
+        intervals [509]:
+            xmin = 2031.8123427429373 
+            xmax = 2039.0220762944068 
+            text = "eu... costumo temperar o bife com::... sal... alho... e pimenta do reino" 
+        intervals [510]:
+            xmin = 2039.0220762944068 
+            xmax = 2040.3652530250195 
+            text = "..." 
+        intervals [511]:
+            xmin = 2040.3652530250195 
+            xmax = 2041.4567078395307 
+            text = "um pouco de óleo né?" 
+        intervals [512]:
+            xmin = 2041.4567078395307 
+            xmax = 2042.3294020141618 
+            text = "..." 
+        intervals [513]:
+            xmin = 2042.3294020141618 
+            xmax = 2048.6635587317874 
+            text = "quando a gente tempera bastante para guardar... na geladeira então põe um pouquinho de óleo para não ficar um no [outro" 
+        intervals [514]:
+            xmin = 2048.6635587317874 
+            xmax = 2052.2 
+            text = "..." 
+    item [3]:
+        class = "IntervalTier" 
+        name = "LA" 
+        xmin = 0 
+        xmax = 2052.2 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1407.8806719157992 
+            text = "..." 
+        intervals [2]:
+            xmin = 1407.8806719157992 
+            xmax = 1409.258223665233 
+            text = "gostamos [( )" 
+        intervals [3]:
+            xmin = 1409.258223665233 
+            xmax = 1484.2201570337488 
+            text = "..." 
+        intervals [4]:
+            xmin = 1484.2201570337488 
+            xmax = 1485.4616580751638 
+            text = "[((risos))" 
+        intervals [5]:
+            xmin = 1485.4616580751638 
+            xmax = 2052.2 
+            text = "..." 
+    item [4]:
+        class = "IntervalTier" 
+        name = "com" 
+        xmin = 0 
+        xmax = 2052.2 
+        intervals: size = 112 
+        intervals [1]:
+            xmin = 0 
+            xmax = 55.6033645830259 
+            text = "" 
+        intervals [2]:
+            xmin = 55.6033645830259 
+            xmax = 56.86211017769783 
+            text = "((ruído))" 
+        intervals [3]:
+            xmin = 56.86211017769783 
+            xmax = 130.36718963418454 
+            text = "" 
+        intervals [4]:
+            xmin = 130.36718963418454 
+            xmax = 130.98348382195928 
+            text = "((palavra estrangeira))" 
+        intervals [5]:
+            xmin = 130.98348382195928 
+            xmax = 132.37434124206212 
+            text = "" 
+        intervals [6]:
+            xmin = 132.37434124206212 
+            xmax = 133.77761743550204 
+            text = "((ruído))" 
+        intervals [7]:
+            xmin = 133.77761743550204 
+            xmax = 140.82770601425662 
+            text = "" 
+        intervals [8]:
+            xmin = 140.82770601425662 
+            xmax = 142.08389347085063 
+            text = "((ruído))" 
+        intervals [9]:
+            xmin = 142.08389347085063 
+            xmax = 226.25179588482254 
+            text = "" 
+        intervals [10]:
+            xmin = 226.25179588482254 
+            xmax = 227.7990796689582 
+            text = "((ruído))" 
+        intervals [11]:
+            xmin = 227.7990796689582 
+            xmax = 458.71383741163385 
+            text = "" 
+        intervals [12]:
+            xmin = 458.71383741163385 
+            xmax = 459.26371152455397 
+            text = "((nome))" 
+        intervals [13]:
+            xmin = 459.26371152455397 
+            xmax = 484.63272599848614 
+            text = "" 
+        intervals [14]:
+            xmin = 484.63272599848614 
+            xmax = 485.4761683742477 
+            text = "((L1 fala rindo))" 
+        intervals [15]:
+            xmin = 485.4761683742477 
+            xmax = 501.141931822354 
+            text = "" 
+        intervals [16]:
+            xmin = 501.141931822354 
+            xmax = 501.3570763632359 
+            text = "((L1 fala rindo))" 
+        intervals [17]:
+            xmin = 501.3570763632359 
+            xmax = 564.4473323440377 
+            text = "" 
+        intervals [18]:
+            xmin = 564.4473323440377 
+            xmax = 565.2098665687508 
+            text = "((L1 fala rindo))" 
+        intervals [19]:
+            xmin = 565.2098665687508 
+            xmax = 598.9670713974413 
+            text = "" 
+        intervals [20]:
+            xmin = 598.9670713974413 
+            xmax = 600.0044925748315 
+            text = "((L1 fala rindo))" 
+        intervals [21]:
+            xmin = 600.0044925748315 
+            xmax = 672.8376998181541 
+            text = "" 
+        intervals [22]:
+            xmin = 672.8376998181541 
+            xmax = 674.1770004522084 
+            text = "((L1 fala rindo))" 
+        intervals [23]:
+            xmin = 674.1770004522084 
+            xmax = 680.7164846541381 
+            text = "" 
+        intervals [24]:
+            xmin = 680.7164846541381 
+            xmax = 681.3408202880581 
+            text = "((L1 fala rindo))" 
+        intervals [25]:
+            xmin = 681.3408202880581 
+            xmax = 743.3566067638305 
+            text = "" 
+        intervals [26]:
+            xmin = 743.3566067638305 
+            xmax = 745.0010597751733 
+            text = "((L1 fala rindo))" 
+        intervals [27]:
+            xmin = 745.0010597751733 
+            xmax = 781.0320917933259 
+            text = "" 
+        intervals [28]:
+            xmin = 781.0320917933259 
+            xmax = 781.3284378492962 
+            text = "((ruído))" 
+        intervals [29]:
+            xmin = 781.3284378492962 
+            xmax = 855.2444994806509 
+            text = "" 
+        intervals [30]:
+            xmin = 855.2444994806509 
+            xmax = 857.4700012865458 
+            text = "((Doc1 fala rindo))" 
+        intervals [31]:
+            xmin = 857.4700012865458 
+            xmax = 861.414677785317 
+            text = "" 
+        intervals [32]:
+            xmin = 861.414677785317 
+            xmax = 862.3126802877013 
+            text = "((L1 fala rindo))" 
+        intervals [33]:
+            xmin = 862.3126802877013 
+            xmax = 906.1831402283701 
+            text = "" 
+        intervals [34]:
+            xmin = 906.1831402283701 
+            xmax = 906.6146421270861 
+            text = "((L1 fala rindo))" 
+        intervals [35]:
+            xmin = 906.6146421270861 
+            xmax = 954.0027422132006 
+            text = "" 
+        intervals [36]:
+            xmin = 954.0027422132006 
+            xmax = 954.64428628119 
+            text = "((Doc1 fala rindo))" 
+        intervals [37]:
+            xmin = 954.64428628119 
+            xmax = 1032.2952686944884 
+            text = "" 
+        intervals [38]:
+            xmin = 1032.2952686944884 
+            xmax = 1033.2057772881092 
+            text = "((L1 fala rindo))" 
+        intervals [39]:
+            xmin = 1033.2057772881092 
+            xmax = 1051.9118154345824 
+            text = "" 
+        intervals [40]:
+            xmin = 1051.9118154345824 
+            xmax = 1054.1630539877358 
+            text = "((L1 fala rindo))" 
+        intervals [41]:
+            xmin = 1054.1630539877358 
+            xmax = 1101.4053249989624 
+            text = "" 
+        intervals [42]:
+            xmin = 1101.4053249989624 
+            xmax = 1102.5098115103547 
+            text = "((ruído))" 
+        intervals [43]:
+            xmin = 1102.5098115103547 
+            xmax = 1107.403573272648 
+            text = "" 
+        intervals [44]:
+            xmin = 1107.403573272648 
+            xmax = 1108.3140818662687 
+            text = "((ruído))" 
+        intervals [45]:
+            xmin = 1108.3140818662687 
+            xmax = 1137.8160988093657 
+            text = "" 
+        intervals [46]:
+            xmin = 1137.8160988093657 
+            xmax = 1138.2198895769716 
+            text = "((ruído))" 
+        intervals [47]:
+            xmin = 1138.2198895769716 
+            xmax = 1270.2475164877753 
+            text = "" 
+        intervals [48]:
+            xmin = 1270.2475164877753 
+            xmax = 1270.72 
+            text = "((L1 fala rindo))" 
+        intervals [49]:
+            xmin = 1270.72 
+            xmax = 1271.3519685112637 
+            text = "" 
+        intervals [50]:
+            xmin = 1271.3519685112637 
+            xmax = 1272.6599309012088 
+            text = "((Doc1 fala rindo))" 
+        intervals [51]:
+            xmin = 1272.6599309012088 
+            xmax = 1303.4138417501729 
+            text = "" 
+        intervals [52]:
+            xmin = 1303.4138417501729 
+            xmax = 1308.0469749393187 
+            text = "((L1 fala rindo))" 
+        intervals [53]:
+            xmin = 1308.0469749393187 
+            xmax = 1332.0135524637117 
+            text = "" 
+        intervals [54]:
+            xmin = 1332.0135524637117 
+            xmax = 1333.1667411809656 
+            text = "((Doc1 fala rindo))" 
+        intervals [55]:
+            xmin = 1333.1667411809656 
+            xmax = 1346.71261998604 
+            text = "" 
+        intervals [56]:
+            xmin = 1346.71261998604 
+            xmax = 1346.9909677401854 
+            text = "((L1 pigarreou))" 
+        intervals [57]:
+            xmin = 1346.9909677401854 
+            xmax = 1400.0274801848827 
+            text = "" 
+        intervals [58]:
+            xmin = 1400.0274801848827 
+            xmax = 1401.298874323321 
+            text = "((L1 fala rindo))" 
+        intervals [59]:
+            xmin = 1401.298874323321 
+            xmax = 1402.1173062640062 
+            text = "((ruído))" 
+        intervals [60]:
+            xmin = 1402.1173062640062 
+            xmax = 1432.9584526304088 
+            text = "" 
+        intervals [61]:
+            xmin = 1432.9584526304088 
+            xmax = 1434.3521423538893 
+            text = "((L1 fala rindo))" 
+        intervals [62]:
+            xmin = 1434.3521423538893 
+            xmax = 1495.4633449988532 
+            text = "" 
+        intervals [63]:
+            xmin = 1495.4633449988532 
+            xmax = 1497.3893982504462 
+            text = "((L1 fala rindo))" 
+        intervals [64]:
+            xmin = 1497.3893982504462 
+            xmax = 1503.5253215141458 
+            text = "" 
+        intervals [65]:
+            xmin = 1503.5253215141458 
+            xmax = 1507.4994204188545 
+            text = "((L1 fala rindo))" 
+        intervals [66]:
+            xmin = 1507.4994204188545 
+            xmax = 1513.266398131984 
+            text = "" 
+        intervals [67]:
+            xmin = 1513.266398131984 
+            xmax = 1513.7134813702542 
+            text = "((nome))" 
+        intervals [68]:
+            xmin = 1513.7134813702542 
+            xmax = 1538.2900065538577 
+            text = "" 
+        intervals [69]:
+            xmin = 1538.2900065538577 
+            xmax = 1540.892690029424 
+            text = "((L1 fala rindo))" 
+        intervals [70]:
+            xmin = 1540.892690029424 
+            xmax = 1745.5495475929533 
+            text = "" 
+        intervals [71]:
+            xmin = 1745.5495475929533 
+            xmax = 1746.2352121535823 
+            text = "((corte: distorção na fita de gravação))" 
+        intervals [72]:
+            xmin = 1746.2352121535823 
+            xmax = 1759.5042905713847 
+            text = "" 
+        intervals [73]:
+            xmin = 1759.5042905713847 
+            xmax = 1761.975558766177 
+            text = "((L1 fala rindo))" 
+        intervals [74]:
+            xmin = 1761.975558766177 
+            xmax = 1767.3273109921893 
+            text = "" 
+        intervals [75]:
+            xmin = 1767.3273109921893 
+            xmax = 1767.6511622111627 
+            text = "((nome))" 
+        intervals [76]:
+            xmin = 1767.6511622111627 
+            xmax = 1782.0179629079528 
+            text = "" 
+        intervals [77]:
+            xmin = 1782.0179629079528 
+            xmax = 1783.8475981246552 
+            text = "((L1 fala rindo))" 
+        intervals [78]:
+            xmin = 1783.8475981246552 
+            xmax = 1793.6343030600572 
+            text = "" 
+        intervals [79]:
+            xmin = 1793.6343030600572 
+            xmax = 1796.8621103492978 
+            text = "((L1 fala rindo))" 
+        intervals [80]:
+            xmin = 1796.8621103492978 
+            xmax = 1798.3456289117144 
+            text = "((L1 fala rindo))" 
+        intervals [81]:
+            xmin = 1798.3456289117144 
+            xmax = 1800.8118494907628 
+            text = "((L1 fala rindo))" 
+        intervals [82]:
+            xmin = 1800.8118494907628 
+            xmax = 1839.0105582661297 
+            text = "" 
+        intervals [83]:
+            xmin = 1839.0105582661297 
+            xmax = 1841.6945539806466 
+            text = "((L1 fala rindo))" 
+        intervals [84]:
+            xmin = 1841.6945539806466 
+            xmax = 1848.835072402788 
+            text = "" 
+        intervals [85]:
+            xmin = 1848.835072402788 
+            xmax = 1852.1361400137623 
+            text = "((L1 fala rindo))" 
+        intervals [86]:
+            xmin = 1852.1361400137623 
+            xmax = 1853.5868221713788 
+            text = "" 
+        intervals [87]:
+            xmin = 1853.5868221713788 
+            xmax = 1854.0816838812427 
+            text = "((palavra estrangeira))" 
+        intervals [88]:
+            xmin = 1854.0816838812427 
+            xmax = 1854.266208586616 
+            text = "" 
+        intervals [89]:
+            xmin = 1854.266208586616 
+            xmax = 1855.4180900807626 
+            text = "((L1 fala rindo))" 
+        intervals [90]:
+            xmin = 1855.4180900807626 
+            xmax = 1860.0328442347582 
+            text = "" 
+        intervals [91]:
+            xmin = 1860.0328442347582 
+            xmax = 1860.544480917838 
+            text = "((palavra estrangeira))" 
+        intervals [92]:
+            xmin = 1860.544480917838 
+            xmax = 1863.3025279572878 
+            text = "" 
+        intervals [93]:
+            xmin = 1863.3025279572878 
+            xmax = 1864.3375642319315 
+            text = "((L1 fala rindo))" 
+        intervals [94]:
+            xmin = 1864.3375642319315 
+            xmax = 1894.506869444806 
+            text = "" 
+        intervals [95]:
+            xmin = 1894.506869444806 
+            xmax = 1901.5501929646825 
+            text = "((L1 fala rindo))" 
+        intervals [96]:
+            xmin = 1901.5501929646825 
+            xmax = 1948.8732232910315 
+            text = "" 
+        intervals [97]:
+            xmin = 1948.8732232910315 
+            xmax = 1954.455772235209 
+            text = "((L1 fala rindo))" 
+        intervals [98]:
+            xmin = 1954.455772235209 
+            xmax = 1955.0255773684348 
+            text = "" 
+        intervals [99]:
+            xmin = 1955.0255773684348 
+            xmax = 1956.6939535508498 
+            text = "((L1 fala rindo))" 
+        intervals [100]:
+            xmin = 1956.6939535508498 
+            xmax = 1966.0518942901208 
+            text = "" 
+        intervals [101]:
+            xmin = 1966.0518942901208 
+            xmax = 1967.5735329981671 
+            text = "((L1 fala rindo))" 
+        intervals [102]:
+            xmin = 1967.5735329981671 
+            xmax = 1969.072622750049 
+            text = "" 
+        intervals [103]:
+            xmin = 1969.072622750049 
+            xmax = 1970.3579218289733 
+            text = "((L1 fala rindo))" 
+        intervals [104]:
+            xmin = 1970.3579218289733 
+            xmax = 1972.92163434554 
+            text = "" 
+        intervals [105]:
+            xmin = 1972.92163434554 
+            xmax = 1976.445647262979 
+            text = "((L1 fala rindo))" 
+        intervals [106]:
+            xmin = 1976.445647262979 
+            xmax = 1979.5911586295272 
+            text = "" 
+        intervals [107]:
+            xmin = 1979.5911586295272 
+            xmax = 1980.0671422796345 
+            text = "((nome))" 
+        intervals [108]:
+            xmin = 1980.0671422796345 
+            xmax = 2012.9680991177313 
+            text = "" 
+        intervals [109]:
+            xmin = 2012.9680991177313 
+            xmax = 2013.531429192625 
+            text = "((L1 fala rindo))" 
+        intervals [110]:
+            xmin = 2013.531429192625 
+            xmax = 2024.7762024036822 
+            text = "" 
+        intervals [111]:
+            xmin = 2024.7762024036822 
+            xmax = 2026.317266286725 
+            text = "((L1 fala rindo))" 
+        intervals [112]:
+            xmin = 2026.317266286725 
+            xmax = 2052.2 
+            text = "" 

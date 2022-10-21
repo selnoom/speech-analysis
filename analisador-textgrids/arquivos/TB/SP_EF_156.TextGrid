@@ -1,0 +1,2119 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2829.16 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TB-l1" 
+        xmin = 0 
+        xmax = 2829.16 
+        intervals: size = 428 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0036521399820255538 
+            text = "..." 
+        intervals [2]:
+            xmin = 0.0036521399820255538 
+            xmax = 7.5164283710994875 
+            text = "(...) ahn:: o tema que::... éh me foi DAdo... é da estética na década de TRINta" 
+        intervals [3]:
+            xmin = 7.5164283710994875 
+            xmax = 8.501163796159656 
+            text = "..." 
+        intervals [4]:
+            xmin = 8.501163796159656 
+            xmax = 22.269422616953467 
+            text = "eu vou desde o o início... declarar... que eu vou fugir um pouco ao meu tema... e talvez no decorrer:: da paLEStra fique esclarecido... fique esclarecido a minha opção" 
+        intervals [5]:
+            xmin = 22.269422616953467 
+            xmax = 23.946993709902237 
+            text = "..." 
+        intervals [6]:
+            xmin = 23.946993709902237 
+            xmax = 30.662481292444905 
+            text = "éh:: em todo caso aviso já desde o início porque éh:: es/ escolhi essa:: orientação" 
+        intervals [7]:
+            xmin = 30.662481292444905 
+            xmax = 31.286171344994624 
+            text = "..." 
+        intervals [8]:
+            xmin = 31.286171344994624 
+            xmax = 43.74297516933587 
+            text = "a década de trinta é uma década muito rica de manifestações esTÉticas mas muitas das manifestações que poderiam me interessar aqui já foram eu creio tratados por outras tratadas por outras pessoas não irão ser tratadas" 
+        intervals [9]:
+            xmin = 43.74297516933587 
+            xmax = 44.02772877313543 
+            text = "..." 
+        intervals [10]:
+            xmin = 44.02772877313543 
+            xmax = 55.94465416474976 
+            text = "porque a estética abran::ge:: enfim a:: arquitetura:: as artes plásticas em geral a arquitetura e pintura... e:: e pode eventualmente entrar pelo campo da literatura" 
+        intervals [11]:
+            xmin = 55.94465416474976 
+            xmax = 56.78182508801374 
+            text = "..." 
+        intervals [12]:
+            xmin = 56.78182508801374 
+            xmax = 86.1228847878346 
+            text = "éh::... e... por outro lado porque neste momento ah:: está ah::... ah... trabalhando... um esteta que talvez seja o maior esteta que o Brasil já teve que é Mário de Andrade... e eu acredito que é mais importante para nós... pararmos um pouco na meditação do sistema de ARte que ele estabeleceu... do que em pequenas manifestações espoRÁ::dicas... que não terão... tanta importância posterior" 
+        intervals [13]:
+            xmin = 86.1228847878346 
+            xmax = 86.71236756283758 
+            text = "..." 
+        intervals [14]:
+            xmin = 86.71236756283758 
+            xmax = 100.15067780884551 
+            text = "de modo que eu vou tentar:: na primeira par::te da minha pales::tra me referir::... a algumas manifestações... e depois me fixar... nã:: na:: no pensamento estético de Mário" 
+        intervals [15]:
+            xmin = 100.15067780884551 
+            xmax = 102.38430234573393 
+            text = "..." 
+        intervals [16]:
+            xmin = 102.38430234573393 
+            xmax = 108.46052555818902 
+            text = "mesmo aqui eu fiz uma pê/ uma:: ah uma:: ah o meu enfoque é muito pessoal" 
+        intervals [17]:
+            xmin = 108.46052555818902 
+            xmax = 108.63139084714392 
+            text = "..." 
+        intervals [18]:
+            xmin = 108.63139084714392 
+            xmax = 115.57697799607611 
+            text = "porque éh:: tendo que escolher alguns pensadores eu preferi escolher aqueles que estão ligados à Faculdade de Filosofia" 
+        intervals [19]:
+            xmin = 115.57697799607611 
+            xmax = 116.14327697898067 
+            text = "..." 
+        intervals [20]:
+            xmin = 116.14327697898067 
+            xmax = 119.51385246116136 
+            text = "e que tiveram uma atuação aQUI nos cursos::" 
+        intervals [21]:
+            xmin = 119.51385246116136 
+            xmax = 120.994064254326 
+            text = "..." 
+        intervals [22]:
+            xmin = 120.994064254326 
+            xmax = 127.27052773419938 
+            text = "de modo que não estranhem... a:: a a a orientação pouco peculiar que eu vou dar a essa palestra" 
+        intervals [23]:
+            xmin = 127.27052773419938 
+            xmax = 128.93665170846413 
+            text = "..." 
+        intervals [24]:
+            xmin = 128.93665170846413 
+            xmax = 172.58935925807842 
+            text = "na década no de/ no decênio de trinta... ah::... é republicado o livro de Vicente Licínio Car::doso A Filosofia da Ar::te... que havia se originado num curso de arte feito aos arquitetos::... e... ao qual apenas eu vou me referir::... porque se bem que ele tenha no panorama ah no panorama geral brasileiro muita imporTÂNcia... ah:: é um livro que não pá/ apari/ ah:: apresenta nenhuma originaliDAde... limitando-se a uma divulgação das ideias de Taine... onde a explicação dos fenômenos artísticos era sujeita... às três influências da raça do meio e do momento" 
+        intervals [25]:
+            xmin = 172.58935925807842 
+            xmax = 173.7111048296045 
+            text = "..." 
+        intervals [26]:
+            xmin = 173.7111048296045 
+            xmax = 188.2339518584619 
+            text = "mas... ah uma das poucas... ideias curiosas DE... Licínio Cardoso era ter DAdo à arquiteTUra uma preeminência... mostrando que ela é de certa maneira a... arte mestra" 
+        intervals [27]:
+            xmin = 188.2339518584619 
+            xmax = 188.57209452523645 
+            text = "..." 
+        intervals [28]:
+            xmin = 188.57209452523645 
+            xmax = 191.5303224183538 
+            text = "à qual... as demais deveriam se sujeitar" 
+        intervals [29]:
+            xmin = 191.5303224183538 
+            xmax = 191.77425936953117 
+            text = "..." 
+        intervals [30]:
+            xmin = 191.77425936953117 
+            xmax = 200.06334884390367 
+            text = "esta a ideia principal de Licínio de Vicente Licínio Cardoso... que vai se transformar... numa ideia:: bana::l para nós hoje em dia" 
+        intervals [31]:
+            xmin = 200.06334884390367 
+            xmax = 200.8083578264952 
+            text = "..." 
+        intervals [32]:
+            xmin = 200.8083578264952 
+            xmax = 204.2805999731577 
+            text = "o livro teve pouca influência passou quase despercebido" 
+        intervals [33]:
+            xmin = 204.2805999731577 
+            xmax = 205.37034027428876 
+            text = "..." 
+        intervals [34]:
+            xmin = 205.37034027428876 
+            xmax = 227.68 
+            text = "nesse decênio... nós temos a::... a atividade jornalística de alGUNS pensadores como é o caso de Sérgio Milliet e de Luís Martins... que atuam através de crônicas... e... HÁ no Rio de Janeiro um pouco atividade DE... Manuel Bandeira que é um excelente crítico de artes plásticas" 
+        intervals [35]:
+            xmin = 227.68 
+            xmax = 228.63834843696856 
+            text = "..." 
+        intervals [36]:
+            xmin = 228.63834843696856 
+            xmax = 234.71668169211577 
+            text = "nós temos alguns autores fazendo obras de muita sensibilidade mas esporádicas" 
+        intervals [37]:
+            xmin = 234.71668169211577 
+            xmax = 235.212090376924 
+            text = "..." 
+        intervals [38]:
+            xmin = 235.212090376924 
+            xmax = 240.41200883519576 
+            text = "mas eu creio que isso... foi ou deve ser abordado por quem falar... da pintura" 
+        intervals [39]:
+            xmin = 240.41200883519576 
+            xmax = 241.4020025133313 
+            text = "..." 
+        intervals [40]:
+            xmin = 241.4020025133313 
+            xmax = 244.19665100186106 
+            text = "para o decênio das experiências de Flávio de Carvalho" 
+        intervals [41]:
+            xmin = 244.19665100186106 
+            xmax = 245.11899761794837 
+            text = "..." 
+        intervals [42]:
+            xmin = 245.11899761794837 
+            xmax = 258.2783299412196 
+            text = "as experiências numeradas de Flávio de Carvalho... mas como houve ou haverá um testemunho do próprio [arquiteto --já houve-- não há necessidade que eu me detenha também... nessa manifestação" 
+        intervals [43]:
+            xmin = 258.2783299412196 
+            xmax = 259.60768590956616 
+            text = "..." 
+        intervals [44]:
+            xmin = 259.60768590956616 
+            xmax = 270.2822587168973 
+            text = "por outro lado... como já houve também... a conferência sobre arquitetura... já deve ter sido mostrado que o decênio... é extremamente importante para a arquitetura" 
+        intervals [45]:
+            xmin = 270.2822587168973 
+            xmax = 273.1008417928487 
+            text = "..." 
+        intervals [46]:
+            xmin = 273.1008417928487 
+            xmax = 281.9132114484693 
+            text = "MAS... ela é mais impor::tante como realização da arquitetura do... que... como teorização sobre artite/ arquitetura" 
+        intervals [47]:
+            xmin = 281.9132114484693 
+            xmax = 282.19510892975353 
+            text = "..." 
+        intervals [48]:
+            xmin = 282.19510892975353 
+            xmax = 334.24408230472085 
+            text = "enfim nesse decênio nós já encontramos os frutos::... da chegada de Warchavchik ao Brasil em mil novecentos e vinte e três... da atuação de Rino Levi... da divulgação das ideias de Le Corbusier... e... também já... vemos a repercussão no meio ainda muito provinciano de São Paulo... de algumas realizações... éh:: modernistas como as... duas casas sobretudo de Warchavchik... que foram extremamente discutidas... que receberam pelos jornais muitos ataques que provocaram polêmicas... polêmicas em que --como... a maioria das polêmicas dessa op/ dessa época--... uma das figuras principais... foi Mário de Andrade... que veio a público para defender os ataques que as casas tinham recebido... de Cristiano das Neves... e creio que Dácio de Morais::" 
+        intervals [49]:
+            xmin = 334.24408230472085 
+            xmax = 334.54620886755856 
+            text = "..." 
+        intervals [50]:
+            xmin = 334.54620886755856 
+            xmax = 348.09093005016035 
+            text = "então há uma polêmica pelo jornal... DE... dos arquitetos tradicionalistas... e... de Mário de Andrade querendo defender as ideias... que eram ideias um pouco de Le Corbusier e muito de Gropius::" 
+        intervals [51]:
+            xmin = 348.09093005016035 
+            xmax = 348.3950451945389 
+            text = "..." 
+        intervals [52]:
+            xmin = 348.3950451945389 
+            xmax = 350.72331716418665 
+            text = "difundidas no Brasil... por Warchavchik" 
+        intervals [53]:
+            xmin = 350.72331716418665 
+            xmax = 354.1889413005308 
+            text = "..." 
+        intervals [54]:
+            xmin = 354.1889413005308 
+            xmax = 365.12635816607303 
+            text = "o que nos interessa hoje... é... a estética que fazia... de uma maneira talvez mais aprofundada nos cursos da Faculdade de Filosofia" 
+        intervals [55]:
+            xmin = 365.12635816607303 
+            xmax = 366.00402710339114 
+            text = "..." 
+        intervals [56]:
+            xmin = 366.00402710339114 
+            xmax = 369.79058624848676 
+            text = "NEssa ocasião os cursos eram dados por professores estrangeiros::" 
+        intervals [57]:
+            xmin = 369.79058624848676 
+            xmax = 369.9254499896418 
+            text = "..." 
+        intervals [58]:
+            xmin = 369.9254499896418 
+            xmax = 371.4397760135939 
+            text = "por professores franceses" 
+        intervals [59]:
+            xmin = 371.4397760135939 
+            xmax = 372.02881955940484 
+            text = "..." 
+        intervals [60]:
+            xmin = 372.02881955940484 
+            xmax = 380.3256730561599 
+            text = "e... a atuação desses professores FOi para muitos de nós... muito importante" 
+        intervals [61]:
+            xmin = 380.3256730561599 
+            xmax = 380.8026460076534 
+            text = "..." 
+        intervals [62]:
+            xmin = 380.8026460076534 
+            xmax = 395.476825657792 
+            text = "nós vamos ver então... a atuação de DOis professores Jean Mocquet... e Claude Lévi-Strauss... que tinham nessa ocasião vinte e sete anos e começava no Brasil a SUa... portentosa carreira urni/ universitária" 
+        intervals [63]:
+            xmin = 395.476825657792 
+            xmax = 396.0791606909489 
+            text = "..." 
+        intervals [64]:
+            xmin = 396.0791606909489 
+            xmax = 412.2580573239682 
+            text = "em segundo lugar... queria me referir aos salões de pinTUra como o Salão de MAio onde se davam exposições de quadros e conferências... e sobretudo à GRAnde exposição de pintura francesa... que em mil novecentos e quarenta... FEcha o decênio de maneira espetacular" 
+        intervals [65]:
+            xmin = 412.2580573239682 
+            xmax = 412.6966413928737 
+            text = "..." 
+        intervals [66]:
+            xmin = 412.6966413928737 
+            xmax = 419.16 
+            text = "para muitos de nós... foi a primeiro GRAnde conTAto... COM a... ar::te... francesa" 
+        intervals [67]:
+            xmin = 419.16 
+            xmax = 420.17721903496937 
+            text = "..." 
+        intervals [68]:
+            xmin = 420.17721903496937 
+            xmax = 435.22699197609126 
+            text = "é importante essa essa essa co/ essa:: chegada dos quatro franCEses... porque nós que éramos alunos da Faculdade nessa ocasião íamos... à à à à con/ à:: à exposição de quadros muitas vezes com o professor Mocquet para que ele nos explicasse os quadros" 
+        intervals [69]:
+            xmin = 435.22699197609126 
+            xmax = 435.67604149060713 
+            text = "..." 
+        intervals [70]:
+            xmin = 435.67604149060713 
+            xmax = 440.22961273370765 
+            text = "para MUitos de nós foi o primeiro contato em profundidade com a pintura" 
+        intervals [71]:
+            xmin = 440.22961273370765 
+            xmax = 441.62601193420824 
+            text = "..." 
+        intervals [72]:
+            xmin = 441.62601193420824 
+            xmax = 462.38477638368016 
+            text = "e em último ca/ lugar::... a elaboraÇÃo da única meditação estética... digna realmente desse NOme... que é a meditação de Mário de Andrade... que... ABRANge todo período e EXtravasa... até o período de quarenta FECHAdo brutalmente por sua morte" 
+        intervals [73]:
+            xmin = 462.38477638368016 
+            xmax = 463.88 
+            text = "..." 
+        intervals [74]:
+            xmin = 463.88 
+            xmax = 465.8753879941435 
+            text = "vamos começar pelos professores franceses" 
+        intervals [75]:
+            xmin = 465.8753879941435 
+            xmax = 466.35719260471393 
+            text = "..." 
+        intervals [76]:
+            xmin = 466.35719260471393 
+            xmax = 474.96286038237184 
+            text = "Lévi-Strauss... primeiro... Jean Mocquet... e... por fim Roger Bastide... a que tinha me e/ ( ) me esquecido de de referir" 
+        intervals [77]:
+            xmin = 474.96286038237184 
+            xmax = 475.30623556259724 
+            text = "..." 
+        intervals [78]:
+            xmin = 475.30623556259724 
+            xmax = 483.3418640444392 
+            text = "são os três professores que acho que tiveram... muita importância... na:::... na informação estética... em São Paulo" 
+        intervals [79]:
+            xmin = 483.3418640444392 
+            xmax = 483.9991806922278 
+            text = "... " 
+        intervals [80]:
+            xmin = 483.9991806922278 
+            xmax = 489.97179034307135 
+            text = "os dois primeiros... representam uma posição... --que nós vamos ver-- que é nosTÁLgica em face da a::rte" 
+        intervals [81]:
+            xmin = 489.97179034307135 
+            xmax = 493.05584243988994 
+            text = "..." 
+        intervals [82]:
+            xmin = 493.05584243988994 
+            xmax = 505.26513463996184 
+            text = "e... os terceiro Roger Bastide... é o que... vai servir de elemento de ligaÇÃO... entre essa POsição extremamente euroPEia... e uma posição voltada para os problemas do Brasil" 
+        intervals [83]:
+            xmin = 505.26513463996184 
+            xmax = 506.36 
+            text = "que é Roger Bastide" 
+        intervals [84]:
+            xmin = 506.36 
+            xmax = 506.6543686507719 
+            text = "..." 
+        intervals [85]:
+            xmin = 506.6543686507719 
+            xmax = 510.8247805645471 
+            text = "uma posição em muitos pontos... que é semelhante à de Mário" 
+        intervals [86]:
+            xmin = 510.8247805645471 
+            xmax = 511.17777739257735 
+            text = "..." 
+        intervals [87]:
+            xmin = 511.17777739257735 
+            xmax = 519.9102639596404 
+            text = "então ele... estabelece um ponto de ligação entre essa estética euroPEia... e uma estética que nós podemos dizer brasileira... que está se fazendo na sombra" 
+        intervals [88]:
+            xmin = 519.9102639596404 
+            xmax = 521.7752638677335 
+            text = "..." 
+        intervals [89]:
+            xmin = 521.7752638677335 
+            xmax = 529.1041110884722 
+            text = "Lévi-Strauss... chegou ao Brasil com vinte e sete anos era professor de Etnografia... MAs... ele era filho de pintor::" 
+        intervals [90]:
+            xmin = 529.1041110884722 
+            xmax = 530.0199208226617 
+            text = "..." 
+        intervals [91]:
+            xmin = 530.0199208226617 
+            xmax = 539.9042438840954 
+            text = "filho de pintor::... e amando a pintura... como em geral... todo pro/... todo... francês de... de de formação... intelectual" 
+        intervals [92]:
+            xmin = 539.9042438840954 
+            xmax = 541.7772884414161 
+            text = "..." 
+        intervals [93]:
+            xmin = 541.7772884414161 
+            xmax = 558.5977443424044 
+            text = "e... amando a música... --como nós vemos... pelos livros que ele continua escrevendo e que muitos deles têm uma... uma::... tem títulos ou em subtítulos tirados da:: da:: da nomenclatura musical... como acontece com C-ru e Cozido--" 
+        intervals [94]:
+            xmin = 558.5977443424044 
+            xmax = 562.6131673857348 
+            text = "..." 
+        intervals [95]:
+            xmin = 562.6131673857348 
+            xmax = 575.7311324311032 
+            text = "a preocupação de Lévi-Strauss pela pintura é uma pro/ preocupação... que percorre a sua vida... ela se manifesta sobretudo num livrinho precioso... que é... ENtrevistas... com Claude Charbonnier" 
+        intervals [96]:
+            xmin = 575.7311324311032 
+            xmax = 576.0781111879652 
+            text = "..." 
+        intervals [97]:
+            xmin = 576.0781111879652 
+            xmax = 595.2820285175699 
+            text = "é uma série de entrevistas que ele fez à televisão francesa --não me lembro exatamente o a época--... onde... ele dá o seu testemunho... a sua de de antropólogo... sobre a::... a::... a evolução da pintura e sobre alguns problemas... da pintura contemporânea" 
+        intervals [98]:
+            xmin = 595.2820285175699 
+            xmax = 602.2892465794827 
+            text = "sobretudo sobre a:: a dissolução da pintura como ele via... ah se transformando de pintura cubista em pintura abstrata" 
+        intervals [99]:
+            xmin = 602.2892465794827 
+            xmax = 606.4418700811802 
+            text = "..." 
+        intervals [100]:
+            xmin = 606.4418700811802 
+            xmax = 609.4170284685163 
+            text = "--provavelmente é uma curiosidade bibliográfica-- " 
+        intervals [101]:
+            xmin = 609.4170284685163 
+            xmax = 631.6162389379559 
+            text = "e muita gente nunca soube... que... no Brasil... ah Lévi-Strauss escreveu dois::... ensaios ou dois pequenos artigos... O Cubismo e a Vida Cotidiana... que foi publicado na Revista do Arquivo... em novembro ou dezembro de mil novecentos e trinta e cinco... e um artigo sobre pintura moderna que surgiu no segundo número da Revista Contemporânea... --que este eu não consegui localizar--" 
+        intervals [102]:
+            xmin = 631.6162389379559 
+            xmax = 634.1599140804798 
+            text = "..." 
+        intervals [103]:
+            xmin = 634.1599140804798 
+            xmax = 671.6668966147461 
+            text = "-- o artigo da da Revista do Arquivo... é todo e/... todo ele marcado... éh que é sobre a:: pintura contemporânea... é se fixa no Cubismo e é todo ele marcado... pela ideia de que o Cubismo foi um movimento paradoxal... na medida em que... seu nascimento... e... que na éh que tendo NAscido e se desenvolvido sob o signo de do diVÓRcio entre a ar::te e o público... acabou penetrando de uma maneira... insidiosa... ah::... en/ nas FOrmas que ele chama mais pobres e mais utilitárias da expressão" 
+        intervals [104]:
+            xmin = 671.6668966147461 
+            xmax = 671.8 
+            text = "..." 
+        intervals [105]:
+            xmin = 671.8 
+            xmax = 688.5929963208292 
+            text = "isto é... foi uma aventura estética... que acabou modificando totalmente a visão do homem... não apenas a visão do esteta mas a visão do homem da rua do homem comum... porque... penetrou na sua vida de todo dia" 
+        intervals [106]:
+            xmin = 688.5929963208292 
+            xmax = 689.1801599123805 
+            text = "..." 
+        intervals [107]:
+            xmin = 689.1801599123805 
+            xmax = 699.539280550746 
+            text = "não através dos quadros... MAS... da arte aplicada e da arte... éh e de uma e da arte tipográfica e dos cartazes" 
+        intervals [108]:
+            xmin = 699.539280550746 
+            xmax = 700.1152576285559 
+            text = "..." 
+        intervals [109]:
+            xmin = 700.1152576285559 
+            xmax = 731.7016777069222 
+            text = "dos objetos feitos em série dos cartazes... e e lhe lembra a importância da decoração dos cafés com seus vidros foscos e tubos cromados... a im/ éh:: na na na modificação da sensibilidade... comum... a importância da dos manequins... utilizados pelos grandes magazin... que passam a ser não mais... manequins realistas mas estilizados de cores irreais... e tendo como objetivo sobretudo ahn ressaltar as qualidades dos materiais ( ) e pôr em relevo a mercadoria" 
+        intervals [110]:
+            xmin = 731.7016777069222 
+            xmax = 732.0716373918274 
+            text = "..." 
+        intervals [111]:
+            xmin = 732.0716373918274 
+            xmax = 748.009236443702 
+            text = "e por último a arrumação das vitrinas... que... passou de ser um aCÚmulo de coisas de objetos mas... a/ a/ acabou elegendo um objeto isolado... para... nele... para que nele concentrássemos... a nossa atenção" 
+        intervals [112]:
+            xmin = 748.009236443702 
+            xmax = 748.52 
+            text = "..." 
+        intervals [113]:
+            xmin = 748.52 
+            xmax = 757.8477659679104 
+            text = "desse modo --para Lévi-Strauss-- o Cubismo ensinou... que a decoração... deve ser feita... não por SOma mas por SUbTRAção... de elementos" 
+        intervals [114]:
+            xmin = 757.8477659679104 
+            xmax = 758.7641375168976 
+            text = "..." 
+        intervals [115]:
+            xmin = 758.7641375168976 
+            xmax = 787.0267357031304 
+            text = "e ensinou também... que a fi/ no quadro que a figuração do quadro no quadro pode haver uma figuração de quaisquer objetos... não apenas de certos objetos privilegiados... mas de quaisquer objetos... como já fazia uma certa pintura... e como fazia sobretudo Chardin... o homem que tinha elegido para se exprimir apenas... praticamente apenas a natureza morta... uma vez que quando ele tratava a figura humana ele também tratava como UM objeto" 
+        intervals [116]:
+            xmin = 787.0267357031304 
+            xmax = 789.2271948598669 
+            text = "..." 
+        intervals [117]:
+            xmin = 789.2271948598669 
+            xmax = 801.6961909620936 
+            text = "isso ahn:: a preocupação de Lévi-Strauss é mostrar... que não há... na... ARte e sobretudo na pintura --que nos está interessando--... imagens vulgares... se o artista as transfigura" 
+        intervals [118]:
+            xmin = 801.6961909620936 
+            xmax = 802.5314459114857 
+            text = "..." 
+        intervals [119]:
+            xmin = 802.5314459114857 
+            xmax = 806.9633117382721 
+            text = "uma garrafa é uma COisa... somente do ponto de vista utilitário" 
+        intervals [120]:
+            xmin = 806.9633117382721 
+            xmax = 807.4 
+            text = "..." 
+        intervals [121]:
+            xmin = 807.4 
+            xmax = 822.9415240838098 
+            text = "mas a percepção objetiva... mas para A percepção objetiva... uma garrafa é uma justaposição de formas de contornos de superfícies... de sombras e de luz... de manchas coloridas" 
+        intervals [122]:
+            xmin = 822.9415240838098 
+            xmax = 823.9311499248247 
+            text = "..." 
+        intervals [123]:
+            xmin = 823.9311499248247 
+            xmax = 830.1553341259473 
+            text = "e o artista disporá tudo isso transformando... os elementos... a seu gosto" 
+        intervals [124]:
+            xmin = 830.1553341259473 
+            xmax = 834.9334580781602 
+            text = "..." 
+        intervals [125]:
+            xmin = 834.9334580781602 
+            xmax = 858.3371140805557 
+            text = "portanto... o artista é aquele que... SAbe ver::... não a imagem prática e vulgar... que tem a sua representação no mundo... mas o equilíbrio interno dos volumes e das formas... da qual a coisa mais íntima --diz ele-- pode ser... a... só/ detentô/... pode ser insubstituível detentora" 
+        intervals [126]:
+            xmin = 858.3371140805557 
+            xmax = 861.3301058107729 
+            text = "..." 
+        intervals [127]:
+            xmin = 861.3301058107729 
+            xmax = 900.44 
+            text = "numa posição como de Lévi-Strauss... vê-se já que é muito moderna... vê-se já... a influência nítida do funcionalismo de Gropius... da esTÉtica dos materiais... do horror:: ao ador::no... horror de que... o principal representante vai ser na arquitetura (é) Mies van der Rohe... e sobretudo a aceitação da teori/ da teorização estética... de Fernand Léger... em livros como Função da Pintura... e em obras... como seu pequeno e... clássico filme O Balé Mecânico" 
+        intervals [128]:
+            xmin = 900.44 
+            xmax = 901.1220068569069 
+            text = "..." 
+        intervals [129]:
+            xmin = 901.1220068569069 
+            xmax = 932.8603738145916 
+            text = "por::tanto a aceitão a a aceitação de uma... estética... jo/ do... geométrica do pictural... de uma estética que já estava abandonando ou que já tinha praticamente abandonado a natureza... através do cubismo... tendo passado a eleger a beleza das formas... das cores chatas e puras... que já havia abandonado a perspectiva... a proporção... e QUE focalizava muitas vezes a beleza autônoma... de um único objeto" 
+        intervals [130]:
+            xmin = 932.8603738145916 
+            xmax = 935.5922734749587 
+            text = "..." 
+        intervals [131]:
+            xmin = 935.5922734749587 
+            xmax = 954.2261936104662 
+            text = "então... a estética... que nós desentranhamos deste pequeno artigo de Lévi-Strauss... é uma estética que deriva do Cubismo... da pregação... da do funcionalismo... da Bauhaus... de Gropius... e... de Fernand Léger" 
+        intervals [132]:
+            xmin = 954.2261936104662 
+            xmax = 955.6324192640748 
+            text = "..." 
+        intervals [133]:
+            xmin = 955.6324192640748 
+            xmax = 977.1775713493055 
+            text = "e caso de Jean Mocquet é um caso mais... CONvencional... é um ar/... é um professor de Filosofia mais ligado ao passado... e... a posição... significa dele ( ) uma posição mais retró::grada em relação a pintura... pois... Mocquet vai rejeitar o impressionismo" 
+        intervals [134]:
+            xmin = 977.1775713493055 
+            xmax = 977.8083643561315 
+            text = "..." 
+        intervals [135]:
+            xmin = 977.8083643561315 
+            xmax = 978.9062442878308 
+            text = "--mas vamos por partes--" 
+        intervals [136]:
+            xmin = 978.9062442878308 
+            xmax = 980.9756978496838 
+            text = "..." 
+        intervals [137]:
+            xmin = 980.9756978496838 
+            xmax = 1007.016229025699 
+            text = "se Lévi-Strauss se transformou... num dos maiores nomes::... da::... ah:: filosofia e da antropologia moder::na... um um nome... ligado a uma série de setores do pensamento... Jean Mocquet é... --a não ser para nós que tivemos a a sorte a eNORme realmente ventura se ser seus alunos-- ele é um desconhecido" 
+        intervals [138]:
+            xmin = 1007.016229025699 
+            xmax = 1007.593674938433 
+            text = "..." 
+        intervals [139]:
+            xmin = 1007.593674938433 
+            xmax = 1016.267500616834 
+            text = "no entanto... foi o professor... talvez mais brilhante... que jamais passou... pelos cursos de Filosofia nesta Faculdade" 
+        intervals [140]:
+            xmin = 1016.267500616834 
+            xmax = 1017.96 
+            text = "..." 
+        intervals [141]:
+            xmin = 1017.96 
+            xmax = 1038.9499285149973 
+            text = "--ele não fez carreira universitária... ele continua a... ser um professor de Liceu... ele foi... contemporâneo de... éh:: de Sartre... de Merleau-Ponty... de Simone de Beauvoir... e era TIdo por eles como um dos homens mais brilhantes da sua geração" 
+        intervals [142]:
+            xmin = 1038.9499285149973 
+            xmax = 1049.7264305337642 
+            text = "mas por um desses... dessas fatalidades de temperamento do destino... ele não se realizou através das obras... ele se realizou através... DO ensino--" 
+        intervals [143]:
+            xmin = 1049.7264305337642 
+            xmax = 1050.18624837267 
+            text = "..." 
+        intervals [144]:
+            xmin = 1050.18624837267 
+            xmax = 1066.9290248839934 
+            text = "no Brasil ele deixou... dois artigos::... ou três ou quatro... -- eu não me lembro... estou me lembrando agora de dois--... há um artigo muito importante sobre Freud... que são... realmente... JOIAS... de in/ de... de::... exposição de um problema" 
+        intervals [145]:
+            xmin = 1066.9290248839934 
+            xmax = 1079.6227965304104 
+            text = "ele era um escritor EXtraordinário... e se nós não soubéssemos::... qual era o autor desses artigo podíamos... sem dúvida atribuir a das boas... coisas de um homem como Merleau-Ponty por exemplo" 
+        intervals [146]:
+            xmin = 1079.6227965304104 
+            xmax = 1083.150583476964 
+            text = "..." 
+        intervals [147]:
+            xmin = 1083.150583476964 
+            xmax = 1084.7800753467086 
+            text = "--ele tinha algumas peculiarida::des" 
+        intervals [148]:
+            xmin = 1084.7800753467086 
+            xmax = 1100.7292001902147 
+            text = "por exemplo quando nós... nos (apresentávamos aos) exames... de seleção... ele exigia dos alunos NÃO que tivessem lido os livros de Filosofia... ele nunca perguntava se nós tínhamos lido Matéria e Memória... se nós tínhamos lido A Crítica do Juízo... ele perguntava... quais os romances que leu" 
+        intervals [149]:
+            xmin = 1100.7292001902147 
+            xmax = 1101 
+            text = "..." 
+        intervals [150]:
+            xmin = 1101 
+            xmax = 1111.5218545632015 
+            text = "porque ele achava que um aluno que se apresentasse para um primeiro exame de Filosofia... não podia ter li/... TEr compreendido ainda a Filosofia mas tinha obrigação... de ter lido a LIteratura" 
+        intervals [151]:
+            xmin = 1111.5218545632015 
+            xmax = 1111.7661674149574 
+            text = "..." 
+        intervals [152]:
+            xmin = 1111.7661674149574 
+            xmax = 1120.7453142376055 
+            text = "então ele perguntava já leu Crime e Castigo... já leu o Pére Goriot... lá/ já leu... o:: Vermelho e o... e o Preto" 
+        intervals [153]:
+            xmin = 1120.7453142376055 
+            xmax = 1121.3341637769654 
+            text = "..." 
+        intervals [154]:
+            xmin = 1121.3341637769654 
+            xmax = 1127.6620338354783 
+            text = "e ficava indigNAdo quando a gente queria tentava dizer que tinha lido Descartes ele dizia o que que vai fazer com Descartes se não leu a literatura--" 
+        intervals [155]:
+            xmin = 1127.6620338354783 
+            xmax = 1128.68 
+            text = "..." 
+        intervals [156]:
+            xmin = 1128.68 
+            xmax = 1141.5446108905178 
+            text = "para ele ( ) os os os artigos que nos interessam são... dois artigos um que ele escreveu em mil novecentos e trinta e oito e outro que ele escreveu em mil novecentos e quarenta... --portanto ainda cabe... um pouco no nosso período--" 
+        intervals [157]:
+            xmin = 1141.5446108905178 
+            xmax = 1150.4529797164762 
+            text = "A Pintura Moderna... o primeiro... e o segundo Os Problemas da Pintura Moderna... que está no catálogo da Grande Exposição Francesa no Brasil" 
+        intervals [158]:
+            xmin = 1150.4529797164762 
+            xmax = 1151.9740724802675 
+            text = "..." 
+        intervals [159]:
+            xmin = 1151.9740724802675 
+            xmax = 1161.2984142902635 
+            text = "se nós formos ler esses dois artigos com atenção... nós descobriremos que o que Jean Mocquet procura na pintura... não é a própria pintura" 
+        intervals [160]:
+            xmin = 1161.2984142902635 
+            xmax = 1162.549941166582 
+            text = "..." 
+        intervals [161]:
+            xmin = 1162.549941166582 
+            xmax = 1173.620763494233 
+            text = "como decerto modo... fazia Lévi-Strauss no seu ou fez Lévi-Strauss nos seus artigos... que tentou uma primeira crítica... digamos... ahn de estrutura da pintura" 
+        intervals [162]:
+            xmin = 1173.620763494233 
+            xmax = 1176.92 
+            text = "de encontrar os elementos básicos estruturais da pintura" 
+        intervals [163]:
+            xmin = 1176.92 
+            xmax = 1177.842089047837 
+            text = "..." 
+        intervals [164]:
+            xmin = 1177.842089047837 
+            xmax = 1182.7849755903342 
+            text = "( ) procura na pintura é o reflexo... da sociedade" 
+        intervals [165]:
+            xmin = 1182.7849755903342 
+            xmax = 1191.2015293567645 
+            text = "ou melhor o que ele procura na pintura... é a relação... harmoniosa... equilibrada... do homem com a natureza" 
+        intervals [166]:
+            xmin = 1191.2015293567645 
+            xmax = 1192.4492381247953 
+            text = "..." 
+        intervals [167]:
+            xmin = 1192.4492381247953 
+            xmax = 1216.2059689722823 
+            text = "um grande escritor... --seus raríssimos escritos como eu disse poderiam figurar ao lado de tudo que de meLHOR já se fez no gênero--... ele apresentava um para nós nas aulas e nesses pequenos artigos... uma visão marxista uma visão... marxista mais de fundo muito hegeliano... CHEIA de extraordinária acuidade... de percepção" 
+        intervals [168]:
+            xmin = 1216.2059689722823 
+            xmax = 1216.9402193065832 
+            text = "..." 
+        intervals [169]:
+            xmin = 1216.9402193065832 
+            xmax = 1221.2895912091317 
+            text = "o seu ponto de referência é sempre a pintura flamenga do século dezoito" 
+        intervals [170]:
+            xmin = 1221.2895912091317 
+            xmax = 1222.70957397843 
+            text = "..." 
+        intervals [171]:
+            xmin = 1222.70957397843 
+            xmax = 1235.8151009311157 
+            text = "a pinTUra... diz ele holanDEsa... dá-nos no século... no no... --perdão--... a pintura holandesa do século dezessete... a pintura holandesa diz ele dá-nos no século dezessete... uma lição... de unidade" 
+        intervals [172]:
+            xmin = 1235.8151009311157 
+            xmax = 1237.2204161323582 
+            text = "..." 
+        intervals [173]:
+            xmin = 1237.2204161323582 
+            xmax = 1240.2672321676714 
+            text = "uma unidade de temas... e de estilos::" 
+        intervals [174]:
+            xmin = 1240.2672321676714 
+            xmax = 1241.1561041112247 
+            text = "..." 
+        intervals [175]:
+            xmin = 1241.1561041112247 
+            xmax = 1246.6681930262237 
+            text = "a paisagem por exemplo... põe em relevo as ideias gerais::... da natureza holandesa" 
+        intervals [176]:
+            xmin = 1246.6681930262237 
+            xmax = 1247.6262917566582 
+            text = "... " 
+        intervals [177]:
+            xmin = 1247.6262917566582 
+            xmax = 1258.1371021492916 
+            text = "essa unidade que ele via na pintura holandesa não tinha sido criado pelos grandes pintores paisagistas... da pintura holandesa... ( )... Potter... ( )" 
+        intervals [178]:
+            xmin = 1258.1371021492916 
+            xmax = 1258.9282474103945 
+            text = "..." 
+        intervals [179]:
+            xmin = 1258.9282474103945 
+            xmax = 1268.363009297021 
+            text = "mas... se esses pintores conseguiram exprimir... esta unidade... é porque... o povo holandês... já:: a... tinha... criado... com o seu trabalho" 
+        intervals [180]:
+            xmin = 1268.363009297021 
+            xmax = 1270.1545746173106 
+            text = "..." 
+        intervals [181]:
+            xmin = 1270.1545746173106 
+            xmax = 1281.998418965551 
+            text = "o esforço extraordinário... ela revelava assim... o esforço extraordinário de adaptação... de um povo às condições naturais... em vista de construir um hábitat" 
+        intervals [182]:
+            xmin = 1281.998418965551 
+            xmax = 1283.1165496558094 
+            text = "..." 
+        intervals [183]:
+            xmin = 1283.1165496558094 
+            xmax = 1299.3816975988964 
+            text = "era... ele amava essa pintura porque ela se apresentava como uma pintura objetiva... patriótica... como uma pintura pensa::da e remodelada pelo homem... uma pintura que mostrava uma pai/ paisagem que tendo SIdo repensada pelo homem" 
+        intervals [184]:
+            xmin = 1299.3816975988964 
+            xmax = 1302.1567793760273 
+            text = "que tinha sido... trabalhada pelo homem" 
+        intervals [185]:
+            xmin = 1302.1567793760273 
+            xmax = 1302.9987786308147 
+            text = "..." 
+        intervals [186]:
+            xmin = 1302.9987786308147 
+            xmax = 1311.3458128371128 
+            text = "diante desta pintura que para ele era um dos maiores momentos da pintura de todos os tempos... o impressionismo... se esfacelava" 
+        intervals [187]:
+            xmin = 1311.3458128371128 
+            xmax = 1311.8184241533515 
+            text = "..." 
+        intervals [188]:
+            xmin = 1311.8184241533515 
+            xmax = 1315.44 
+            text = "o impressionismo exprimia para ele um movimento de espírito oposto" 
+        intervals [189]:
+            xmin = 1315.44 
+            xmax = 1315.9941931465748 
+            text = "..." 
+        intervals [190]:
+            xmin = 1315.9941931465748 
+            xmax = 1322.8427607655265 
+            text = "não de uma relação harmoniosa com a ar/ com a natureza mas de uma relação em crise" 
+        intervals [191]:
+            xmin = 1322.8427607655265 
+            xmax = 1323.92 
+            text = "..." 
+        intervals [192]:
+            xmin = 1323.92 
+            xmax = 1328.7918027134592 
+            text = "de uma grande incapacidade de pensar as ideias gerais da natureza" 
+        intervals [193]:
+            xmin = 1328.7918027134592 
+            xmax = 1329.727762500353 
+            text = "..." 
+        intervals [194]:
+            xmin = 1329.727762500353 
+            xmax = 1342.5828877045935 
+            text = "na medida em que o pintor mergulhava particular no imprevisto no fugidio... e... que a pesquisa se (dissolvia) na pesquisa do instante do único... a pintura per::dia... a su/ o seu a sua qualidade" 
+        intervals [195]:
+            xmin = 1342.5828877045935 
+            xmax = 1344.1463177485623 
+            text = "..." 
+        intervals [196]:
+            xmin = 1344.1463177485623 
+            xmax = 1348.7720805875626 
+            text = "no entanto ela revelava... uma na/ uma um momento de crise" 
+        intervals [197]:
+            xmin = 1348.7720805875626 
+            xmax = 1353.3394040360477 
+            text = "ela revelava sobretudo... uma natureza que se extinguia" 
+        intervals [198]:
+            xmin = 1353.3394040360477 
+            xmax = 1354.3584592533657 
+            text = "..." 
+        intervals [199]:
+            xmin = 1354.3584592533657 
+            xmax = 1365.0066217817082 
+            text = "ela revelava... a natureza engolida pelas fábricas pela indústria... mas também ela revelava relações perturbadas do homem com a natureza" 
+        intervals [200]:
+            xmin = 1365.0066217817082 
+            xmax = 1367.1237775096363 
+            text = "relações perturbadas DO trabalho" 
+        intervals [201]:
+            xmin = 1367.1237775096363 
+            xmax = 1367.572161805256 
+            text = "..." 
+        intervals [202]:
+            xmin = 1367.572161805256 
+            xmax = 1372.6148246774692 
+            text = "o homem tinha perdido... a seu domínio sobre as forças da natureza" 
+        intervals [203]:
+            xmin = 1372.6148246774692 
+            xmax = 1374.27659863418 
+            text = "..." 
+        intervals [204]:
+            xmin = 1374.27659863418 
+            xmax = 1378.225308075072 
+            text = "então para ele o impressionismo foi antes de tudo um movimento DEsespera::do" 
+        intervals [205]:
+            xmin = 1378.225308075072 
+            xmax = 1378.6804660390733 
+            text = "..." 
+        intervals [206]:
+            xmin = 1378.6804660390733 
+            xmax = 1384.8968382930223 
+            text = "no sentido de... que... tenTAva fixar... o que não tinha possibilidade de ser fixado" 
+        intervals [207]:
+            xmin = 1384.8968382930223 
+            xmax = 1385.5909635965859 
+            text = "..." 
+        intervals [208]:
+            xmin = 1385.5909635965859 
+            xmax = 1389.7919442100588 
+            text = "tentava reter aquilo que estava desaparecendo que era a natureza natural" 
+        intervals [209]:
+            xmin = 1389.7919442100588 
+            xmax = 1390.2036111490702 
+            text = "..." 
+        intervals [210]:
+            xmin = 1390.2036111490702 
+            xmax = 1391.6011516361548 
+            text = "a natureza exterior ao homem" 
+        intervals [211]:
+            xmin = 1391.6011516361548 
+            xmax = 1392.0390155621942 
+            text = "..." 
+        intervals [212]:
+            xmin = 1392.0390155621942 
+            xmax = 1396.8313290015412 
+            text = "tentava reter o instante... que é impossível da gente reter" 
+        intervals [213]:
+            xmin = 1396.8313290015412 
+            xmax = 1400.289560611564 
+            text = "..." 
+        intervals [214]:
+            xmin = 1400.289560611564 
+            xmax = 1410.5878806783116 
+            text = "para ele então a história deste período... é a história desta da iMENsa revolução... que o homem estava... passando" 
+        intervals [215]:
+            xmin = 1410.5878806783116 
+            xmax = 1411.115438568986 
+            text = "..." 
+        intervals [216]:
+            xmin = 1411.115438568986 
+            xmax = 1433.052097482427 
+            text = "e por isso... as paisagens rasgadas pelas fábricas o nascimento dos subúrbios as zonas leprosas... tudo isso era dado pela pintura sobretudo uma... terrível... um um uma::... tentativa do olho... a se acomodar a certas condições de velocidade... que ele via nos quadros de Vlaminck" 
+        intervals [217]:
+            xmin = 1433.052097482427 
+            xmax = 1434.04 
+            text = "..." 
+        intervals [218]:
+            xmin = 1434.04 
+            xmax = 1448.84 
+            text = "dava também... era uma pintura também sem unidade... porque... a sociedade ainda não tinha encontrado seu reequilíbrio depois... da Revolução Industrial e depois da Revolução Burguesa" 
+        intervals [219]:
+            xmin = 1448.84 
+            xmax = 1448.9563806137276 
+            text = "..." 
+        intervals [220]:
+            xmin = 1448.9563806137276 
+            xmax = 1457.0833497137844 
+            text = "as classes que subiam e desciam... toda essa mobilidade social... que éh:: é muito importante na percepção estética" 
+        intervals [221]:
+            xmin = 1457.0833497137844 
+            xmax = 1462.2972663330377 
+            text = "..." 
+        intervals [222]:
+            xmin = 1462.2972663330377 
+            xmax = 1482.9163073557775 
+            text = "no entanto o gosto de Mocquet... encontrava... ANtes do impressionismo um homem... que se aproximava de ce/ cuja visão... se aproximava de certa maneira da visão... equilibrada... tranquila e harmoniosa... da pintura... éh holandesa do século dezessete" 
+        intervals [223]:
+            xmin = 1482.9163073557775 
+            xmax = 1483.1580871002857 
+            text = "..." 
+        intervals [224]:
+            xmin = 1483.1580871002857 
+            xmax = 1484.4593883741015 
+            text = "este homem é Corot" 
+        intervals [225]:
+            xmin = 1484.4593883741015 
+            xmax = 1486.5038044415874 
+            text = "..." 
+        intervals [226]:
+            xmin = 1486.5038044415874 
+            xmax = 1496.2108912852705 
+            text = "Corot representa para ele um equilíbrio tão perfeito de seus dotes da realidade... que perto dele TOdos os outros paisagistas soam falso" 
+        intervals [227]:
+            xmin = 1496.2108912852705 
+            xmax = 1497.64 
+            text = "..." 
+        intervals [228]:
+            xmin = 1497.64 
+            xmax = 1506.0034580651281 
+            text = "em nossa... na na adoração que ele tinha por Corot --diz ele ''em minha adoração por Corot... entra sem dúvida um pouco de nostalgia" 
+        intervals [229]:
+            xmin = 1506.0034580651281 
+            xmax = 1506.5604497910217 
+            text = "..." 
+        intervals [230]:
+            xmin = 1506.5604497910217 
+            xmax = 1513.169816673075 
+            text = "talvez... tenha definitivamente passado o tempo... em que o homem vivia verdadeiramente a vida da natureza" 
+        intervals [231]:
+            xmin = 1513.169816673075 
+            xmax = 1513.6664990697736 
+            text = "..." 
+        intervals [232]:
+            xmin = 1513.6664990697736 
+            xmax = 1529.92 
+            text = "nossas atividades não seguem mais a cadência um pouco lenta mas profunda das coisas... e por muito tempo ainda... a pintura não in/ conseguirá saber pintar... o movimento autêntico dos rios... das árvores:: e dos céus::''" 
+        intervals [233]:
+            xmin = 1529.92 
+            xmax = 1530.327477278299 
+            text = "..." 
+        intervals [234]:
+            xmin = 1530.327477278299 
+            xmax = 1538.4694596549043 
+            text = "nós vemos por esta frase... que ele continua preso a uma estética... NAturalista e uma estética do Classicismo" 
+        intervals [235]:
+            xmin = 1538.4694596549043 
+            xmax = 1539.7967877032943 
+            text = "--nós vamos voltar a isso--" 
+        intervals [236]:
+            xmin = 1539.7967877032943 
+            xmax = 1541.782603070427 
+            text = "..." 
+        intervals [237]:
+            xmin = 1541.782603070427 
+            xmax = 1555.0163531095436 
+            text = "é preciso que ahn:: passado... Corot passado o impressionismo ele vai reencontrar essa relação... sobretudo em Van Gogh... Vlaminck... e em Utrillo" 
+        intervals [238]:
+            xmin = 1555.0163531095436 
+            xmax = 1558.9792232179693 
+            text = "..." 
+        intervals [239]:
+            xmin = 1558.9792232179693 
+            xmax = 1565.4992041753553 
+            text = "--há um trecho de Van Gogh... que eu vou ler para os senhores... porque ele é muito típico das meditações de Mocquet--" 
+        intervals [240]:
+            xmin = 1565.4992041753553 
+            xmax = 1567.429962942532 
+            text = "..." 
+        intervals [241]:
+            xmin = 1567.429962942532 
+            xmax = 1587.6331329121494 
+            text = "ele lembra... que os quadros de Van Gogh... representam construções fiscalizadas sobre um ponto de fuga... no horizonte... ''são profundidades batidas pela chuva ou varridas por uma luz sem alegria... tudo é composto não pelo prazer de uma bela estética --des/ diz ele-- mas segundo a própria arquitetura da natureza''" 
+        intervals [242]:
+            xmin = 1587.6331329121494 
+            xmax = 1588.16 
+            text = "..." 
+        intervals [243]:
+            xmin = 1588.16 
+            xmax = 1595.8551988547651 
+            text = "--diz ele-- como ninguém mais... Van Gogh sentiu a tragédia de uma estrada se perdendo nas fronteiras do céu" 
+        intervals [244]:
+            xmin = 1595.8551988547651 
+            xmax = 1596.6991096601312 
+            text = "..." 
+        intervals [245]:
+            xmin = 1596.6991096601312 
+            xmax = 1622.2103819549438 
+            text = "esse holandês do Brabante nascido numa região plana... onde o viajante sente de todos os lados o apelo dos caminhos... que passou por tantos lugares antes de se fixar num canto da França... --onde aliás ele vai encontrar a loucura--... é talvez com Verhaeren... o artista que compreendeu com mais profundidade... o que significa para um coração inquieto... a grande partida solitária... pela estrada" 
+        intervals [246]:
+            xmin = 1622.2103819549438 
+            xmax = 1622.8691469712874 
+            text = "..." 
+        intervals [247]:
+            xmin = 1622.8691469712874 
+            xmax = 1625.9932525112624 
+            text = "suas paisagens não são apenas aspectos da natureza" 
+        intervals [248]:
+            xmin = 1625.9932525112624 
+            xmax = 1626.4833626386862 
+            text = "..." 
+        intervals [249]:
+            xmin = 1626.4833626386862 
+            xmax = 1629.2233788480353 
+            text = "são sobretudo testemunhos de uma sensibilidade" 
+        intervals [250]:
+            xmin = 1629.2233788480353 
+            xmax = 1629.6978915046827 
+            text = "..." 
+        intervals [251]:
+            xmin = 1629.6978915046827 
+            xmax = 1637.2899579983498 
+            text = "nos seus quadros o movimento que nos faz partir não é o próprio movimento das coisas... mas o impulso de um viajante miserável" 
+        intervals [252]:
+            xmin = 1637.2899579983498 
+            xmax = 1637.7719775225642 
+            text = "..." 
+        intervals [253]:
+            xmin = 1637.7719775225642 
+            xmax = 1649.0170590652733 
+            text = "pois o que vamos encontrar ao longo do caminho... é o sofrimento dos homens... nos campos cheios de trabalho... nas casas cheias de fadiga... e de refeições parcas" 
+        intervals [254]:
+            xmin = 1649.0170590652733 
+            xmax = 1649.6695945311872 
+            text = "..." 
+        intervals [255]:
+            xmin = 1649.6695945311872 
+            xmax = 1653.389379786402 
+            text = "a cor por sua vez intervém para completar a impressão do quadro" 
+        intervals [256]:
+            xmin = 1653.389379786402 
+            xmax = 1653.6570946039897 
+            text = "..." 
+        intervals [257]:
+            xmin = 1653.6570946039897 
+            xmax = 1654.5475795900118 
+            text = "é ingrata" 
+        intervals [258]:
+            xmin = 1654.5475795900118 
+            xmax = 1654.8391147532695 
+            text = "..." 
+        intervals [259]:
+            xmin = 1654.8391147532695 
+            xmax = 1660.4640766189984 
+            text = "de um amarelo soturno e dividido... com vermelhos pálidos e verdes sem doçura" 
+        intervals [260]:
+            xmin = 1660.4640766189984 
+            xmax = 1661.0094866724799 
+            text = "..." 
+        intervals [261]:
+            xmin = 1661.0094866724799 
+            xmax = 1676.020664831106 
+            text = "quem poderia encontrar as cores nobres e pacificadoras de outrora... o colorido de Rousseau ou de Corot... nessas paisagens torturadas... nesses campos destruídos pelo sol... e atormentados por uma esPÉcie de revolta social" 
+        intervals [262]:
+            xmin = 1676.020664831106 
+            xmax = 1676.46214604181 
+            text = "..." 
+        intervals [263]:
+            xmin = 1676.46214604181 
+            xmax = 1685.9194946879043 
+            text = "são as cores que o pobre olhar do camponês e do operário enxerga... e para esses seres deserdados há muito o manto de Salomão se retirou da natureza" 
+        intervals [264]:
+            xmin = 1685.9194946879043 
+            xmax = 1686.409163907752 
+            text = "..." 
+        intervals [265]:
+            xmin = 1686.409163907752 
+            xmax = 1718.3823993836825 
+            text = "eu trans/ eu eu repito aqui essa frase do Mocquet em... e e na tradução ela perde... por causa da sua extraordinária beleza... mas também para para verem bem que tipo de crítica ele fazia muito diferente da crítica de de de Lévi-Strauss que era seca... ah:: técnica... ele fazia uma... crítica romântica... e e uma crítica:: e uma crítica que procurava ver éh ler a natu/ ler a a a pintura não como pintura... mas como REpresentação de alguma coisa além dela" 
+        intervals [266]:
+            xmin = 1718.3823993836825 
+            xmax = 1734.112373401559 
+            text = "ele procurava através do quadro encontrar... uns umas um uma:: uma concepção de vida... uma concepção uhn da da natureza uma relação do homem com as coisas... uma concepção enfim... éh:: quase que uma uma posição filosófica" 
+        intervals [267]:
+            xmin = 1734.112373401559 
+            xmax = 1736.1065535173302 
+            text = "..." 
+        intervals [268]:
+            xmin = 1736.1065535173302 
+            xmax = 1743.9327042577163 
+            text = "o ter::ceiro... hã o terceiro:: esteta que nos interessa Roger Bastide... é um sociólogo" 
+        intervals [269]:
+            xmin = 1743.9327042577163 
+            xmax = 1744.9851853922273 
+            text = "..." 
+        intervals [270]:
+            xmin = 1744.9851853922273 
+            xmax = 1751.32353984502 
+            text = "um sociólogo que procura na arte não a relação (do homem) com a natureza... mas a expressão de uma sociedade e de uma época" 
+        intervals [271]:
+            xmin = 1751.32353984502 
+            xmax = 1752.3064853647893 
+            text = "..." 
+        intervals [272]:
+            xmin = 1752.3064853647893 
+            xmax = 1756.609430466601 
+            text = "sobretudo de um homem que se di/ debruçou num país extremamente diver::so do seu" 
+        intervals [273]:
+            xmin = 1756.609430466601 
+            xmax = 1757.5411012746272 
+            text = "..." 
+        intervals [274]:
+            xmin = 1757.5411012746272 
+            xmax = 1767.6440141719502 
+            text = "e que teve pela frente criações artísticas... éh::: com as quais ele só tinha de se defrontado em livros porque ele era um sociólogo" 
+        intervals [275]:
+            xmin = 1767.6440141719502 
+            xmax = 1767.9742157269914 
+            text = "..." 
+        intervals [276]:
+            xmin = 1767.9742157269914 
+            xmax = 1774.1393406145341 
+            text = "e que TEnta... se adaptar essas formas... novas e curiosas de manifestações" 
+        intervals [277]:
+            xmin = 1774.1393406145341 
+            xmax = 1774.68007680887 
+            text = "..." 
+        intervals [278]:
+            xmin = 1774.68007680887 
+            xmax = 1780.4804171509638 
+            text = "dos três é o que o único ou o que mais se debruçou amorosamente sobre o Brasil " 
+        intervals [279]:
+            xmin = 1780.4804171509638 
+            xmax = 1783.0290025216132 
+            text = "Lévi-Strauss fez uma viagem etno/ etnográfica" 
+        intervals [280]:
+            xmin = 1783.0290025216132 
+            xmax = 1783.5888849962707 
+            text = "..." 
+        intervals [281]:
+            xmin = 1783.5888849962707 
+            xmax = 1804.952024900175 
+            text = "mas essa viagem etnográfica (o na) no no interior do Brasil só vai render posteriormente porque terminada a a viagem ele volta para França... e ele para fazer a guerra para para para se insc/ ah:: para se... ah::... se alisTAR... como foi o caso de Mocquet que também voltou para se alistar... os dois se alistaram e fizeram a guerra" 
+        intervals [282]:
+            xmin = 1804.952024900175 
+            xmax = 1806.520790125331 
+            text = "..." 
+        intervals [283]:
+            xmin = 1806.520790125331 
+            xmax = 1811.8598545938266 
+            text = "hã::... de modo que a:: experiência brasileira (vai) render... com co/ com retardo" 
+        intervals [284]:
+            xmin = 1811.8598545938266 
+            xmax = 1812.5287346351774 
+            text = "..." 
+        intervals [285]:
+            xmin = 1812.5287346351774 
+            xmax = 1813.4933880333917 
+            text = "posteriormente" 
+        intervals [286]:
+            xmin = 1813.4933880333917 
+            xmax = 1813.977303882111 
+            text = "..." 
+        intervals [287]:
+            xmin = 1813.977303882111 
+            xmax = 1816.8156148549115 
+            text = "( ) Roger Bastide passou aqui todo o período de guerra " 
+        intervals [288]:
+            xmin = 1816.8156148549115 
+            xmax = 1818.277324618891 
+            text = "e foi um longo período " 
+        intervals [289]:
+            xmin = 1818.277324618891 
+            xmax = 1824.6874922723218 
+            text = "e nesse período ele se... ele se dedicou profundamente com um amor incrível às coisas brasileiras" 
+        intervals [290]:
+            xmin = 1824.6874922723218 
+            xmax = 1825.9835962745278 
+            text = "..." 
+        intervals [291]:
+            xmin = 1825.9835962745278 
+            xmax = 1836.2860855908748 
+            text = "e... éh::... essa esse amor se manifesta em primeiro através de TOda uma:: uma mani/ uma::... uma uma::... atuação jornalística " 
+        intervals [292]:
+            xmin = 1836.2860855908748 
+            xmax = 1859.0851582706534 
+            text = "ele escreve sobre a literaTUra... sobre tantas ter/ escreve sobre as coisas mais pequenininhas sobre sobre o carTAZ:: sobre como se deve colocar o cartaz na estrada... sobre a estética dos salões sobre a estética do carnaval sobre a ah:: sobre o homem fantasiado de mulher... hã:: sobre o cafuné... hã:: sobre os desafios et cetera" 
+        intervals [293]:
+            xmin = 1859.0851582706534 
+            xmax = 1866.0460959164138 
+            text = "em tudo ele po/ procura pse/ penetrar no sentido profundo dessas manifestações... desde a procurando delas tirar uma estética" 
+        intervals [294]:
+            xmin = 1866.0460959164138 
+            xmax = 1866.490450423225 
+            text = "..." 
+        intervals [295]:
+            xmin = 1866.490450423225 
+            xmax = 1885.5157687407147 
+            text = "por exemplo ele sonhava com teatro brasileiro... que em vez de se inspirar como se fazia na época nos modelos europeus... fosse procurar inspiração nas danças populares como por exemplo no bumba-meu-boi... fosse procurar:: na nau catarineta nos autos populares como posteriormente vai vai vai ser o caso de Ariano Suassuna" 
+        intervals [296]:
+            xmin = 1885.5157687407147 
+            xmax = 1886.1551746786101 
+            text = "..." 
+        intervals [297]:
+            xmin = 1886.1551746786101 
+            xmax = 1887.9752985736914 
+            text = "ele foi tradutor de Gilberto Freire" 
+        intervals [298]:
+            xmin = 1887.9752985736914 
+            xmax = 1888.3929649522067 
+            text = "..." 
+        intervals [299]:
+            xmin = 1888.3929649522067 
+            xmax = 1892.018354696161 
+            text = "ele sofreu profundamente a impregnação de Casa Grande e Senzala" 
+        intervals [300]:
+            xmin = 1892.018354696161 
+            xmax = 1892.4596501674148 
+            text = "..." 
+        intervals [301]:
+            xmin = 1892.4596501674148 
+            xmax = 1907.6652815795824 
+            text = "leu com uma atenção incrível todos os historiadores os críticos os estetas os folcloristas... e eu creio ser possível dizer que ja-mais um grande espírito europeu penetrou TÃO fundo com TÃo amorosa compreensão... na alma brasileira " 
+        intervals [302]:
+            xmin = 1907.6652815795824 
+            xmax = 1914.3879003648037 
+            text = "a IN-fluência que ele exerceu no Brasil... é uma influência... inigualável" 
+        intervals [303]:
+            xmin = 1914.3879003648037 
+            xmax = 1915.5942175059695 
+            text = "..." 
+        intervals [304]:
+            xmin = 1915.5942175059695 
+            xmax = 1922.0478111363946 
+            text = "a in/ a interpretação que ele deu do Brasil foi decisiva para todo mundo que veio depois não apenas para os seus alunos" 
+        intervals [305]:
+            xmin = 1922.0478111363946 
+            xmax = 1922.5378172857475 
+            text = "..." 
+        intervals [306]:
+            xmin = 1922.5378172857475 
+            xmax = 1933.5435315894722 
+            text = "e... sobretudo no final do decênio de trinta e no decorrer do de quarenta... é uma influência que atinge... não nós os seus alunos mas... ainda os intelectuais brasileiros" 
+        intervals [307]:
+            xmin = 1933.5435315894722 
+            xmax = 1935.103025305132 
+            text = "..." 
+        intervals [308]:
+            xmin = 1935.103025305132 
+            xmax = 1957.8691652944224 
+            text = "de toda sua atuação... a:: que nós teríamos que chamar atenção... foi sobretudo o curso que em mil novecentos e trinta e nove ele deu aos alunos da da Faculdade de Filosofia... e que posteriormente vai se transformar no livro Arte e Sociedade... que recebeu --acho que o ano passado há dois anos-- uma segunda edição na Livraria Martins" 
+        intervals [309]:
+            xmin = 1957.8691652944224 
+            xmax = 1959.0320945483093 
+            text = "..." 
+        intervals [310]:
+            xmin = 1959.0320945483093 
+            xmax = 1973.9270904564075 
+            text = "é um livro que apareceu em português depois vai aparecer em espanhol no México... não foi publicado na França... e permanece ainda não só na bibliografia pequena brasileira mas na bibliografia internacional... um dos livros mais perfeitos" 
+        intervals [311]:
+            xmin = 1973.9270904564075 
+            xmax = 1975.5711107933066 
+            text = "..." 
+        intervals [312]:
+            xmin = 1975.5711107933066 
+            xmax = 2020.5772597396046 
+            text = "neste livro eu quero apenas acentuar:: uma coisa ou nestes cursos --creio que no livro não está tão de de tão tão... tão nítido no no livro... --ele:: ele:: ele mostra uma série de coisas éh::... ham::... ele mostra como a relação... a a a relação que a arte tem com os públicos e como os gêneros nascem e se transformam com a evolução dos públicos... mostra nesse sentido a evo/ o nascimento da música de câmara... de câmera com as cortes... a transformação da arte... ham com o novo estatuto adquirido pelo grupo feminino... a relação da arte com os grupos de idade com os grupos sexuais... ah:: focaliza o problema da arte popuLAR e daí por diante" 
+        intervals [313]:
+            xmin = 2020.5772597396046 
+            xmax = 2021.0681538559368 
+            text = "..." 
+        intervals [314]:
+            xmin = 2021.0681538559368 
+            xmax = 2041.1172888098386 
+            text = "MAs o que nos interessa é apenas chamar a atenÇÃO... sobre a sua meditação ahn... na ah meditação sobre o Barro::co... que... foi um dos pontos::... ahn::...  um dos setores... onde ele deixou uma meditação muito original" 
+        intervals [315]:
+            xmin = 2041.1172888098386 
+            xmax = 2046.2292356800156 
+            text = "..." 
+        intervals [316]:
+            xmin = 2046.2292356800156 
+            xmax = 2053.218673783176 
+            text = "ele... preferia não chamar o Barroco brasileiro de Barroco... ele chamava... sobretudo o Barroco de Minas de Rococó" 
+        intervals [317]:
+            xmin = 2053.218673783176 
+            xmax = 2055.2106988671603 
+            text = "..." 
+        intervals [318]:
+            xmin = 2055.2106988671603 
+            xmax = 2087.405125365053 
+            text = "e insisTIa em mostrar a extraordinária originalidade... desse Barroco em face do Barroco baiano por exemplo que é um ba/ Barroco... sobrecarregado... um pouco indiano... ahn:: extremamente:::... rico... coberto de ouro... de tal forma que quando a gente entra numa igreja baiana tem a impressão que entrou numa gruta submarina... MAS::... que aparentemente menos rico... do que que o Barroco baiano era muito mais rico... como... SOlução brasileira" 
+        intervals [319]:
+            xmin = 2087.405125365053 
+            xmax = 2088.9169796802053 
+            text = "..." 
+        intervals [320]:
+            xmin = 2088.9169796802053 
+            xmax = 2116.46184787966 
+            text = "era muito mais rico como solução brasileira era muito mais original... se bem que ele aparentemente fosse mais pobre... porque... devido talvez em grande parte à localização geográfica das grandes cidades mineiras... e... que difici/ estava muito longe dos portos... os materiais que eram os materiais privilegiados do Barroco... e que vinham da metrópole não podiam chegar em lombo de burro até Vila RIca por exemplo" 
+        intervals [321]:
+            xmin = 2116.46184787966 
+            xmax = 2116.9970246355665 
+            text = "..." 
+        intervals [322]:
+            xmin = 2116.9970246355665 
+            xmax = 2125.3698401776014 
+            text = "então era difícil trazer peças de ahn ahn ahn:: MÁRmore... por exemplo que éh português aTÉ Ouro Preto" 
+        intervals [323]:
+            xmin = 2125.3698401776014 
+            xmax = 2125.819893812398 
+            text = "..." 
+        intervals [324]:
+            xmin = 2125.819893812398 
+            xmax = 2140.5318900997645 
+            text = "então houve substituições o mármore foi subs-tituído pela mam/ me/ ma/ me/ material que eles tinham à... à mão... e daí a utilização da pedra-sabão... a utilização geniAL da pedra-sabão... por um homem geniAL como o Aleijadinho" 
+        intervals [325]:
+            xmin = 2140.5318900997645 
+            xmax = 2149.1547391337626 
+            text = "um Barroco... que pegou um material NA::da Barroco como é... a pedra e transformou num material Barroco... como fez... o Aleijadinho" 
+        intervals [326]:
+            xmin = 2149.1547391337626 
+            xmax = 2149.774699892663 
+            text = "..." 
+        intervals [327]:
+            xmin = 2149.774699892663 
+            xmax = 2153.8771354608434 
+            text = "daí a:: utilização da madeira em certas igrejas" 
+        intervals [328]:
+            xmin = 2153.8771354608434 
+            xmax = 2154.823900898573 
+            text = "..." 
+        intervals [329]:
+            xmin = 2154.823900898573 
+            xmax = 2178.68 
+            text = "da madeira pintada de branco com pequenos... dourados... como foi feito em Ouro Preto --que creio que na na Matriz do Carmo se não me engano... na Ca/ Carmo na São Francisco também... É... E HÃ:: e que transformou o Barroco numa coisa extremamente deliCAda extremamente::... éh:: suave... e muito diferente do Barroco português" 
+        intervals [330]:
+            xmin = 2178.68 
+            xmax = 2179.737044692764 
+            text = "..." 
+        intervals [331]:
+            xmin = 2179.737044692764 
+            xmax = 2182.703838150966 
+            text = "uma escolha muito mais graciosa então ele SEgue" 
+        intervals [332]:
+            xmin = 2182.703838150966 
+            xmax = 2183.110321436984 
+            text = "..." 
+        intervals [333]:
+            xmin = 2183.110321436984 
+            xmax = 2197.3499282490693 
+            text = "as observações que ele faz sobre o Barroco são muito parecidas com certas observações que Mário de Andrade já tinha feito no Aleijadinho... mostrando essa Adaptação do Barroco português ao Brasil através de uma série de modificações" 
+        intervals [334]:
+            xmin = 2197.3499282490693 
+            xmax = 2199.0760524753673 
+            text = "..." 
+        intervals [335]:
+            xmin = 2199.0760524753673 
+            xmax = 2209.81943401373 
+            text = "também através de Roger Bastide... que se dá a primeira discussão sobre mais ahn:: aprofundada sobre certas teorias do Barroco... coisa que depois Lourival Machado iria retomar (tá)" 
+        intervals [336]:
+            xmin = 2209.81943401373 
+            xmax = 2212.458388108278 
+            text = "..." 
+        intervals [337]:
+            xmin = 2212.458388108278 
+            xmax = 2221.883344913924 
+            text = "e também... éh uma da coisas que ele nos chamava muito a atenÇÃO... é para que pesquisássemos e não deixássemos se destruir... a documentação das confrarias religio::sas" 
+        intervals [338]:
+            xmin = 2221.883344913924 
+            xmax = 2222.1578204213774 
+            text = "..." 
+        intervals [339]:
+            xmin = 2222.1578204213774 
+            xmax = 2226.139061429619 
+            text = "que eram um manancial riquíssimo... para o estudo da sociologia da Ar::te" 
+        intervals [340]:
+            xmin = 2226.139061429619 
+            xmax = 2226.2863554363234 
+            text = "..." 
+        intervals [341]:
+            xmin = 2226.2863554363234 
+            xmax = 2237.2167948696624 
+            text = "como que se faziam as encomendas... qual a relação entre as confrarias religiosas e os artistas muLAtos... qual o estatuto dos muLAtos no tempo da da da:: da coLÔnia e daí por diante" 
+        intervals [342]:
+            xmin = 2237.2167948696624 
+            xmax = 2240.613802258498 
+            text = "..." 
+        intervals [343]:
+            xmin = 2240.613802258498 
+            xmax = 2259.315821552806 
+            text = "não é difícil através dessa rapiDÍssima exposição... mostrar... a relação que pode ter havido entre estes TRÊS... GRANdes intelectuais franceses... que nós tivemos a sorte de ter entre nós... E... a meditação estética de Mário de Andrade" 
+        intervals [344]:
+            xmin = 2259.315821552806 
+            xmax = 2262.6492355491855 
+            text = "..." 
+        intervals [345]:
+            xmin = 2262.6492355491855 
+            xmax = 2282.048395897135 
+            text = "a atuação dos professores franceses sobretudo dos mais jovens... ainda... que não tinham ainda obra... publicada como era o caso de Jean Mocquet... e de Claude Lévi-Strauss... era restrita... e se exercia sobretudo através dos cursos não atingindo grande público" 
+        intervals [346]:
+            xmin = 2282.048395897135 
+            xmax = 2283.3021775577236 
+            text = "..." 
+        intervals [347]:
+            xmin = 2283.3021775577236 
+            xmax = 2300.5196256428403 
+            text = "no entanto nós podemos perceber certos pontos de conTACto entre a abordagem da pintura de Mocquet e a abor::-dagem que Mário de Andrade fazia... uma abordagem de forte impregnação Hege/ Hegeliana como eu disse... e uma certa crítica que Mário fazia... sobretudo no final da sua VIda num ensaio sobretudo à família paulista" 
+        intervals [348]:
+            xmin = 2300.5196256428403 
+            xmax = 2304.082381036108 
+            text = "..." 
+        intervals [349]:
+            xmin = 2304.082381036108 
+            xmax = 2316.4794563501255 
+            text = "quanto a Lévi-Strauss... tanto ele quanto sua mulher... --sua mulher de então... ahn:: Dina Dreyfus-- ligaram-se mais intimamente a Mário na época do Departamento de Cultura quando fundaram juntos a Sociedade de Etnografia e Folclore" 
+        intervals [350]:
+            xmin = 2316.4794563501255 
+            xmax = 2316.805231552312 
+            text = "..." 
+        intervals [351]:
+            xmin = 2316.805231552312 
+            xmax = 2319.062825361748 
+            text = "onde creio que ambos deram cursos" 
+        intervals [352]:
+            xmin = 2319.062825361748 
+            xmax = 2319.596530110105 
+            text = "..." 
+        intervals [353]:
+            xmin = 2319.596530110105 
+            xmax = 2339.841319584096 
+            text = "é muito proVÁvel como já observou Telê Ancona Lopez no seu livro... que Lévi-Strauss tenha influído na nova orientação das leituras de Mário de Andrade... tendo-o posto em contacto... com o Manual de Antropologia Cultural do Robert Lowie... e o Tratado de Etnologia Cultural de Montandon... que ele nos obriGAva a ler nos cursos que dava na faculdade" 
+        intervals [354]:
+            xmin = 2339.841319584096 
+            xmax = 2340.3679751770405 
+            text = "..." 
+        intervals [355]:
+            xmin = 2340.3679751770405 
+            xmax = 2348.3884861887664 
+            text = "mas do ponto de vista da visão da ARte Mocquet e Lévi-Strauss representam posições... e interesses MUIto diversos dos interesses de Mário" 
+        intervals [356]:
+            xmin = 2348.3884861887664 
+            xmax = 2348.88 
+            text = "..." 
+        intervals [357]:
+            xmin = 2348.88 
+            xmax = 2359.5009307424602 
+            text = "a breve referência... às suas ideias... creio que foi suficiente para mostrar... QUE... a meditação de ambos refletia a posição de uma estética racional" 
+        intervals [358]:
+            xmin = 2359.5009307424602 
+            xmax = 2360.892376394698 
+            text = "..." 
+        intervals [359]:
+            xmin = 2360.892376394698 
+            xmax = 2363.429695189198 
+            text = "diríamos mesmo de uma estética CLAssiCIsta" 
+        intervals [360]:
+            xmin = 2363.429695189198 
+            xmax = 2363.8132803307753 
+            text = "..." 
+        intervals [361]:
+            xmin = 2363.8132803307753 
+            xmax = 2365.2241985517103 
+            text = "classicista a seu modo" 
+        intervals [362]:
+            xmin = 2365.2241985517103 
+            xmax = 2365.5707931727534 
+            text = "..." 
+        intervals [363]:
+            xmin = 2365.5707931727534 
+            xmax = 2398.9606843879246 
+            text = "de uma estética nostálgica... dos momentos em que a ARte havia traduzido uma relação harmoniosa do homem com a natureza... momentos em que o trabalho humano tinha se inscrito na paisagem... uma harmonia que Mocquet via na pintura holandesa do século dezessete... que via... na pintura de Corot no século dezenove... e que Lévi-Strauss mais TARDE nas entrevistas com Charbonnier... vai ver... vai divisar no século dezoito nas grandes marinhas de Joseph... Vermeer" 
+        intervals [364]:
+            xmin = 2398.9606843879246 
+            xmax = 2401.3357739099647 
+            text = "..." 
+        intervals [365]:
+            xmin = 2401.3357739099647 
+            xmax = 2435.4360235608665 
+            text = "há um trecho curioso... QUANdo Charbonnier vendo que a posição na/ durante as entrevistas da televisão vendo que Lévi-Strauss tinha uma posição nostálgica... pergunta a ele... mas SE... o senhor... ah:: re/ éh rejeita de alguma forma a pintura abstrata... e só vai até a pintura cubista --ele é um pouquinho mais... mais:: adiantado que Mocquet que ficava... quando muito em Van Gogh--... se você vai até a pintura Cubi/ ahn... Cubi/ com Cubi/ e rejeita a pintura... hãm::: abstrata... como é que você veria o fuTUro da pintura" 
+        intervals [366]:
+            xmin = 2435.4360235608665 
+            xmax = 2435.9459317026376 
+            text = "..." 
+        intervals [367]:
+            xmin = 2435.9459317026376 
+            xmax = 2453.6973205715763 
+            text = "ele disse numa pintura minuciosamente figuraTIva... mas onde o artista em vez de se colocar diante de uma paisagem e dar daí mesmo uma visão mais ou menos transposta e interpreTAda... tentaria faz/ fe/ fabricar SUperpaisagens... como aliás a pintura chiNEsa... nunca deixou de fazer" 
+        intervals [368]:
+            xmin = 2453.6973205715763 
+            xmax = 2454.3384619808903 
+            text = "..." 
+        intervals [369]:
+            xmin = 2454.3384619808903 
+            xmax = 2458.2315120707444 
+            text = "seria antes nessa direção que eu veria surgir uma solução da contradição atual" 
+        intervals [370]:
+            xmin = 2458.2315120707444 
+            xmax = 2458.889697089823 
+            text = "..." 
+        intervals [371]:
+            xmin = 2458.889697089823 
+            xmax = 2470.8031452616583 
+            text = "numa espécie de síntese da representa-tividade... que de novo poderia ser levada a um ponto extremo... e de não... e de não representatividade que jogaria no plano da livre com-binação dos elementos" 
+        intervals [372]:
+            xmin = 2470.8031452616583 
+            xmax = 2471.3410986572044 
+            text = "..." 
+        intervals [373]:
+            xmin = 2471.3410986572044 
+            xmax = 2499.0617986710354 
+            text = "de uma pintura... como os GRANdes quadros de Joseph Vermeer... que representa no século dezoito... --que ainda me emociona muito... porque representam... ahn porque me fazem reviver essa relação entre o mar e a terra... que existia nessa época... nessa instalação humana... que não destruía mas antes ajeitava... as relações naturais da geola/ geologia da geo/ da geografia da vegetação" 
+        intervals [374]:
+            xmin = 2499.0617986710354 
+            xmax = 2499.5130573344427 
+            text = "..." 
+        intervals [375]:
+            xmin = 2499.5130573344427 
+            xmax = 2504.693200299129 
+            text = "enfim... que representa um mundo de sonho... onde podemos encontrar refúgio" 
+        intervals [376]:
+            xmin = 2504.693200299129 
+            xmax = 2509.36290314277 
+            text = "..." 
+        intervals [377]:
+            xmin = 2509.36290314277 
+            xmax = 2529.7997035448752 
+            text = "--é uma posição porTANto... QUE... eLEge... ahn::... uma::: es/ que elege::... um momento da pintura como preferencial... e que manifesta... uma:: estética... ahn:: represe/ da representação... e uma estética... do equilíbrio harmonioso" 
+        intervals [378]:
+            xmin = 2529.7997035448752 
+            xmax = 2535.8866048221685 
+            text = "..." 
+        intervals [379]:
+            xmin = 2535.8866048221685 
+            xmax = 2539.8426111494186 
+            text = "o caso de Roger Bastide é diferente e este está muito mais ligado a Mário" 
+        intervals [380]:
+            xmin = 2539.8426111494186 
+            xmax = 2548.8154177191595 
+            text = "há com ele uma profunda identidade de interesses... uma... --como vimos-- e uma::... identificação e uma:: visão parecida do fenômeno artístico" 
+        intervals [381]:
+            xmin = 2548.8154177191595 
+            xmax = 2555.7596037699063 
+            text = "..." 
+        intervals [382]:
+            xmin = 2555.7596037699063 
+            xmax = 2557.3424100555426 
+            text = "--tenho medo de fazer confusão aqui--" 
+        intervals [383]:
+            xmin = 2557.3424100555426 
+            xmax = 2559.5974874452104 
+            text = "..." 
+        intervals [384]:
+            xmin = 2559.5974874452104 
+            xmax = 2564.2468973032846 
+            text = "inclusive os próprios enfoques de que ele se serve são parecidos com os (demais)" 
+        intervals [385]:
+            xmin = 2564.2468973032846 
+            xmax = 2565.0268377586017 
+            text = "..." 
+        intervals [386]:
+            xmin = 2565.0268377586017 
+            xmax = 2567.9777969845763 
+            text = "os enfoques... e os pontos de referência " 
+        intervals [387]:
+            xmin = 2567.9777969845763 
+            xmax = 2569.967107147742 
+            text = "os pontos de referência é a arte popular" 
+        intervals [388]:
+            xmin = 2569.967107147742 
+            xmax = 2571.241527163841 
+            text = "..." 
+        intervals [389]:
+            xmin = 2571.241527163841 
+            xmax = 2575.6092141759627 
+            text = "os enfoques a utilização do enfoque psicanalítico e da antropologia" 
+        intervals [390]:
+            xmin = 2575.6092141759627 
+            xmax = 2580.730102711334 
+            text = "..." 
+        intervals [391]:
+            xmin = 2580.730102711334 
+            xmax = 2599.418893853391 
+            text = "e a::::... a preocupação com as manifestações NÃO... da racionalidade mas as manifestações... à margem da racionalidade da Irracionalidade as manifestações das religiões... Afrobrasileiras... e do misticismo" 
+        intervals [392]:
+            xmin = 2599.418893853391 
+            xmax = 2600.113059261269 
+            text = "..." 
+        intervals [393]:
+            xmin = 2600.113059261269 
+            xmax = 2613.580609672973 
+            text = "portanto... ele está... do lado NÃO da Europa Ocidental... mas do lado... das... da diferença daquilo que nós vamos chamar da diferença em relação à Europa" 
+        intervals [394]:
+            xmin = 2613.580609672973 
+            xmax = 2615.343114458991 
+            text = "..." 
+        intervals [395]:
+            xmin = 2615.343114458991 
+            xmax = 2621.753475268874 
+            text = "apenas para passar para Mário... vamos passar através::... de um ponto de relação ou de um ponto de discordância" 
+        intervals [396]:
+            xmin = 2621.753475268874 
+            xmax = 2622.1953755698005 
+            text = "..." 
+        intervals [397]:
+            xmin = 2622.1953755698005 
+            xmax = 2629.0379453517226 
+            text = "é curioso lembrar que apesar de todas essas identidades e pontos de vista... Roger Bastide teve com Mário uma polê::mica" 
+        intervals [398]:
+            xmin = 2629.0379453517226 
+            xmax = 2629.6930474275086 
+            text = "..." 
+        intervals [399]:
+            xmin = 2629.6930474275086 
+            xmax = 2632.4981280360366 
+            text = "a polêmica é que vai... nos servir de fonte" 
+        intervals [400]:
+            xmin = 2632.4981280360366 
+            xmax = 2633.7766518919652 
+            text = "..." 
+        intervals [401]:
+            xmin = 2633.7766518919652 
+            xmax = 2636.4351488991633 
+            text = "a polêmica em relação à arte POpular" 
+        intervals [402]:
+            xmin = 2636.4351488991633 
+            xmax = 2636.62723682438 
+            text = "..." 
+        intervals [403]:
+            xmin = 2636.62723682438 
+            xmax = 2645.593489669773 
+            text = "ela se manifestou... a partir::... da:: de:: de:: de algumas afirmações de Mário... sobre a moDInha
+" 
+        intervals [404]:
+            xmin = 2645.593489669773 
+            xmax = 2647.0286936809807 
+            text = "..." 
+        intervals [405]:
+            xmin = 2647.0286936809807 
+            xmax = 2665.8635628276525 
+            text = "éh::... Mário ah:: estudando a modinha... já nos no na introdução que ele ti/ fi/ tinha feito a modinhas imperiAis... e... através de todos os estudos que ele estava fazendo sobre o folklore adotava uma posição muito ROMÂNtica em face da arte popular" 
+        intervals [406]:
+            xmin = 2665.8635628276525 
+            xmax = 2666.246163880201 
+            text = "..." 
+        intervals [407]:
+            xmin = 2666.246163880201 
+            xmax = 2670.7362844213244 
+            text = "isto é... de que o povo é criador de que o povo é criador original" 
+        intervals [408]:
+            xmin = 2670.7362844213244 
+            xmax = 2671.589790590839 
+            text = "..." 
+        intervals [409]:
+            xmin = 2671.589790590839 
+            xmax = 2690.076614312523 
+            text = "Roger Bastide lembra Mário... que... ahn::... que ahn que para Mário portanto o povo é criador e são os artistas eruditos... que para renovar... a inspiração... devem procurar... novo alento nas fontes populares" 
+        intervals [410]:
+            xmin = 2690.076614312523 
+            xmax = 2690.3486571742164 
+            text = "..." 
+        intervals [411]:
+            xmin = 2690.3486571742164 
+            xmax = 2704.764812796353 
+            text = "este é uma esta é uma das afirmações básicas de Mário de Andrade... e esta afirmação é uma afirmação... do ROmantismo alemão... é uma afirmação que ele foi procurar inclusive na concepção de arte popular dos irmãos Grimm" 
+        intervals [412]:
+            xmin = 2704.764812796353 
+            xmax = 2705.3070986093276 
+            text = "..." 
+        intervals [413]:
+            xmin = 2705.3070986093276 
+            xmax = 2709.372221298846 
+            text = "essa é uma afirmação básica... percorre toda a sua estética" 
+        intervals [414]:
+            xmin = 2709.372221298846 
+            xmax = 2709.882241635657 
+            text = "... " 
+        intervals [415]:
+            xmin = 2709.882241635657 
+            xmax = 2740.9193495736718 
+            text = "Roger Bastide diante dessa afirmação de Mário... lembra... esposando a posição de Charles Lalo... que as manifestações artísticas que nós encontramos no povo e que tomamos como de origem popular... não são na realidade criações do povo são na verdade antigas formas de arte eruDIta... que caíram em desuso isto é a arte erudita desnivelada... e que foram conservadas... no povo... nas regiões muito afastadas... da civilização" 
+        intervals [416]:
+            xmin = 2740.9193495736718 
+            xmax = 2741.7129984197536 
+            text = "..." 
+        intervals [417]:
+            xmin = 2741.7129984197536 
+            xmax = 2758.426094815892 
+            text = "então o movimento seria um movimento muito mais complexo... e essas formas são conservadas no povo mas eles FOram formas eruditas que decaíram... e depois os arTIStas... eruditos se inspiram nessas formas... e NOvamente elevam essas formas até a... o nível erudito" 
+        intervals [418]:
+            xmin = 2758.426094815892 
+            xmax = 2758.610875095088 
+            text = "..." 
+        intervals [419]:
+            xmin = 2758.610875095088 
+            xmax = 2770.8710080461324 
+            text = "então há um movimento constante... de desnivelamento... E... de... de novamen::te... inspiração... e::... e:: projeção... do popular no erudito" 
+        intervals [420]:
+            xmin = 2770.8710080461324 
+            xmax = 2773.8418617251373 
+            text = "..." 
+        intervals [421]:
+            xmin = 2773.8418617251373 
+            xmax = 2779.8013817304673 
+            text = "se essa polêmica a análise dessa polêmica nã/ não nos levasse muito longe era o caso de analisar" 
+        intervals [422]:
+            xmin = 2779.8013817304673 
+            xmax = 2780.0805833347376 
+            text = "..." 
+        intervals [423]:
+            xmin = 2780.0805833347376 
+            xmax = 2816.5386646951483 
+            text = "mas eu apenas lembro ao... aos senhores... a importância dessa polêmica... inclusive porque ela é um exemplo muito curioso de uma polêmica... ah estabelecida num ALto nível intelectual... depois os argumentos que Mário dá em dois artigos sobretudo sobre a modinha e Lalo... ah:: são... extremamente comprovantes e são arti/ são são ele ele se serve de argumentos técnicos sobre a música da música ah:: mas ah:: são exemplos hum::... muito BOns de uma polêmica em alto nível em que os... POlemizadores... continuam se respeitando mutuamente" 
+        intervals [424]:
+            xmin = 2816.5386646951483 
+            xmax = 2819.1312046028006 
+            text = "..." 
+        intervals [425]:
+            xmin = 2819.1312046028006 
+            xmax = 2825.577842256462 
+            text = "tendo... feito essa pequena introdução... éh eu gostaria agora de tomar outro caminho" 
+        intervals [426]:
+            xmin = 2825.577842256462 
+            xmax = 2826.1020579049305 
+            text = "..." 
+        intervals [427]:
+            xmin = 2826.1020579049305 
+            xmax = 2828.9288863069105 
+            text = "o que eu gostaria de mostrar no tempo em que ainda me resta" 
+        intervals [428]:
+            xmin = 2828.9288863069105 
+            xmax = 2829.16 
+            text = "..." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "LA" 
+        xmin = 0 
+        xmax = 2829.16 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 251.99044060917757 
+            text = "" 
+        intervals [2]:
+            xmin = 251.99044060917757 
+            xmax = 252.6731528143592 
+            text = "[já houve" 
+        intervals [3]:
+            xmin = 252.6731528143592 
+            xmax = 2163.2313163891085 
+            text = "" 
+        intervals [4]:
+            xmin = 2163.2313163891085 
+            xmax = 2163.7408525107326 
+            text = "Carmo" 
+        intervals [5]:
+            xmin = 2163.7408525107326 
+            xmax = 2166.1672149946567 
+            text = "" 
+        intervals [6]:
+            xmin = 2166.1672149946567 
+            xmax = 2166.8385086152093 
+            text = "(Caxias)" 
+        intervals [7]:
+            xmin = 2166.8385086152093 
+            xmax = 2829.16 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "com" 
+        xmin = 0 
+        xmax = 2829.16 
+        intervals: size = 88 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.798834567286582 
+            text = "" 
+        intervals [2]:
+            xmin = 10.798834567286582 
+            xmax = 11.129474301854719 
+            text = "((ruído))" 
+        intervals [3]:
+            xmin = 11.129474301854719 
+            xmax = 27.821772597886536 
+            text = "" 
+        intervals [4]:
+            xmin = 27.821772597886536 
+            xmax = 28.345115340961243 
+            text = "((ruído))" 
+        intervals [5]:
+            xmin = 28.345115340961243 
+            xmax = 258.2783299412196 
+            text = "" 
+        intervals [6]:
+            xmin = 258.2783299412196 
+            xmax = 258.6179881541625 
+            text = "((ruído))" 
+        intervals [7]:
+            xmin = 258.6179881541625 
+            xmax = 260.7062737347916 
+            text = "" 
+        intervals [8]:
+            xmin = 260.7062737347916 
+            xmax = 260.88833413596836 
+            text = "((ruído))" 
+        intervals [9]:
+            xmin = 260.88833413596836 
+            xmax = 372.02881955940484 
+            text = "" 
+        intervals [10]:
+            xmin = 372.02881955940484 
+            xmax = 372.29046506288114 
+            text = "((LA pigarreou))" 
+        intervals [11]:
+            xmin = 372.29046506288114 
+            xmax = 407.00460270931325 
+            text = "" 
+        intervals [12]:
+            xmin = 407.00460270931325 
+            xmax = 407.3005148521892 
+            text = "((ruído))" 
+        intervals [13]:
+            xmin = 407.3005148521892 
+            xmax = 462.99809104117776 
+            text = "" 
+        intervals [14]:
+            xmin = 462.99809104117776 
+            xmax = 463.3384526629857 
+            text = "((ruído))" 
+        intervals [15]:
+            xmin = 463.3384526629857 
+            xmax = 472.1576102552937 
+            text = "" 
+        intervals [16]:
+            xmin = 472.1576102552937 
+            xmax = 472.2948824459032 
+            text = "((ruído))" 
+        intervals [17]:
+            xmin = 472.2948824459032 
+            xmax = 508.76058305801894 
+            text = "" 
+        intervals [18]:
+            xmin = 508.76058305801894 
+            xmax = 509.0242136826293 
+            text = "((L1 pigarreou))" 
+        intervals [19]:
+            xmin = 509.0242136826293 
+            xmax = 542.3186197483265 
+            text = "" 
+        intervals [20]:
+            xmin = 542.3186197483265 
+            xmax = 542.9416075059793 
+            text = "((ruído))" 
+        intervals [21]:
+            xmin = 542.9416075059793 
+            xmax = 561.9379400753744 
+            text = "" 
+        intervals [22]:
+            xmin = 561.9379400753744 
+            xmax = 562.4724261891616 
+            text = "((LA tossiu))" 
+        intervals [23]:
+            xmin = 562.4724261891616 
+            xmax = 603.9821434735945 
+            text = "" 
+        intervals [24]:
+            xmin = 603.9821434735945 
+            xmax = 604.7034480835409 
+            text = "((L1 pigarreou))" 
+        intervals [25]:
+            xmin = 604.7034480835409 
+            xmax = 606.4418700811802 
+            text = "" 
+        intervals [26]:
+            xmin = 606.4418700811802 
+            xmax = 606.6932550617647 
+            text = "((ruído))" 
+        intervals [27]:
+            xmin = 606.6932550617647 
+            xmax = 607.3153263696516 
+            text = "" 
+        intervals [28]:
+            xmin = 607.3153263696516 
+            xmax = 607.8521824298828 
+            text = "((ruído))" 
+        intervals [29]:
+            xmin = 607.8521824298828 
+            xmax = 638.6373752592378 
+            text = "" 
+        intervals [30]:
+            xmin = 638.6373752592378 
+            xmax = 638.8972417284316 
+            text = "((L1 pigarreou))" 
+        intervals [31]:
+            xmin = 638.8972417284316 
+            xmax = 1079.357518836969 
+            text = "" 
+        intervals [32]:
+            xmin = 1079.357518836969 
+            xmax = 1079.7810845311035 
+            text = "((LA tossiu))" 
+        intervals [33]:
+            xmin = 1079.7810845311035 
+            xmax = 1268.363009297021 
+            text = "" 
+        intervals [34]:
+            xmin = 1268.363009297021 
+            xmax = 1268.9081377586488 
+            text = "((ruído))" 
+        intervals [35]:
+            xmin = 1268.9081377586488 
+            xmax = 1397.1299057116005 
+            text = "" 
+        intervals [36]:
+            xmin = 1397.1299057116005 
+            xmax = 1397.6031579873659 
+            text = "((L1 pigarreou))" 
+        intervals [37]:
+            xmin = 1397.6031579873659 
+            xmax = 1400.511345047729 
+            text = "" 
+        intervals [38]:
+            xmin = 1400.511345047729 
+            xmax = 1401.2496078410204 
+            text = "((ruído))" 
+        intervals [39]:
+            xmin = 1401.2496078410204 
+            xmax = 1402.7989995902135 
+            text = "" 
+        intervals [40]:
+            xmin = 1402.7989995902135 
+            xmax = 1403.230494312235 
+            text = "((L1 pigarreou))" 
+        intervals [41]:
+            xmin = 1403.230494312235 
+            xmax = 1405.2981320187328 
+            text = "" 
+        intervals [42]:
+            xmin = 1405.2981320187328 
+            xmax = 1405.7257683825533 
+            text = "((ruído))" 
+        intervals [43]:
+            xmin = 1405.7257683825533 
+            xmax = 1438.5685199982247 
+            text = "" 
+        intervals [44]:
+            xmin = 1438.5685199982247 
+            xmax = 1438.8463527310348 
+            text = "((L1 pigarreou))" 
+        intervals [45]:
+            xmin = 1438.8463527310348 
+            xmax = 1456.7555973579638 
+            text = "" 
+        intervals [46]:
+            xmin = 1456.7555973579638 
+            xmax = 1460.8434498783088 
+            text = "((ruídos))" 
+        intervals [47]:
+            xmin = 1460.8434498783088 
+            xmax = 1464.5879689643386 
+            text = "" 
+        intervals [48]:
+            xmin = 1464.5879689643386 
+            xmax = 2032.4346117617874 
+            text = "" 
+        intervals [49]:
+            xmin = 2032.4346117617874 
+            xmax = 2032.8655221628464 
+            text = "((L1 tossiu))" 
+        intervals [50]:
+            xmin = 2032.8655221628464 
+            xmax = 2035.6577237454803 
+            text = "" 
+        intervals [51]:
+            xmin = 2035.6577237454803 
+            xmax = 2037.0269294844773 
+            text = "((L1 tossiu))" 
+        intervals [52]:
+            xmin = 2037.0269294844773 
+            xmax = 2044.0922484245675 
+            text = "" 
+        intervals [53]:
+            xmin = 2044.0922484245675 
+            xmax = 2044.477213618198 
+            text = "((L1 pigarreou))" 
+        intervals [54]:
+            xmin = 2044.477213618198 
+            xmax = 2047.1492472649884 
+            text = "" 
+        intervals [55]:
+            xmin = 2047.1492472649884 
+            xmax = 2047.325249481244 
+            text = "((L1 tossiu))" 
+        intervals [56]:
+            xmin = 2047.325249481244 
+            xmax = 2169.8725102813128 
+            text = "" 
+        intervals [57]:
+            xmin = 2169.8725102813128 
+            xmax = 2170.427745482952 
+            text = "((LA pigarreou))" 
+        intervals [58]:
+            xmin = 2170.427745482952 
+            xmax = 2216.438625353566 
+            text = "" 
+        intervals [59]:
+            xmin = 2216.438625353566 
+            xmax = 2217.115184701308 
+            text = "((LA espirrou))" 
+        intervals [60]:
+            xmin = 2217.115184701308 
+            xmax = 2219.3418385606246 
+            text = "" 
+        intervals [61]:
+            xmin = 2219.3418385606246 
+            xmax = 2219.7344828874734 
+            text = "((LA espirrou))" 
+        intervals [62]:
+            xmin = 2219.7344828874734 
+            xmax = 2237.217837831429 
+            text = "" 
+        intervals [63]:
+            xmin = 2237.217837831429 
+            xmax = 2239.16 
+            text = "((ruídos))" 
+        intervals [64]:
+            xmin = 2239.16 
+            xmax = 2239.3596934485117 
+            text = "" 
+        intervals [65]:
+            xmin = 2239.3596934485117 
+            xmax = 2239.6522402819173 
+            text = "((L1 pigarreou))" 
+        intervals [66]:
+            xmin = 2239.6522402819173 
+            xmax = 2268.7856351479586 
+            text = "" 
+        intervals [67]:
+            xmin = 2268.7856351479586 
+            xmax = 2269.18543943664 
+            text = "((L1 tossiu))" 
+        intervals [68]:
+            xmin = 2269.18543943664 
+            xmax = 2272.33517094109 
+            text = "" 
+        intervals [69]:
+            xmin = 2272.33517094109 
+            xmax = 2273.40363904371 
+            text = "((L1 tossiu))" 
+        intervals [70]:
+            xmin = 2273.40363904371 
+            xmax = 2478.3854012481656 
+            text = "" 
+        intervals [71]:
+            xmin = 2478.3854012481656 
+            xmax = 2478.659845283829 
+            text = "((ruído))" 
+        intervals [72]:
+            xmin = 2478.659845283829 
+            xmax = 2548.8154177191595 
+            text = "" 
+        intervals [73]:
+            xmin = 2548.8154177191595 
+            xmax = 2555.7596037699063 
+            text = "((ruídos))" 
+        intervals [74]:
+            xmin = 2555.7596037699063 
+            xmax = 2559.5974874452104 
+            text = "" 
+        intervals [75]:
+            xmin = 2559.5974874452104 
+            xmax = 2575.6092141759627 
+            text = "((áudio com falhas))" 
+        intervals [76]:
+            xmin = 2575.6092141759627 
+            xmax = 2613.580609672973 
+            text = "" 
+        intervals [77]:
+            xmin = 2613.580609672973 
+            xmax = 2614.0778148117483 
+            text = "((pigarreou))" 
+        intervals [78]:
+            xmin = 2614.0778148117483 
+            xmax = 2617.0319703147125 
+            text = "" 
+        intervals [79]:
+            xmin = 2617.0319703147125 
+            xmax = 2618.151476867402 
+            text = "((trecho com falhas no áudio))" 
+        intervals [80]:
+            xmin = 2618.151476867402 
+            xmax = 2647.3389349038357 
+            text = "" 
+        intervals [81]:
+            xmin = 2647.3389349038357 
+            xmax = 2650.2758352328065 
+            text = "((falhas no áudio))" 
+        intervals [82]:
+            xmin = 2650.2758352328065 
+            xmax = 2650.995026333992 
+            text = "" 
+        intervals [83]:
+            xmin = 2650.995026333992 
+            xmax = 2653.699514621828 
+            text = "((falhas no áudio))" 
+        intervals [84]:
+            xmin = 2653.699514621828 
+            xmax = 2661.0478388667148 
+            text = "" 
+        intervals [85]:
+            xmin = 2661.0478388667148 
+            xmax = 2661.7067169771162 
+            text = "((palavra estrangeira))" 
+        intervals [86]:
+            xmin = 2661.7067169771162 
+            xmax = 2801.8219572974067 
+            text = "" 
+        intervals [87]:
+            xmin = 2801.8219572974067 
+            xmax = 2802.19266947657 
+            text = "((LA tossiu))" 
+        intervals [88]:
+            xmin = 2802.19266947657 
+            xmax = 2829.16 
+            text = "" 

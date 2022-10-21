@@ -1,0 +1,74 @@
+['SP_DID_242.TextGrid', 'SP_D2_255.TextGrid', 'SP_DID_235.TextGrid', 'SP_EF_156.TextGrid', 'SP_EF_153.TextGrid', 'SP_D2_360.TextGrid']
+
+Arquivo: arquivos/TB/SP_DID_242.TextGrid
+Tiers: ['TB-doc1', 'TB-l1', 'com']
+Tempo médio dos segmentos: 1.7048453097597507
+Tempo máximo dos segmentos: 6.388873066713188
+Tempo mínimo dos segmentos: 0.18412209256007372
+
+Tempo médio das pausas: 7.250634130216575
+Tempo máximo das pausas: 154.74951986361748
+Tempo mínimo das pausas: 0.07579262007220677
+
+------------------------------------------
+
+Arquivo: arquivos/TB/SP_D2_255.TextGrid
+Tiers: ['TB-doc1', 'TB-doc2', 'TB-l1', 'TB-l2', 'com']
+Tempo médio dos segmentos: 2.115493486318435
+Tempo máximo dos segmentos: 6.238069311502841
+Tempo mínimo dos segmentos: 0.09940504209251344
+
+Tempo médio das pausas: 30.244626430171433
+Tempo máximo das pausas: 685.5334465920837
+Tempo mínimo das pausas: 0.061841525961881416
+
+------------------------------------------
+
+Arquivo: arquivos/TB/SP_DID_235.TextGrid
+Tiers: ['TB-doc1', 'TB-l1', 'LA', 'com']
+Tempo médio dos segmentos: 2.0243319917170144
+Tempo máximo dos segmentos: 7.419621060641703
+Tempo mínimo dos segmentos: 0.17334138989576786
+
+Tempo médio das pausas: 12.327104547320284
+Tempo máximo das pausas: 1407.8806719157992
+Tempo mínimo das pausas: 0.004823747246567629
+
+------------------------------------------
+
+Arquivo: arquivos/TB/SP_EF_156.TextGrid
+Tiers: ['TB-l1', 'LA', 'com']
+Tempo médio dos segmentos: 3.404833491244222
+Tempo máximo dos segmentos: 12.456803824341247
+Tempo mínimo dos segmentos: 0.5095361216240235
+
+Tempo médio das pausas: 1.187556012383276
+Tempo máximo das pausas: 6.944186050746794
+Tempo mínimo das pausas: 0.0036521399820255538
+
+------------------------------------------
+
+Arquivo: arquivos/TB/SP_EF_153.TextGrid
+Tiers: ['TB-l1', 'com']
+Tempo médio dos segmentos: 2.5743631541601975
+Tempo máximo dos segmentos: 5.78906046104521
+Tempo mínimo dos segmentos: 1.0002417298173896
+
+Tempo médio das pausas: 1.1142499859910833
+Tempo máximo das pausas: 9.041637718147285
+Tempo mínimo das pausas: 0.034529615675925995
+
+------------------------------------------
+
+Arquivo: arquivos/TB/SP_D2_360.TextGrid
+Tiers: ['TB-doc1', 'TB-l1', 'TB-l2', 'com']
+Tempo médio dos segmentos: 1.1257236345616428
+Tempo máximo dos segmentos: 5.864152740924283
+Tempo mínimo dos segmentos: 0.1729341050732458
+
+Tempo médio das pausas: 10.2718922060787
+Tempo máximo das pausas: 493.6461684570137
+Tempo mínimo das pausas: 0.08305170955388157
+
+------------------------------------------
+
