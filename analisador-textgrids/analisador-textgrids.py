@@ -9,8 +9,8 @@ from listas.pausasPreenchidas import PausasPreenchidas
 # python myscript.py > myoutput.txt
 
 # Pasta com TextGrids
-dir_path = r'/home/nicholasp/Documentos/tcc/git/speech-analysis/analisador-textgrids/arquivos/TB'
-# dir_path = sys.argv[1]
+# dir_path = r'/home/nicholasp/Documentos/tcc/git/speech-analysis/analisador-textgrids/arquivos/TB'
+dir_path = sys.argv[1]
 
 arquivosLista = []
 pausasPreenchidas = [item.name for item in PausasPreenchidas]
@@ -84,4 +84,5 @@ for arquivo in arquivosLista:
 print('Média de todos os arquvios:')
 print(f'Tempo médio de segmento: {Average(durationListTotal)}')
 print(f'Tempo médio de pausa: {Average(pausaListTotal)}')
-print(f'Média de palavras por segmento (arredondando): {round(Average(palavrasList))}')
+print(f'Média de palavras por segmento (arredondando): {round(Average(palavrasListTotal))}')
+print(f'{palavrasListTotal}')
