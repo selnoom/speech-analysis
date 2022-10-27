@@ -6,7 +6,7 @@ from os.path import join
 from praatio import textgrid
 from listas.pausasPreenchidas import PausasPreenchidas
 
-# python myscript.py > myoutput.txt
+# python myscript.py 'diretório' > myoutput.txt
 
 # Pasta com TextGrids
 # dir_path = r'/home/nicholasp/Documentos/tcc/git/speech-analysis/analisador-textgrids/arquivos/TB'
@@ -14,6 +14,7 @@ dir_path = sys.argv[1]
 
 arquivosLista = []
 pausasPreenchidas = [item.name for item in PausasPreenchidas]
+
 durationListTotal = []
 pausaListTotal = []
 palavrasListTotal= []
@@ -25,6 +26,23 @@ print(f'{arquivosLista}\n')
 
 def Average(list):
     return sum(list) / len(list)
+
+def IsComment(texto):
+    finalTexto = len(texto) - 1
+    if texto[0] == '(' and texto[finalTexto] == ')':
+        return True
+    else:
+         return False
+
+def CleanText(text):
+    listedText = text.replace('...', '').replace('::', ' ').split()
+    for word in listedText:
+        if IsComment(word):
+            listedText.remove(word)
+    if len(listedText) > 0:
+        return listedText
+    return 
+
 
 for arquivo in arquivosLista:
     inputFN = join(dir_path, arquivo)
@@ -47,12 +65,12 @@ for arquivo in arquivosLista:
 
     for tierDict in tierList:
         for start, stop, label in tierDict.entryList:
-            if '...' not in label and label not in pausasPreenchidas:
-                durationList.append(stop - start)
+            if label not in pausasPreenchidas and not IsComment(label):
                 if (re.search('[a-zA-Z]', label)):
-                    palavrasList.append(len(label.split()))
-            elif label == '...':
-                pausaList.append(stop - start)
+                    durationList.append(stop - start)
+                    palavrasList.append(len(CleanText(label)))
+                elif label == '...':
+                    pausaList.append(stop - start)
     durationListTotal += durationList
     pausaListTotal += pausaList
     palavrasListTotal += palavrasList
@@ -77,12 +95,18 @@ for arquivo in arquivosLista:
     print(f'Média das palavras: {palavrasMedia}')
     print(f'Máximo das palavras: {palavrasMax}')
     print(f'Mínimo das palavras: {palavrasMin}')
-    print(f'{palavrasList}\n')
+    # print(f'{palavrasList}\n')
 
     print('------------------------------------------\n')
 
 print('Média de todos os arquvios:')
 print(f'Tempo médio de segmento: {Average(durationListTotal)}')
+print(f'Tempo máximo de segmento: {max(durationListTotal)}')
+print(f'Tempo mínimo de segmento: {min(durationListTotal)}\n')
 print(f'Tempo médio de pausa: {Average(pausaListTotal)}')
+print(f'Tempo máximo de pausa: {max(pausaListTotal)}')
+print(f'Tempo mínimo de pausa: {min(pausaListTotal)}\n')
 print(f'Média de palavras por segmento (arredondando): {round(Average(palavrasListTotal))}')
-print(f'{palavrasListTotal}')
+print(f'Máximo de palavras nos segmentos: {max(palavrasListTotal)}')
+print(f'Mínimo de palavras nos segmentos: {min(palavrasListTotal)}')
+# print(f'{palavrasListTotal}')
